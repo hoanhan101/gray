@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Array and string manipulation
+title: Interview Cake's Array and string manipulation
 summary: Merge meeting times, Reverse string in place, Reverse words, Merge sorted arrays
 tags: [algorithm]
 ---
