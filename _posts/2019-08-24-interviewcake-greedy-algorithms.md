@@ -2,7 +2,7 @@
 layout: post
 title: Interview Cake's Greedy algorithms
 summary: Apple stocks, Highest product of three, Product of all other numbers, In-place shuffle
-tags: [algorithm]
+tags: [interviewcake, algorithm]
 ---
 
 ### 1. Given a list of stock prices (integer) in chronological order, return the max profit from buying at earlier time and selling at later time.

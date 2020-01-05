@@ -2,7 +2,7 @@
 layout: post
 title: Interview Cake's Queues and Stacks
 summary: Largest stack, A queue with two stacks, Parenthesis matching, Bracket validator
-tags: [algorithm]
+tags: [interviewcake, algorithm]
 ---
 
 ### 1. Implement a stack with a method getMax() that returns the largest element in the stack in O(1) time.

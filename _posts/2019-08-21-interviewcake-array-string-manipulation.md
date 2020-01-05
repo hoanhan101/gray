@@ -2,7 +2,7 @@
 layout: post
 title: Interview Cake's Array and string manipulation
 summary: Merge meeting times, Reverse string in place, Reverse words, Merge sorted arrays
-tags: [algorithm]
+tags: [interviewcake, algorithm]
 ---
 
 ### 1. Given a list of unsorted, independent meetings, returns a list of a merged one.

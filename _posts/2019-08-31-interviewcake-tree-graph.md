@@ -2,7 +2,7 @@
 layout: post
 title: Interview Cake's Trees and Graphs
 summary: Balanced binary tree, Binary search tree checker, 2nd largest item in a binary search tree, Graph coloring
-tags: [algorithm]
+tags: [interviewcake, algorithm]
 ---
 
 ### 1. Given a binary tree, determine if it is "superbalanced" - the difference between the depths of any two leaf nodes is no greater than 1.

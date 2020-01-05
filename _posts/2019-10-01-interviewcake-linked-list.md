@@ -2,7 +2,7 @@
 layout: post
 title: Interview Cake's Linked Lists
 summary: Delete node, Linked list has a cycle, Reverse a linked list, Kth to last node
-tags: [algorithm]
+tags: [interviewcake, algorithm]
 ---
 
 ### 1. Delete a node from a singly-linked list, given only a pointer to that node.

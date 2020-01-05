@@ -2,7 +2,7 @@
 layout: post
 title: Interview Cake's Hashing problems
 summary: In-flight entertainment, Permutation palindrome, Word cloud data, Topscores
-tags: [algorithm]
+tags: [interviewcake, algorithm]
 ---
 
 ### 1. Given a list of movie lengths and a total flight length, determine if there exist two movies that add up to the total length.
