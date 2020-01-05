@@ -1,13 +1,13 @@
-site: Gray - Single column blog and portfolio Jekyll theme
+site: Hoanh An
 url: # url
-author: # your name
+author: Hoanh An
 author:
-  name: # your name
-  email: # your email 
+  name: Hoanh An
+  email: hoanhan101@gmai.com
   url: # url
   avatar: 
-title: Gray - Single column blog and portfolio Jekyll theme
-description: Gray - Single column blog and portfolio Jekyll theme
+title: Hoanh An
+description: Hoanh An's personal website
 logo: 
 image: 
 twitter: # twitter 
@@ -16,14 +16,12 @@ twitter:
   creator: # twitter
   card: summary
 social:
-  name: Ronalds Vilcins
+  name: Hoanh An
   links:
-    - https://twitter.com/example
-    - https://www.dribbble.com/example
-    - https://github.com/example
-    - https://codepen.io/example
+    - https://github.com/hoanhan101
+    - https://www.linkedin.com/in/hoanhan101/
   
-repository: ronv/website
+repository: hoanhan101/gray
 
 permalink: pretty
 
@@ -38,7 +36,7 @@ disqus:
   name: "your username" # required
   noscript: "Please enable JavaScript to view the comments powered by Disqus." # optional
 
-paginate:            1000
+paginate:            10
 paginate_path:       "/page:num/"
 baseurl:             ""
   
