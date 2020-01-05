@@ -19,6 +19,9 @@ writing about tech and business. If you're interested in getting updates on my
 latest insights, projects and becoming better a software engineer, you
 can join my [Insights mail list here →](https://tinyletter.com/hoanhan)
 
+Lastly, contact me at [hoanhan101@gmail.com](mailto:hoanhan101@gmail.com) in case you
+need anything.
+
 Have a wonderful day,
 
 Hoanh
