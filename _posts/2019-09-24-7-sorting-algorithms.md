@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 7 sorting algorithms
-summary: The 7 sorting algorithms that we're  going to cover are Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quicksort, Heapsort, Counting Sort.
+summary: Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quicksort, Heapsort, Counting Sort
 tags: [algorithm, sorting]
 ---
 
@@ -359,5 +359,5 @@ func countingSort(in []int, max int) []int {
 > For more coding problems, please visit
   [https://github.com/hoanhan101/algo](https://github.com/hoanhan101/algo).
 
-> If you're interested in getting updates for these content like this, consider
+> If you're interested in getting updates for such content like these, consider
   joining my [mail list here →](https://tinyletter.com/hoanhan)
