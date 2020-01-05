@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scalable Press
-summary: Efficient custom printing on demand
+summary: Efficient custom printing on demand.
 tags: [indiehackers]
 ---
 
