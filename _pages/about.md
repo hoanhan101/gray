@@ -3,21 +3,22 @@ layout: page
 title: About
 ---
 
-## Gray - Single column blog and portfolio Jekyll theme 
+## About me
 
-Minimal one-column portfolio/blog theme built for Jekyll. Theme weighs under 3kb. Perfect for your personal website, blog and portfolio.
+Hi friends,
 
-### Key features
+I'm Hoanh, a software engineer with a background in distributed systems. In my
+free time, I enjoy teaching, writing, and contributing to open-source projects.
+One of my most popular one,
+[Ultimate-Go](https://github.com/hoanhan101/ultimate-go), has 7,000+ stars on
+Github. The other one, [101+ Coding Interview
+Challenges](https://github.com/hoanhan101/algo), attracts 2,000+ subscribers.
 
-- seo optimized
-- weighs under 3kb
-- portfolio/blog/tag pages
-- AAA, 100/100 scores on Lighthouse, Gmetrix and Webpagetest
-- responsive
-- inline css
-- compressed css, html
-- sitemap
-- robots.txt
-- atom feed
-- json feed
-- http security headers
+I have been spending a lot of time working on these projects as well as
+writing about tech and business. If you're interested in getting updates on my
+latest insights, projects and becoming better a software engineer, you
+can join my [Insights mail list here →](https://tinyletter.com/hoanhan)
+
+Have a wonderful day,
+
+Hoanh
