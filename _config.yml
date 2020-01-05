@@ -27,6 +27,13 @@ repository: ronv/website
 
 permalink: pretty
 
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
 disqus:
   name: "your username" # required
   noscript: "Please enable JavaScript to view the comments powered by Disqus." # optional
