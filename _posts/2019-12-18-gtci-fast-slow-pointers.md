@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Grokking the Coding Interview's Fast and slow pointers
+title: Grokking the Coding Interview's Fast and Slow Pointers
 summary: Linked list cycle, Start of a linked list cycle, Happy number, Middle of a linked list, Palindrome linked list, Reorder a linked list
 tags: [grokking-the-coding-interview, algorithm]
 ---
