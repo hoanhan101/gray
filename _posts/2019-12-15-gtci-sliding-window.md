@@ -7,8 +7,6 @@ tags: [grokking-the-coding-interview, algorithm]
 
 ### 1. Given an array, find the average of all contiguous subarrays of size k.
 
-You may assume that each input would have exactly one solution, and you may not use the same element twice.
-
 Example:
 ```
 - Input: []int{1, 3, 2, 6, -1, 4, 1, 8, 2}, k=5
