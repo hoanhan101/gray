@@ -9,7 +9,7 @@ Hi friends,
 
 I'm Hoanh, a software engineer with a background in distributed systems. In my
 free time, I enjoy teaching, writing, and contributing to open-source projects.
-One of my most popular one,
+One of my most popular projects,
 [Ultimate-Go](https://github.com/hoanhan101/ultimate-go), has 7,000+ stars on
 Github. The other one, [101+ Coding Interview
 Challenges](https://github.com/hoanhan101/algo), attracts 2,000+ subscribers.
