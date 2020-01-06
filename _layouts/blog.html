@@ -3,19 +3,40 @@ layout: default
 title: Notes
 ---
 
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+<article role="article">
+  <h2><a href="{{ site.baseurl }}{{ post.url }}">
+    {{ post.title }}
+  </a></h2>
+  <p>{{ post.summary }}</p>
+    <time class="date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time> 
+</article>
+{% endfor %}
 
-  {% for post in site.posts %}
-  
-    <article role="article">
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a></h2>
-      <p>{{ post.summary }}</p>
-        <time class="date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time> 
+<!-- Pagination links -->
+{% if paginator.total_pages > 1 %}
+<div align="right" class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}">Prev</a>
+  {% else %}
+    <span>Prev</span>
+  {% endif %}
 
-  
-    </article>
-    
-    
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <em>{{ page }}</em>
+    {% elsif page == 1 %}
+      <a href="{{ paginator.previous_page_path | relative_url }}">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
   {% endfor %}
 
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}">Next</a>
+  {% else %}
+    <span>Next</span>
+  {% endif %}
+</div>
+{% endif %}
