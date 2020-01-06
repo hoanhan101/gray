@@ -122,6 +122,8 @@ Cost:
 - O(n) time, O(1) space.
 ```
 
+[Link to solution →](https://github.com/hoanhan101/algo/blob/master/gtci/duplicates_test.go)
+
 ### 6. Given an array containing n+1 numbers taken from the range 1 to n. One of the numbers got duplicated which also resulted in one number going missing. Find these numbers.
 
 Example:

@@ -100,6 +100,8 @@ Cost:
 - O(n) time, O(1) space.
 ```
 
+[Link to solution →](https://github.com/hoanhan101/algo/blob/master/gtci/palindrome_list_test.go)
+
 ### 6. Given the head of a singly linked list, write a function to reorder it such that nodes from the second half are inserted alternately to the nodes from the first half in reverse order.
 
 Approach:
