@@ -37,7 +37,7 @@ disqus:
   noscript: "Please enable JavaScript to view the comments powered by Disqus." # optional
 
 paginate:            10
-paginate_path:       "/page:num/"
+paginate_path:       "/page/:num/"
 baseurl:             ""
   
 compress_html:
