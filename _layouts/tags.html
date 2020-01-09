@@ -3,7 +3,7 @@ layout: default
 ---
 
 <article role="article">
-<h1>All tags</h1>
+<h1>Tags</h1>
 {% assign tags = site.tags | sort %}
 <ul>
 {% for tag in tags %}
@@ -13,20 +13,4 @@ layout: default
 
 {% endfor %}
 </ul>
-</article>
-
-
-<article role="article">
-	<h1>All posts per tag</h1>
-	{% for tag in site.tags %}
-	{% capture tag_name %}{{ tag | first }}{% endcapture %}
-<h1>#{{ tag_name }}</h1>
-    <ul>
-      {% for post in site.tags[tag_name] %}
-      
-      <li><a class="post" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-
-      {% endfor %}
-    </ul>
-    {% endfor %}
 </article>

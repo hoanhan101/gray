@@ -2,6 +2,7 @@
 layout: post
 title: LeetCode's Binary tree
 summary: Validate binary search tree, Maximum depth of binary tree, Minimum depth of binary tree, Balanced binary tree, Binary tree maximum path sum
+categories: Tech
 tags: [leetcode, algorithm]
 ---
 

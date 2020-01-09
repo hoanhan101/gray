@@ -2,6 +2,7 @@
 layout: post
 title: Interview Cake's Greedy algorithms
 summary: Apple stocks, Highest product of three, Product of all other numbers, In-place shuffle
+categories: Tech
 tags: [interviewcake, algorithm]
 ---
 

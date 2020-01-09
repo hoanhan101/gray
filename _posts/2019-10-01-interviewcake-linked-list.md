@@ -2,6 +2,7 @@
 layout: post
 title: Interview Cake's Linked Lists
 summary: Delete node, Linked list has a cycle, Reverse a linked list, Kth to last node
+categories: Tech
 tags: [interviewcake, algorithm]
 ---
 

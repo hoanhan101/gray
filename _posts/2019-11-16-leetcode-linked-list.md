@@ -3,6 +3,8 @@ layout: post
 title: LeetCode's Linked List
 summary: Merge sorted linked list, Add two numbers, Swap nodes in pairs
 tags: [leetcode, algorithm]
+categories: Tech
+categories: Tech
 ---
 
 ### 1. Merge two sorted linked lists and return it as a new list.

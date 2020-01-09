@@ -2,6 +2,7 @@
 layout: post
 title: LeetCode's Math
 summary: Reverse integer, Plus one, Palindrome number
+categories: Tech
 tags: [leetcode, algorithm]
 ---
 

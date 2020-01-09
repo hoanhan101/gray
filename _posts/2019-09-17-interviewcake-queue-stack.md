@@ -2,6 +2,7 @@
 layout: post
 title: Interview Cake's Queues and Stacks
 summary: Largest stack, A queue with two stacks, Parenthesis matching, Bracket validator
+categories: Tech
 tags: [interviewcake, algorithm]
 ---
 
