@@ -23,6 +23,9 @@ social:
   
 repository: hoanhan101/gray
 
+# Google services
+google_analytics: UA—155884327-1
+
 permalink: pretty
 
 markdown: kramdown
