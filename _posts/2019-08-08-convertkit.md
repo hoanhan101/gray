@@ -2,7 +2,7 @@
 layout: post
 title: How Nathan Barry grew ConvertKit to a $600k/mo business in 2 years
 categories: Business
-tags: [indiehacker]
+tags: [early-days]
 ---
 
 ### What is the product?
