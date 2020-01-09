@@ -9,8 +9,13 @@ title: Notes
   <h2><a style="text-decoration: none;" href="{{ site.baseurl }}{{ post.url }}">
     {{ post.title }}
   </a></h2>
+
   <p>{{ post.summary }}</p>
-    <time class="date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }} &middot; {{ post.categories }}</time> 
+  {% unless post.summary  %}
+    <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+  {% endunless %}
+
+  <time class="date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }} &middot; {{ post.categories }}</time> 
 </article>
 {% endfor %}
 
