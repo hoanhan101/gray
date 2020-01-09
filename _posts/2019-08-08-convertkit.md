@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ConvertKit
+title: How Nathan Barry grew ConvertKit to a $600k/mo business in 2 years
 categories: Business
 tags: [indiehacker]
 ---
@@ -11,7 +11,7 @@ Email marketing tool for bloggers and content creators.
 
 ### What is its current revenue (monthly/yearly)?
 
-5k to 600k a month in 2 years.
+5k to $600k a month in 2 years.
 
 ### What is the business model?
 
@@ -19,13 +19,11 @@ Subscription.
 
 ### How did the founder come up with their idea?
 
-Used to design and write books on iOS and web app.
+Nathan used to design and write books on iOS and web app.
 
-Was expert on email marketing.
+Was expert on email marketing and had built and grew his personal audience throughout the year.
 
-Had built his personal audience throughout the year.
-
-One day blogged about starting a SaaS company but had no idea to work on. Just basically set a public goal to hold accountability. Had ideas to interview businesses and identify their problems. But then decided to stay true to his problems - a service that was better than Mailchimp.
+One day he blogged about starting a SaaS company but had no idea to work on. Just basically set a public goal to hold accountability. Had ideas to interview businesses and identify their problems. But then decided to stay true to his problems - building a service that was better than Mailchimp.
 
 ### How did they know it was the right problem to work on?
 
@@ -41,4 +39,4 @@ Focused on beginners more than high end accounts but then realized that it was v
 
 ### How did they get their first paying customers?
 
-Personal connections and audiences.
+Personal connections and audiences via direct sales.
