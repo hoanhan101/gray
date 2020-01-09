@@ -6,7 +6,7 @@ title: Notes
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
 <article role="article">
-  <h2><a href="{{ site.baseurl }}{{ post.url }}">
+  <h2><a style="text-decoration: none;" href="{{ site.baseurl }}{{ post.url }}">
     {{ post.title }}
   </a></h2>
   <p>{{ post.summary }}</p>
