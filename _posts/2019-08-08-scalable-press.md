@@ -43,4 +43,4 @@ Manufacture.
 ### How did they get their first paying customers?
 
 - Had people signed up early for the API, a lot from Hacker News. A lot of them
-  into customers.
+  turned into customers.
