@@ -6,7 +6,7 @@ set -o nounset
 
 NOW=$(date +"%F")
 
-FILE="_posts/$NOW-$1.md"
+FILE="_drafts/$NOW-$1.md"
 
 echo "---
 layout: post

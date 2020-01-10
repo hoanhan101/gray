@@ -1,0 +1,46 @@
+#!/usr/bin/env bash
+
+set -o errexit
+set -o pipefail
+set -o nounset
+
+NOW=$(date +"%F")
+
+FILE="_drafts/$NOW-$1.md"
+
+echo "---
+layout: post
+title: How X grew Y to over Z in revenue
+categories: Business
+tags: [indiehacker]
+---
+
+### What is the product?
+
+TODO
+
+### What is its current revenue?
+
+TODO
+
+### What is the business model?
+
+TODO
+
+### How did the founder come up with their idea?
+
+TODO
+
+### How did they know it was the right one?
+
+TODO
+
+### What did it take to get the initial product out the door?
+
+TODO
+
+### How did they get their first paying customers?
+
+TODO" > "$FILE"
+
+vi "$FILE"
