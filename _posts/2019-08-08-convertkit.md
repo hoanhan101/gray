@@ -20,20 +20,28 @@ Subscription.
 ### How did the founder come up with the idea?
 
 - Nathan used to design and write books on iOS and web app.
-- Was expert on email marketing and had built and grew his personal audience throughout the year.
-- One day he blogged about starting a SaaS company but had no idea to work on. Just basically set a public goal to hold accountability. Had ideas to interview businesses and identify their problems. But then decided to stay true to his problems - building a service that was better than Mailchimp.
+- Was expert on email marketing and had built and grew his personal audience
+  throughout the year.
+- One day he blogged about starting a SaaS company but had no idea to work on.
+  Just basically set a public goal to hold accountability.
+- Came up with an idea to interview businesses in depth, tried to see what
+  problems they were facing. But then decided to stay true to his problems -
+  building a service that was better than Mailchimp.
 
 ### How did they know it was the right one?
 
-- Bunch of similar products were out there and had huge market shares. Still went for it because it showed there were needs.
-- Knew about 10 people who were good at email marketing. Asked them about their frustrations, tried to understand their why, asked if they would pay for a solution.
-- Came back after a month with a MVP and asked to buy it - started to get real feedbacks, though only made 1 purchase though they all said yes.
+- Bunch of similar products were out there and had huge market shares.
+  Still went for it because it showed there were needs and still rooms for
+  improvements.
 
-### How did they achieve product-market fit?
+### What did it take to get the initial product out the door?
 
-- Focused on beginners more than high end accounts but then realized that it was very demanding because beginners churned frequently, asked more questions, took more time, money, effort to support.
-- Then chased after big audience.
+- Knew about 10 people who were good at email marketing. Asked them about their
+  frustrations, tried to understand their why, asked if they would pay for a solution.
+- Came back after a month with a MVP and asked to buy it - started to get real
+  feedbacks, though only made 1 purchase though they all said yes.
 
 ### How did they get their first paying customers?
 
-Personal connections and audiences via direct sales.
+- Through direct contact as above.
+- Also launch pre-sale programs.
