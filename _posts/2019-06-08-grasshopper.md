@@ -1,8 +1,8 @@
 ---
 layout: post
-title: How David Hauser grew Grasshopper to over $32MM in revenue with less than 40 employees
+title: David Hauser, Grasshopper, $32m/year
 categories: Business
-tags: [indiehacker]
+tags: [early-days]
 ---
 
 ### What is the product?

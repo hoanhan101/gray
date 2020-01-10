@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Nathan Barry grew ConvertKit to a $600k/mo business in 2 years
+title: Nathan Barry, ConvertKit, $600k/month
 categories: Business
 tags: [early-days]
 ---

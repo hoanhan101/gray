@@ -1,8 +1,8 @@
 ---
 layout: post
-title: How Eric Zhang grew Scalable Press to over $100MM in revenue
+title: Eric Zhang, Scalable Press, $100m/year
 categories: Business
-tags: [indiehacker]
+tags: [early-days]
 ---
 
 ### What is the product?
