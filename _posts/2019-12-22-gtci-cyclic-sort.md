@@ -2,7 +2,7 @@
 layout: post
 title: Grokking the Coding Interview's Cyclic Sort
 summary: Cyclic sort, Missing number, Missing numbers, Find duplicate, Find duplicates, Find corrupt pair
-categories: Tech
+category: Master Coding Interview Challenges
 tags: [grokking-the-coding-interview, algorithm]
 ---
 

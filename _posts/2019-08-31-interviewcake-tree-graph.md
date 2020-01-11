@@ -2,7 +2,7 @@
 layout: post
 title: Interview Cake's Trees and Graphs
 summary: Balanced binary tree, Binary search tree checker, 2nd largest item in a binary search tree, Graph coloring
-categories: Tech
+category: Master Coding Interview Challenges
 tags: [interviewcake, algorithm]
 ---
 

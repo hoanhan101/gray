@@ -2,7 +2,7 @@
 layout: post
 title: 7 sorting algorithms
 summary: Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quicksort, Heapsort, Counting Sort
-categories: Tech
+category: Master Coding Interview Challenges
 tags: [algorithm, sorting]
 ---
 

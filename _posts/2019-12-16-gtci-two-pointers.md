@@ -2,7 +2,7 @@
 layout: post
 title: Grokking the Coding Interview's Two Pointers
 summary: Pair with target sum, Remove duplicates, Squaring a sorted array, Dutch national flag problem
-categories: Tech
+category: Master Coding Interview Challenges
 tags: [grokking-the-coding-interview, algorithm]
 ---
 

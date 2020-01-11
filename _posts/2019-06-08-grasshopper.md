@@ -1,7 +1,7 @@
 ---
 layout: post
 title: David Hauser, Grasshopper, $32m/year
-categories: Business
+category: Early days of profitable internet businesses
 tags: [early-days]
 ---
 

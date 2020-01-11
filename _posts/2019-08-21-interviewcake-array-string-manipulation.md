@@ -2,7 +2,7 @@
 layout: post
 title: Interview Cake's Array and string manipulation
 summary: Merge meeting times, Reverse string in place, Reverse words, Merge sorted arrays
-categories: Tech
+category: Master Coding Interview Challenges
 tags: [interviewcake, algorithm]
 ---
 

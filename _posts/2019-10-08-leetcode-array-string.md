@@ -2,7 +2,7 @@
 layout: post
 title: LeetCode's Array/String
 summary: Two sum I, II, Valid palindrome, Implement strstr(), Reverse words in string, Longest substring without repeating characters, Missing ranges, One edit distance
-categories: Tech
+category: Master Coding Interview Challenges
 tags: [leetcode, algorithm]
 ---
 
