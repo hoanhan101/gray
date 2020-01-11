@@ -3,7 +3,7 @@ layout: default
 ---
 
 <article role="article">
-	{% for category in site.categories %}
+	{% for category in site.categories reversed %}
 	{% capture category_name  %}{{ category | first }}{% endcapture %}
     <h1>{{ category_name }}</h1>
     <ul>
