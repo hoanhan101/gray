@@ -59,6 +59,8 @@ plugins:
   - disqus-for-jekyll
 
 collections:
+  category:
+    output: true
   pages:
     output: true
     permalink: /:name
@@ -74,6 +76,11 @@ defaults:
       path: ""
     values:
       layout: "default"
+  - scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"
   - scope:
       path: ""
       type: "pages"

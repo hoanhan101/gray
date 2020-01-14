@@ -5,14 +5,12 @@ layout: default
 <article role="article">
 	{% for category in site.categories reversed %}
 	{% capture category_name  %}{{ category | first }}{% endcapture %}
-    <h1>{{ category_name }}</h1>
+    <h1>Categories:</h1>
     <ul>
-      {% for post in site.categories[category_name] %}
-      
-      <li><a class="post" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+      <li>
+          <a href="/category/{{category_name}}">{{ category_name | replace: "-", " " }}
+      </li>
 
-      {% endfor %}
     </ul>
     {% endfor %}
 </article>
-

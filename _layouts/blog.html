@@ -15,7 +15,10 @@ title: Notes
     <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
   {% endunless %}
 
-  <time class="date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }} &middot; {{ post.categories }}</time> 
+  <time class="date" datetime="{{ post.date | date_to_xmlschema }}">
+      {{ post.date | date: "%B %-d, %Y" }} &middot;
+      <a class="post" href="/category/{{post.category}}">{{ post.category | replace: "-", " " }}</a>
+  </time> 
 </article>
 {% endfor %}
 

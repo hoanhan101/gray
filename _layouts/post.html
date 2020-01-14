@@ -6,22 +6,22 @@ layout: default
 
 <article role="article">
   <h1>{{ page.title }}</h1>
-  <time class="date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }} &middot; {{ page.categories }}</time>
-
+  <time class="date" datetime="{{ page.date | date_to_xmlschema }}">
+      {{ page.date | date: "%B %-d, %Y" }} &middot; 
+      <a class="post" href="/category/{{page.category}}">{{ page.category | replace: "-", " " }}</a>
+  </time>
 
   {{ content }}
   
   <br>
-  
-  <p>
-      Tagged 
-      {% for tag in page.tags %}
-      <a class="post" href="/tag/{{tag}}">#{{tag}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}.
-    </p>
-      
-             
-             <hr style="height:2px; border:none; margin: 2rem 0; background-color:#e7e9ee;">
 
+  <p>
+      Tagged:
+      {% for tag in page.tags %}
+      <a class="post" href="/tag/{{tag}}">#{{tag}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}
+  </p>
+      
+  <hr style="height:2px; border:none; margin: 2rem 0; background-color:#e7e9ee;">
 
   {% disqus %}
   
