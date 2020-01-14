@@ -8,7 +8,7 @@ layout: default
 	{% capture category_name  %}{{ category | first }}{% endcapture %}
     <ul>
       <li>
-          <a href="/category/{{category_name}}">{{ category_name | replace: "-", " " }}
+          <a href="/category/{{category_name}}">{{ category_name | replace: "-", " " }} ({{  category | last | size }}) </a>
       </li>
 
     </ul>
