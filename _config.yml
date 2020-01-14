@@ -23,9 +23,6 @@ social:
   
 repository: hoanhan101/gray
 
-# Google services
-google_analytics: UA—155884327-1
-
 permalink: pretty
 
 markdown: kramdown
@@ -57,6 +54,12 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - disqus-for-jekyll
+  - jekyll-analytics
+
+jekyll_analytics:
+  GoogleAnalytics:
+    id: UA-155884327-1
+    anonymizeIp: false
 
 collections:
   category:
