@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nathan Barry, ConvertKit, $600k/month
-category: Early days of profitable internet businesses
+category: Early-days-of-profitable-internet-businesses
 tags: [early-days]
 ---
 

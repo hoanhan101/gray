@@ -2,7 +2,7 @@
 layout: post
 title: Interview Cake's Hashing problems
 summary: In-flight entertainment, Permutation palindrome, Word cloud data, Topscores
-category: Master Coding Interview Challenges
+category: Master-Coding-Interview-Challenges
 tags: [interviewcake, algorithm]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Grokking the Coding Interview's Sliding Window
 summary: Average of any contiguous subarray of size k, Maximum sum of any contiguous subarray of size k, Smallest subarray with a given sum, Longest substring with k distinct characters, Fruits into baskets
-category: Master Coding Interview Challenges
+category: Master-Coding-Interview-Challenges
 tags: [grokking-the-coding-interview, algorithm]
 ---
 

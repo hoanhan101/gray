@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Early days of profitable internet businesses's summary
-category: Early days of profitable internet businesses
+category: Early-days-of-profitable-internet-businesses
 tags: [early-days]
 ---
 

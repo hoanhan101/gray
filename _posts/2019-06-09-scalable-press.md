@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Eric Zhang, Scalable Press, $100m/year
-category: Early days of profitable internet businesses
+category: Early-days-of-profitable-internet-businesses
 tags: [early-days]
 ---
 

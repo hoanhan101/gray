@@ -2,7 +2,7 @@
 layout: post
 title: Grokking the Coding Interview's Merge Intervals
 summary: Merge intervals, Insert interval, Intervals intersection, Conflicting appointment
-category: Master Coding Interview Challenges
+category: Master-Coding-Interview-Challenges
 tags: [grokking-the-coding-interview, algorithm]
 ---
 
