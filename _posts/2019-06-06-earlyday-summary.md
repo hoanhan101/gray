@@ -2,7 +2,7 @@
 layout: post
 title: Early days of profitable internet businesses's summary
 category: Early-days-of-profitable-internet-businesses
-tags: [early-days]
+tags: [early-days, indiehackers]
 ---
 
 - Dive deep into the industry and take advantage of your domain expertise to identify

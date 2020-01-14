@@ -2,7 +2,7 @@
 layout: post
 title: Jason Grishkoff, SubmitHub, $50k/month
 category: Early-days-of-profitable-internet-businesses
-tags: [early-days]
+tags: [early-days, indiehackers]
 ---
 
 ### What is the product?
@@ -40,3 +40,8 @@ $50k a month
 ### How did they get their first paying customers?
 
 - Many musicians turned into customers.
+
+<br>
+
+References:
+- [Building an Audience and Being Scrappy with Jason Grishkoff of SubmitHub](https://www.indiehackers.com/podcast/001-jason-grishkoff-of-submithub)

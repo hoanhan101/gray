@@ -2,7 +2,7 @@
 layout: post
 title: Eric Zhang, Scalable Press, $100m/year
 category: Early-days-of-profitable-internet-businesses
-tags: [early-days]
+tags: [early-days, indiehackers]
 ---
 
 ### What is the product?
@@ -44,3 +44,8 @@ Manufacture.
 
 - Had people signed up early for the API, a lot from Hacker News. A lot of them
   turned into customers.
+
+<br>
+
+References:
+- [How to Execute Well and Beat the Competition with Eric Zhang of Scalable Press](https://www.indiehackers.com/podcast/101-eric-zhang-of-scalable-press)

@@ -2,7 +2,7 @@
 layout: post
 title: Nathan Barry, ConvertKit, $600k/month
 category: Early-days-of-profitable-internet-businesses
-tags: [early-days]
+tags: [early-days, indiehackers]
 ---
 
 ### What is the product?
@@ -45,3 +45,8 @@ Subscription.
 
 - Through direct contact as above.
 - Also launch pre-sale programs.
+
+<br>
+
+References:
+- [Growing a $600,000/mo Business by Starting with Direct Sales with Nathan Barry of ConvertKit](https://www.indiehackers.com/podcast/008-nathan-barry-of-convertkit)

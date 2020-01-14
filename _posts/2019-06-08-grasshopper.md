@@ -2,7 +2,7 @@
 layout: post
 title: David Hauser, Grasshopper, $32m/year
 category: Early-days-of-profitable-internet-businesses
-tags: [early-days]
+tags: [early-days, indiehackers]
 ---
 
 ### What is the product?
@@ -39,3 +39,8 @@ Subscription.
 - Bought keyword traffic from Omnitrure, used organic SEO, though he said these
   tatics wouldn't work today. Basically test as many channels as possible, and
   get feedbacks quickly.
+
+<br>
+
+References:
+- [Bootstrapping a SaaS Business to $30,000,000/year with David Hauser of Grasshopper](https://www.indiehackers.com/podcast/003-david-hauser-of-grasshopper)
