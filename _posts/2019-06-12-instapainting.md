@@ -20,10 +20,10 @@ Direct sale.
 ### How did the founder come up with their idea?
 
 - Raised money from YC after YC, spent about 2 years pivoting and trying
-  different ideas. Focused on how to generate revenue immediately while running
-  low on cash.
+  different ideas. Focused on how to generate revenue immediately because he
+  was running low on cash.
 - Saw several sites were doing the same things but with oil paintings.
-  Introduced a more mordern, cheaper, mixed media product.
+  Introduced a more modern, cheaper, mixed media product.
 
 ### How did they know it was the right one?
 
