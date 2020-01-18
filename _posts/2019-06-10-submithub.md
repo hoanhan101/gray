@@ -11,7 +11,7 @@ Allow musicians to connect with industry professionals.
 
 ### What is its current revenue?
 
-$50k a month
+$50k a month.
 
 ### What is the business model?
 

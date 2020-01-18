@@ -11,7 +11,7 @@ Custom painting by actual artists, delivered to your shipping address.
 
 ### What is its current revenue?
 
-$32k a month
+$32k a month.
 
 ### What is the business model?
 
