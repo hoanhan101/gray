@@ -12,4 +12,7 @@ tags: [early-days, indiehackers]
 - Actively seek for paying customers and TALK TO THEM, even before having a
   concrete product. Focus on how to generate revenue immediately.
 - Blog to share your progress. Provide quality contents. Grow your audience.
+- Don't get trapped in testing phase where all you do is collecting emails and
+  building lists... Hack a MVP and have actually customer use it then pay for
+  it. This is the ultimate test.
 - Utilize social media to promote your products and get feedbacks.
