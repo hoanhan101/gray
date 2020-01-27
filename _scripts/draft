@@ -11,8 +11,8 @@ FILE="_drafts/$NOW-$1.md"
 echo "---
 layout: post
 title: Template's title
-summary : Template's summary
-categories: Template
+summary: Template's summary
+category: Template
 tags: [templates]
 ---
 
