@@ -17,6 +17,15 @@ title: Notes
 
   <time class="date" datetime="{{ post.date | date_to_xmlschema }}">
       {{ post.date | date: "%B %-d, %Y" }} &middot;
+
+      {% assign words = post.content | number_of_words %}
+      {% if words < 360 %}
+        1 min
+      {% else %}
+        {{ words | divided_by:180 }} mins
+      {% endif %}
+      read &middot;
+
       <a class="post" href="/category/{{post.category}}">{{ post.category | replace: "-", " " }}</a>
   </time> 
 </article>

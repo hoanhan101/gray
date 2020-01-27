@@ -5,7 +5,16 @@ layout: default
 <article role="article">
   <h1>{{ page.title }}</h1>
   <time class="date" datetime="{{ page.date | date_to_xmlschema }}">
-      {{ page.date | date: "%B %-d, %Y" }} &middot; 
+      {{ page.date | date: "%B %-d, %Y" }} &middot;
+
+      {% assign words = page.content | number_of_words %}
+      {% if words < 360 %}
+        1 min
+      {% else %}
+        {{ words | divided_by:180 }} mins
+      {% endif %}
+      read &middot;
+
       <a class="post" href="/category/{{page.category}}">{{ page.category | replace: "-", " " }}</a>
   </time>
 
