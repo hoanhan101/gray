@@ -4,10 +4,18 @@ layout: default
 
 <article role="article">
     <h1>Category: {{ page.tag | replace: "-", " " }}</h1>
-    <ul>
+
+    <table>
     {% for post in site.categories[page.tag] %}
-        <li><a class="post" href="{{ post.url }}">{{ post.title }}</a></li>
+        <tr style="border: 0px;">
+            <td><a class="post" href="{{ post.url }}">{{ post.title }}</a></td>
+            <td>
+                <span style="float: right; white-space: nowrap;" class="date" datetime="{{ post.date | date_to_xmlschema }}">
+                    {{ post.date | date: "%b %d %Y" }}
+                </span>
+            </td>
+        </tr>
     {% endfor %}
-    </ul>
+    </table>
 
 </article>

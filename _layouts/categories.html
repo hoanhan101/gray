@@ -4,13 +4,14 @@ layout: default
 
 <article role="article">
     <h1>Categories:</h1>
+
+    <table>
 	{% for category in site.categories reversed %}
 	{% capture category_name  %}{{ category | first }}{% endcapture %}
-    <ul>
-      <li>
-          <a href="/category/{{category_name}}">{{ category_name | replace: "-", " " }} ({{  category | last | size }}) </a>
-      </li>
-
-    </ul>
+        <tr style="border: 0px;">
+            <td><a href="/category/{{category_name}}">{{ category_name | replace: "-", " " }}</a></td>
+            <td style="float: right; white-space: nowrap;">{{ category | last | size }} articles</td>
+        </tr>
     {% endfor %}
+    </table>
 </article>
