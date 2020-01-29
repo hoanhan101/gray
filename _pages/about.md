@@ -16,10 +16,10 @@ Challenges](https://github.com/hoanhan101/algo), attracts 2,000+ subscribers.
 
 I have been spending a lot of time working on these projects as well as
 writing about tech and business. If you're interested in getting updates on my
-latest insights, projects and becoming better a software engineer, you
-can join my [Insights mail list here →](https://tinyletter.com/hoanhan)
+latest insights, projects and becoming better a software engineer, feel free
+to join my [Insights mailing list here →](https://tinyletter.com/hoanhan)
 
-Lastly, contact me at [hoanhan101@gmail.com](mailto:hoanhan101@gmail.com) in case you
+Lastly, ping me at [hoanhan101@gmail.com](mailto:hoanhan101@gmail.com) in case you
 need anything.
 
 Have a wonderful day,
