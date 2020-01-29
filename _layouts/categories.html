@@ -9,7 +9,7 @@ layout: default
 	{% for category in site.categories reversed %}
 	{% capture category_name  %}{{ category | first }}{% endcapture %}
         <tr style="border: 0px;">
-            <td><a href="/category/{{category_name}}">{{ category_name | replace: "-", " " }}</a></td>
+            <td style="padding-left: 0px;"><a href="/category/{{category_name}}">{{ category_name | replace: "-", " " }}</a></td>
             <td style="float: right; white-space: nowrap;">{{ category | last | size }} articles</td>
         </tr>
     {% endfor %}

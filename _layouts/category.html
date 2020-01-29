@@ -8,12 +8,12 @@ layout: default
     <table>
     {% for post in site.categories[page.tag] %}
         <tr style="border: 0px;">
-            <td><a class="post" href="{{ post.url }}">{{ post.title }}</a></td>
-            <td>
-                <span style="float: right; white-space: nowrap;" class="date" datetime="{{ post.date | date_to_xmlschema }}">
+            <td style="padding-left: 0px;">
+                <span style="white-space: nowrap;" class="date" datetime="{{ post.date | date_to_xmlschema }}">
                     {{ post.date | date: "%b %d %Y" }}
                 </span>
             </td>
+            <td><a class="post" href="{{ post.url }}">{{ post.title }}</a></td>
         </tr>
     {% endfor %}
     </table>
