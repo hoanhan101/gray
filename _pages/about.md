@@ -15,9 +15,9 @@ Github. The other one, [101+ Coding Interview
 Challenges](https://github.com/hoanhan101/algo), attracts 2,000+ subscribers.
 
 I have been spending a lot of time working on these projects as well as
-writing about tech and business. If you're interested in getting updates on my
-latest insights, projects and becoming better a software engineer, feel free
-to join my [Insights mailing list here →](https://tinyletter.com/hoanhan)
+writing about tech, business, work and life. If you're interested in getting
+updates on my latest insights, projects and becoming better a software engineer
+and a better person overall, feel free to join my [Insights mailing list here →](https://tinyletter.com/hoanhan)
 
 Lastly, ping me at [hoanhan101@gmail.com](mailto:hoanhan101@gmail.com) in case you
 need anything.
