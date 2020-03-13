@@ -1,4 +1,4 @@
 ---
-tag: Key-takeaways-from-important-books
-permalink: "/category/Key-takeaways-from-important-books"
+tag: Key-takeaways-from-important-reading
+permalink: "/category/Key-takeaways-from-important-reading"
 ---
