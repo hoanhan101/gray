@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't Call Yourself A Programmer
+title: Patrick McKenzie, Don't Call Yourself A Programmer
 summary: This is for fairly bright young engineer with zero knowledge on how the real world actually works
 category: Key-takeaways-from-important-reading
 tags: [blog]
