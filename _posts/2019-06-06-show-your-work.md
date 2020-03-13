@@ -6,6 +6,7 @@ category: Key-takeaways-from-important-reading
 tags: [book]
 ---
 
+A book for people who hate the very idea of self-promotion:
 - Be an amateur, not afraid to voice your opinion, be willing to share
 - Document your process, start a journal, record it, take photo,...
 - Share/publish something small everyday

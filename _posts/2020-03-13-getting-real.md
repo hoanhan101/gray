@@ -6,7 +6,7 @@ category: Key-takeaways-from-important-reading
 tags: [book]
 ---
 
-
+The Smarter, Faster, Easier Way to Build a Successful Web Application:
 - The starting line
   - Build less: less features, options, people, meetings, promises
   - Solve your problem
