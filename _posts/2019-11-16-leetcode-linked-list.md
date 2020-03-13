@@ -2,7 +2,7 @@
 layout: post
 title: LeetCode's Linked List
 summary: Merge sorted linked list, Add two numbers, Swap nodes in pairs
-category: Master-Coding-Interview-Challenges
+category: Master-coding-interview-challenges
 tags: [leetcode, algorithm]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Grokking the Coding Interview's Tree Breath First Search
 summary: Binary tree level order traversal, Reverse level order traversal, Zigzag traversal, Level averages, Minimum depth, Maximum depth, Level order successor
-category: Master-Coding-Interview-Challenges
+category: Master-coding-interview-challenges
 tags: [grokking-the-coding-interview, algorithm]
 ---
 

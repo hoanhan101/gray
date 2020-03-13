@@ -2,7 +2,7 @@
 layout: post
 title: LeetCode's Math
 summary: Reverse integer, Plus one, Palindrome number
-category: Master-Coding-Interview-Challenges
+category: Master-coding-interview-challenges
 tags: [leetcode, algorithm]
 ---
 

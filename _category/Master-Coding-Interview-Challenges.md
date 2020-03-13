@@ -1,4 +1,4 @@
 ---
-tag: Master-Coding-Interview-Challenges
-permalink: "/category/Master-Coding-Interview-Challenges"
+tag: Master-coding-interview-challenges
+permalink: "/category/Master-coding-interview-challenges"
 ---
