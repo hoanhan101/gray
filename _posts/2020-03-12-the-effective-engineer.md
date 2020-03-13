@@ -46,8 +46,8 @@ tags: [book, career, impact]
   - Track TODO list in a single list
   - Sort the list frequently by asking yourself on a recurring basis:
     - Is there anything else I could be doing that’s higher-leverage
-      - focus on what directly produce value (products shipped, user acquired, business metrics moved, sales made)
-      - focus on the important and non-urgent (planning career goals, building relationships, personal development, improving workflow)
+      - Focus on what directly produce value (products shipped, user acquired, business metrics moved, sales made)
+      - Focus on the important and non-urgent (planning career goals, building relationships, personal development, improving workflow)
   - Preserve larger blocks of focused time + learn to say no unimportant activities
   - Limit the amount of work in progress + resist the urge to work on too many projects at once
   - Make it a habit
@@ -55,8 +55,10 @@ tags: [book, career, impact]
   - Invest in time-saving tools
     - Bringing the release time down to several minutes helps the team deploy more frequently, 40-50 times a day - skyrockets growth
     - If it saves you 1 hour a day, it saves 10 people 10 times as much
-  - Measure the progress frequently 
+  - Measure the progress frequently
 - Validate early and often
   - A well tested, clean design, scalable product doesn't deliver much value if users don’t engage or customers don’t buy it
   - Bounce ideas off teammates
-- Define measurable milestones 
+- Define measurable milestones
+
+> Reference: [https://www.goodreads.com/en/book/show/25238425-the-effective-engineer](https://www.goodreads.com/en/book/show/25238425-the-effective-engineer)
