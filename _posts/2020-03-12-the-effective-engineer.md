@@ -61,4 +61,6 @@ tags: [book, career, impact]
   - Bounce ideas off teammates
 - Define measurable milestones
 
-> Reference: [https://www.goodreads.com/en/book/show/25238425-the-effective-engineer](https://www.goodreads.com/en/book/show/25238425-the-effective-engineer)
+<br>
+**References:**
+- [https://www.effectiveengineer.com/book](https://www.effectiveengineer.com/book)
