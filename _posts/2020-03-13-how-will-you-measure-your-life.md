@@ -14,7 +14,7 @@ How to be successful and happy in your career, find happiness in relationships, 
       - Improving the hygience factors of your job won't make you love it, instead just stop you from hating it
     - Motivation factors are challenging work, recognition, responsibility, and personal growth
       - Motivation is less about the external stimulation but more about what's inside of you and your work
-      - It's a job that tryly meaningful to you, is challenging and intersting, allows you to grow professionally, provides you good oppoturnities,...
+      - It's a job that truly meaningful to you, is challenging and intersting, allows you to grow professionally, provides you good oppoturnities,...
     - One of the easiest mistake is to focus on over-satisfy the hygiene factors over the motivation factors
       - Better salaries, more prestigious title, nicer office are not gonna make you happy
       - That said, ask yourself frequently
@@ -37,9 +37,9 @@ How to be successful and happy in your career, find happiness in relationships, 
   - It needs CONSISTENT attention and care, though it's difficult because
     - You'll be routinely tempted to invest your resources elsewhere that provide you a more immediate payoff
     - Your family and friends rarely shout the loudest to demand your attention
-  - The clock of building a fullfilling relationship is ticking from the start
+  - The clock of building a fulfilling relationship is ticking from the start
   - Understand what's the most important to the other person by asking yourself "What job does one most need me to do?"
-  - Children need to do more than learning new skills - they need to be challenged, solve hard problems and develope values
+  - Children need to do more than learning new skills - they need to be challenged, solve hard problems and develop values
 - Stay out of jail
   - The best way to avoid the consequences of uncomfortable moral concessions is to never start making in the first place
 
