@@ -19,8 +19,7 @@ writing about business, happiness, philosophy of work and life. I believe that b
 self-educating on these topics, I am investing a great deal in myself,
 my knowledge onto the world, my hobbies, my relationships that could help
 me live a more meaningful and fulfilling life. And this is just as important
-as mastering my engineering craft. I am hoping to share those experiences
-with you too.
+as mastering my engineering craft.
 
 If you're interested in getting updates on my latest insights, projects and
 becoming better a software engineer as well as a better person overall, feel
