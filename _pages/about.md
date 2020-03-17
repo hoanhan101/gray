@@ -14,13 +14,17 @@ One of my most popular projects,
 Github. The other one, [101+ Coding Interview
 Challenges](https://github.com/hoanhan101/algo), attracts 2,000+ subscribers.
 
-I have been spending a lot of time working on these projects as well as
-writing about tech, business, work and life. If you're interested in getting
-updates on my latest insights, projects and becoming better a software engineer
-and a better person overall, feel free to join my [Insights mailing list here →](https://tinyletter.com/hoanhan)
+Other than spending time working on these technical projects, I also enjoy reading,
+writing about business, happiness, philosophy of work and life. I believe that by
+self-educating on these topics, I am investing a great deal in myself,
+my knowledge onto the world, my hobbies, my relationships that could help
+me live a more meaningful and fulfilling life. And this is just as important
+as mastering my engineering craft. I am hoping to share those experiences
+with you too.
 
-Lastly, ping me at [hoanhan101@gmail.com](mailto:hoanhan101@gmail.com) in case you
-need anything.
+If you're interested in getting updates on my latest insights, projects and
+becoming better a software engineer as well as a better person overall, feel
+free to join my [Insights mailing list here →](https://tinyletter.com/hoanhan)
 
 Have a wonderful day,
 
