@@ -15,7 +15,7 @@ Github. The other one, [101+ Coding Interview
 Challenges](https://github.com/hoanhan101/algo), attracts 2,000+ subscribers.
 
 Other than spending time working on these technical projects, I also enjoy reading,
-writing about business, happiness, philosophy of work and life. I believe that by
+writing about business, happiness, health, work and life balance. I believe that by
 self-educating on these topics, I am investing a great deal in myself,
 my knowledge onto the world, my hobbies, my relationships that could help
 me live a more meaningful and fulfilling life. And this is just as important
