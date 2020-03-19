@@ -3,7 +3,7 @@ layout: post
 title: Dave Asprey, Super Human
 summary: The Bulletproof Plan to Age Backward and Maybe Even Live Forever
 category: Key-takeaways-from-important-reading
-tags: [book, health, biohacking]
+tags: [book, health, biohacking, diabetes]
 ---
 
 The Bulletproof Plan to Age Backward and Maybe Even Live Forever:
