@@ -10,12 +10,16 @@ FILE="_posts/$NOW-$1.md"
 
 echo "---
 layout: post
-title: Template's title
-summary: Template's summary
-category: Template
-tags: [templates]
+title: TODO-title
+summary: TODO-summary
+category: TODO-template
+tags: [TODO-tag]
 ---
 
-This is a template for you to copy from!" > "$FILE"
+This is a template for you to copy from!
+
+<br>
+**References:**
+- [TODO-name](TODO-link)" > "$FILE"
 
 vi "$FILE"
