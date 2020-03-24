@@ -6,7 +6,7 @@ category: System-design-notes
 tags: [microservices, linkedin]
 ---
 
-- Started as a single monolithic application, Leo
+- Started as a single monolithic application, Leo, that hosted various pages, handled business logic and connected to a handful of databases
 - Needed to manage a network of member connections and scale independent of Leo so built a new system for their member graph
   - Used Java RPC for communication, Apache Lucene for search capabilities
 - Introduced replica DBs as the site grew
