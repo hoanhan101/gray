@@ -6,7 +6,6 @@ category: Key-takeaways-from-important-reading
 tags: [book, health, diabetes]
 ---
 
-Prevent and Reverse Type 2 Diabetes Naturally:
 - Type 2 diabetes is
   - Caused by too much sugar (sugar + refined carbs)
   - Affects every organ in the body

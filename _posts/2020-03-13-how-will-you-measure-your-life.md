@@ -6,7 +6,6 @@ category: Key-takeaways-from-important-reading
 tags: [book, career, relationship]
 ---
 
-How to be successful and happy in your career, find happiness in relationships, live a life of integrity:
 - Find happiness in your career
   - Motivation theory - hygiene factors vs motivation factors
     - Hygiene factors are status, compensation, job security, work condition, company policies,...

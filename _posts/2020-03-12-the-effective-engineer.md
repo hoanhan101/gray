@@ -6,7 +6,6 @@ category: Key-takeaways-from-important-reading
 tags: [book, productivity, impact]
 ---
 
-How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact:
 - Focus on high-leverage activities
   - Leverage = impact produced / time invested
   - 80/20 rule - 80% impact comes from 20% work

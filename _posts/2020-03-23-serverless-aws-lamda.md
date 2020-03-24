@@ -6,7 +6,6 @@ category: System-design-notes
 tags: [serverless, aws, lamda]
 ---
 
-Serverless architecture with AWS Lamda:
 - Basic:
   - Also called function-as-a-service
   - Let developers focus on writing function/business logic instead of focusing on managing server

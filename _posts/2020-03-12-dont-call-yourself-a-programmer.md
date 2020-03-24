@@ -6,7 +6,6 @@ category: Key-takeaways-from-important-reading
 tags: [blog, business, negotiation]
 ---
 
-This is for fairly bright young engineer with zero knowledge on how the real world actually works:
 - Software solves business problems. It doesn't matter if your app has the most elegant architecture, it must create value for the company aka brings in revenue.
 - Engineers are hired to create business value.
   - Non-goals: produce the beautiful software, solve complex technical problems, use sexy frameworks

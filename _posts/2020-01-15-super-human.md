@@ -6,7 +6,6 @@ category: Key-takeaways-from-important-reading
 tags: [book, health, biohacking, diabetes]
 ---
 
-The Bulletproof Plan to Age Backward and Maybe Even Live Forever:
 - Don't die
   - The 4 killers are heart disease, diabetes, Alzheimer's, and cancer 
     - Maintaining a healthy diet and lifestyle lowers the risk of developing and dying from these
