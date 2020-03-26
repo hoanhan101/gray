@@ -90,12 +90,43 @@ tags: [architecture]
   - Types of databases
     - Document-oriented: generally semi-structured & stored in a JSON-like format
       - Use cases:
-        - Work with semi-structured data
+        - Working with semi-structured data
         - Need a flexible schema
         - Examples are real-time feeds, live sport apps, web-based multiplayer games
       - Real life implementations
-        - [SEGA uses Mongo-DB to improve the experience for millions of mobile gamers](https://www.mongodb.com/blog/post/sega-hardlight-migrates-to-mongodb-atlas-simplify-ops-improve-experience-mobile-gamers)
-        - [Coinbase scaled from 15k requests per min to 1.2 million requests per minute with MongoDB](https://www.mongodb.com/customers/coinbase)
+        - [SEGA uses Mongo-DB to simply ops and improve gaming experiences](https://www.mongodb.com/blog/post/sega-hardlight-migrates-to-mongodb-atlas-simplify-ops-improve-experience-mobile-gamers)
+        - [Coinbase uses MongoDB to scale from 15k to 1.2 million requests per minute](https://www.mongodb.com/customers/coinbase)
+    - Graph: store data in nodes/vertices and edges in the form of relationships
+      - Use cases:
+        - Maps
+        - Social graphs
+        - Recommendation engines
+        - Storing genetic data
+      - Real life implementations
+        - [Walmart uses Neo4J to show product recommendations in real-time](https://neo4j.com/case-studies/walmart/)
+        - [NASA uses Neo4J to store "lessons learned" data](https://neo4j.com/blog/david-meza-chief-knowledge-architect-nasa/)
+    - Key-value: use a simple key-value method to store and quickly fetch the data
+      - Use cases:
+        - Caching
+        - Implementing queue
+        - Managing real-time data
+      - Real life implementations
+        - [Inovonics uses Redis to drive real-time analytics on millions of sensor data](https://redislabs.com/customers/inovonics/)
+        - [Microsoft uses Redis to handle the traffic spike on its platforms](https://redislabs.com/docs/microsoft-relies-redis-labs/)
+        - [Google Cloud uses Memcache to implement caching on their cloud platform](https://cloud.google.com/appengine/docs/standard/python/memcache/)
+    - Time series: optimized for tracking & persisting time series data
+      - Use cases:
+        - Managing data in real-time & continually over a long period of time
+        - Managing data for running analytics & monitoring
+      - Real life implementations
+        - [IBM uses Influx DB to run analytics for real-time cognitive fraud detection](https://www.influxdata.com/customer/ibm/)
+        - [Spiio uses Influx DB to remotely monitor vertical lining green walls & plant installations](https://www.influxdata.com/customer/customer_case_study_spiio/)
+    - Wide Column: primarily used to handle massive amounts of data
+      - Use cases:
+        - Managing big data
+      - Real life implementations
+        - [Netflix uses Cassandra as the backend database for the streaming service](https://netflixtechblog.com/tagged/cassandra)
+        - [Adobe uses HBase for processing large amounts of data](https://hbase.apache.org/poweredbyhbase.html)
 
 
 <br>
