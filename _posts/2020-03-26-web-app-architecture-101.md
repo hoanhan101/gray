@@ -53,12 +53,49 @@ tags: [architecture]
     - Planned downtime
   - A common way to add more availability is to have redundancy - duplicating the components & keeping them on standby to take over in case the active instances go down
 - Monolithic & Microservices
-  - Monolithic: entire application code in a single codebase
+  - Monolithic: entire application code in a single service
     - Pros: simple to develop, test, deploy as everything resides in one repo
     - Cons:
       - Continuous deployment means re-deploying the entire application
       - Single point of failure
       - Hard to scale
+  - Microservices: tasks are split into separate services forming a larger service as a whole
+    - Pros:
+      - No single point of failure
+      - Easier to scale independently
+    - Cons:
+      - Difficult to manage
+      - No strong consistency
+- Database
+  - Forms of data:
+    - Structured: conforms to a certain structure, stored in a normalized fashion
+    - Unstructured: no definite structure, could be text, image, video, multimedia files, machine-generated data
+    - Semi-structured: mix of structured and unstructured data, stored in XML or JSON
+    - User state: user logs and activity on the platform
+  - Why the need for NoSQL while relational database is still doing fine?
+    - Scaling relational database is not trivial, which requires Sharding or Replicating
+    - NoSQL is fast with read-write and really easy to scale out
+    - Eventual consistency over strong consistency
+      - Eventual consistency: achieve high availability that informally guarantees that, if no new updates are made, return the last updated value for all accesses
+      - Strong consistency: data has to be strongly consistent at all times
+    - Data analytics
+  - Polyglot persistence
+    - Use different storage technologies to handle different needs within a given software application
+    - Multi-model databases reduce the operational complexity of using several different database models in an application by supporting multiple data models via a single API
+  - CAP theorem
+    - It is impossible for a distributed data store to simultaneously provide more than two out of the following three guarantees:
+      - Consistency: every read receives the most recent write
+      - Availability: every request receives a non-error response
+      - Partition tolerance: system continues to operate despite network failures
+  - Types of databases
+    - Document-oriented: generally semi-structured & stored in a JSON-like format
+      - Use cases:
+        - Work with semi-structured data
+        - Need a flexible schema
+        - Examples are real-time feeds, live sport apps, web-based multiplayer games
+      - Real life implementations
+        - [SEGA uses Mongo-DB to improve the experience for millions of mobile gamers](https://www.mongodb.com/blog/post/sega-hardlight-migrates-to-mongodb-atlas-simplify-ops-improve-experience-mobile-gamers)
+        - [Coinbase scaled from 15k requests per min to 1.2 million requests per minute with MongoDB](https://www.mongodb.com/customers/coinbase)
 
 
 <br>
