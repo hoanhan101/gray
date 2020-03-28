@@ -143,7 +143,6 @@ tags: [architecture]
       - Similar to Write-through, but add some delay before writing to database
 - Message queue
   - Features:
-    - FI
     - Facilitate asynchronous behaviour (background processes, tasks, batch jobs)
     - Facilitate cross-module communication
     - Provide temporary storage for storing messages until they're consumed
@@ -179,7 +178,8 @@ tags: [architecture]
     - Real-time streaming
   - Distributed data processing
     - Diverge large amounts of data to several different nodes for parallel processing
-      - MapReduce – Apache Hadoop
+    - Popular frameworks:
+      - MapReduce - Apache Hadoop
       - Apache Spark
       - Apache Storm
       - Apache Kafka
