@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Modern Web Architectural Components
-summary: A comprehensive insight into the modern web application architect and its components, featuring scalability, database, message queue, stream processing and so on
+summary: A comprehensive insight into the modern web application architecture and its components, featuring scalability, database, message queue, stream processing and so on
 category: System-design-notes
 tags: [architecture]
 ---
@@ -20,7 +20,7 @@ tags: [architecture]
     - Separation of concerns: keep components separate, make them reusable
 - Scalability
   - Ability to withstand increased workload without sacrificing the latency
-  - Latency an be divided into 2 parts:
+  - Latency can be divided into 2 parts:
     - Network latency: amount of time the network takes to send data packet from point A to B
     - Application latency: amount of time the application takes to process a user request
   - Type of scalability
