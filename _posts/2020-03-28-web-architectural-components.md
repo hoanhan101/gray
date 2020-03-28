@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Web Application Architecture 101
-summary: A comprehensive insight into the web application architecture including client-server, peer to peer decentralized architecture, microservices, and so on
+title: Modern Web Architectural Components
+summary: A comprehensive insight into the modern web application architect and its components, featuring scalability, database, message queue, stream processing and so on
 category: System-design-notes
 tags: [architecture]
 ---
@@ -127,6 +127,82 @@ tags: [architecture]
       - Real life implementations
         - [Netflix uses Cassandra as the backend database for the streaming service](https://netflixtechblog.com/tagged/cassandra)
         - [Adobe uses HBase for processing large amounts of data](https://hbase.apache.org/poweredbyhbase.html)
+- Caching
+  - Ensure low latency and high throughput
+  - Strategies
+    - Cache Aside:
+      - First look in the cache, return if present, else fetch from the database and update cache
+      - Has a TTL (Time To Live) period to sync up data
+      - Works well for read-heavy workloads like user profile data
+    - Read-through
+      - Similar to Cache Aside, but the cache is always up-to-date
+    - Write-through
+      - Cache before writing to database
+      - Works well for write-heavy workloads like MMOs
+    - Write-back
+      - Similar to Write-through, but add some delay before writing to database
+- Message queue
+  - Features:
+    - FI
+    - Facilitate asynchronous behaviour (background processes, tasks, batch jobs)
+    - Facilitate cross-module communication
+    - Provide temporary storage for storing messages until they're consumed
+  - Models:
+    - Publish-subscribe (Pub-sub): one to many relationship
+    - Point to point: one to one relationship
+  - Protocols:
+    - [Advanced Message Queuing Protocol (AMQP)](https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol)
+    - [Streaming Text Oriented Messaging Protocol (STOMP)](https://en.wikipedia.org/wiki/Streaming_Text_Oriented_Messaging_Protocol)
+  - Real life implementations
+    - [LinkedIn Real-Time Architecture](https://www.8bitmen.com/linkedin-real-time-architecture-how-does-linkedin-identify-its-users-online/)
+    - [Facebook’s Live Streaming architecture](https://engineering.fb.com/ios/under-the-hood-broadcasting-live-video-to-millions/)
+- Stream processing
+  - Layers of data processing setup:
+    - Data collection/query layer
+    - Data standardization layer
+    - Data processing layer
+    - Data analysis layer
+    - Data visualization layer
+    - Data storage layer
+    - Data security layer
+  - Ways to ingest data:
+    - Real-time 
+    - Batching
+  - Challenges:
+    - Formatting, standardizing, converting data from multiple resources is a slow and tedious process
+    - It's resource-intensive
+    - Moving data around is risky
+  - Use cases:
+    - Moving data into Hadoop
+    - Streaming data to Elastic search
+    - Log processing
+    - Real-time streaming
+  - Distributed data processing
+    - Diverge large amounts of data to several different nodes for parallel processing
+      - MapReduce – Apache Hadoop
+      - Apache Spark
+      - Apache Storm
+      - Apache Kafka
+  - Architecture
+    - Lambda leverages both real-time and batching process that consists 3 layers
+      - Batch: deals with results from the batching process
+      - Speed: gets data from the real-time streaming process
+      - Serving: combines the results from the Batch and Speed layers
+    - Kappa has only a single pipeline and only contains Speed and Serving layers
+      - Preferred if the batch and the streaming analytics results are fairly identical 
+  - Real life implementations
+    - [Netflix' Keystone Real-time Stream Processing Platform](https://netflixtechblog.com/keystone-real-time-stream-processing-platform-a3ee651812a)
+    - [Netflix' Migrating Batch ETL to Stream Processing](https://netflixtechblog.com/keystone-real-time-stream-processing-platform-a3ee651812a)
+- Other architectures
+  - Event-driven: capable of handling a big number of concurrent requests with minimal resources
+  - WebHooks: have an event-based mechanism that only fires an HTTP event to consumers whenever new info is available
+  - Share Nothing: every module has its own environment
+  - Hexagonal:
+    - Port: act as an API, interface
+    - Adapter: an implementation of the interface, convert data from Port to be consumed by Domain
+    - Domain: contain business logic
+  - Peer to Peer: nodes can communicate with each other without the need of a central server
+  - Decentralized social network
 
 
 <br>
