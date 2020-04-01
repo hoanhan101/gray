@@ -38,10 +38,13 @@ tags: [book, career, relationship]
     - Your family and friends rarely shout the loudest to demand your attention
   - The clock of building a fulfilling relationship is ticking from the start
   - Understand what's the most important to the other person by asking yourself "What job does one most need me to do?"
-  - Children need to do more than learning new skills - they need to be challenged, solve hard problems and develop values
-- Stay out of jail
+  - Children need to do more than learning new skills
+    - Allow them to be challenged, let them solve hard problems independently and develop values themselves
+    - Don't afraid to let them fail
+- Live a life of integrity (or stay out of jail)
+  - Integrity requires constant self-awareness
   - The best way to avoid the consequences of uncomfortable moral concessions is to never start making in the first place
 
 <br>
 **References:**
-- [https://www.amazon.com/How-Will-Measure-Your-Life/dp/0062102419](https://www.amazon.com/How-Will-Measure-Your-Life/dp/0062102419)
+- <https://www.amazon.com/How-Will-Measure-Your-Life/dp/0062102419>
