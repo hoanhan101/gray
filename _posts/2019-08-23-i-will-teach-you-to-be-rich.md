@@ -3,7 +3,7 @@ layout: post
 title: Ramit Sethi, I Will Teach You to Be Rich
 summary: How to earn more, save more and live a rich life
 category: Key-takeaways-from-important-reading
-tags: [blog, spending, saving, investing, rich]
+tags: [book, spending, saving, investing, rich, compound]
 ---
 
 How to earn more, save more and live a rich life:
