@@ -22,7 +22,7 @@ tags: [book, antifragile, investing]
   - The Industrial Revolution was not instigated by academics but hobbyists
 - The shorter the time frame you observe an even, the higher the noise you will perceive
 - Prediction in the modern world is impossible
-  - You can't predict the future based on the past
+  - We always find patterns, causes, explanations in past events, but they are useless for predicting the future
   - An assumption that the worst event we have witnessed must be the worst that could ever happen is simply false
   - What’s most likely to stick in the future is what has already been around for long
   - Instead of trying to predict what is going to happen, position yourself in such a way that you have optionality

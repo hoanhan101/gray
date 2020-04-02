@@ -17,7 +17,7 @@ tags: [book, investing]
   - Align your portfolio with well-established funds with a long history of success
   - Set your investments on autopilot
 - Aim for safe and steady revenue, not to pull in extraordinary profits and outperform professional brokers
-  - Reflect every six months
+  - Reflect and readjust your portfolio every six months
 - Always be prepared for crises
   - Don't sell everything at the first sign of danger
   - Even after the most harmful crashes, the market will recover
