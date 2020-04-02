@@ -50,4 +50,4 @@ tags: [book, antifragile, investing]
 <br>
 **References:**
 - <https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680>
-- <https://www.reddit.com/r/getdisciplined/comments/4zv1nv/advice_how_to_become_antifragile_and_gain_from/>
+- <http://siimland.com/become-antifragile/>
