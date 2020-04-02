@@ -37,9 +37,17 @@ tags: [book, antifragile, investing]
   - Let the upside take care of itself
     - If the risky part plays out badly, you’re still fine
     - If a Black Swan event makes the risks pay off big, you profit handsomely
-  - In investing, it means putting most of your money in safe investments and 10% in highly lucrative ones
-    - Invest in people, not business plans
+- Practical activities
+  - Lift heavy weights or do HIIT
+  - Practice intermittent fasting
+  - Eat fermented foods, such as sauerkraut, kimchi, yogurt, pickles,...
+  - Cold/heat exposure
+    - Take cold showers, ice baths, wear less clothes and sleep only with your sheets
+    - Take saunas, do Bikram yoga and get a sweat on during training
+  - Put most of your money in safe investments and 10% in highly lucrative ones
+  - Keep your day job but take massive action on your side hustle at night
 
 <br>
 **References:**
 - <https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680>
+- <https://www.reddit.com/r/getdisciplined/comments/4zv1nv/advice_how_to_become_antifragile_and_gain_from/>
