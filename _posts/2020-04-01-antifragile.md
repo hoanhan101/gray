@@ -12,7 +12,7 @@ tags: [book, antifragile, investing]
   - Individual failure can provide helpful information to strengthen the system as a whole
 - Shock and stressors strengthen antifragile system by forcing them to build up capacity
   - When human bounce back after traumatic accidents, hardships or failures, they become stronger
-  - Lifting heavy puts body to unusual stress and makes muscle stronger
+  - Lifting heavy puts the body to unusual stress and makes the muscle stronger
   - Even though The Titanic was a disaster, it made the ship cruising system stronger
 - Trying to over-control systems often leads to fragility
   - Mom who overprotects her children prevents them from developing the ability to bounce back and adapt to future difficulties
@@ -20,7 +20,7 @@ tags: [book, antifragile, investing]
   - Society put too much value on theoretical or academic knowledge and not too much on practical one
   - Often the most successful traders don't know complicated economic theory or finance; they know when to buy and sell
   - The Industrial Revolution was not instigated by academics but hobbyists
-- The shorter the time frame you observe an even, the higher the noise you will perceive
+- The shorter the time frame you observe an event, the higher the noise you will perceive
 - Prediction in the modern world is impossible
   - We always find patterns, causes, explanations in past events, but they are useless for predicting the future
   - An assumption that the worst event we have witnessed must be the worst that could ever happen is simply false
