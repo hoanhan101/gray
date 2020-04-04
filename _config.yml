@@ -33,7 +33,7 @@ kramdown:
   syntax_highlighter: rouge
 
 disqus:
-  name: "your username" # required
+  name: "hoanhan101" # required
   noscript: "Please enable JavaScript to view the comments powered by Disqus." # optional
 
 paginate:            10
