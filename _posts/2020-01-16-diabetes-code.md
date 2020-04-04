@@ -6,10 +6,10 @@ category: Key-takeaways-from-important-reading
 tags: [book, health, diabetes]
 ---
 
-- Type 2 diabetes is
-  - Caused by too much sugar (sugar + refined carbs)
+- Type 2 diabetes:
+  - Is caused by too much sugar (sugar + refined carbs)
   - Affects every organ in the body
-  - Reversible and preventable without medications by simply
+  - Is reversible and preventable without medications by simply
     - Put less sugar in
       - Don't add sugar as it has no nutritional value
       - Eliminate breads, pastas made from while flour, white rice and potatoes
