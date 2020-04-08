@@ -6,147 +6,148 @@ category: Key-takeaways-from-important-reading
 tags: [book, productivity, business]
 ---
 
-- The starting line
-  - Build less: less features, options, people, meetings, promises
-  - Solve your problem
-    - You know what’s is important and what’s not for the product itself
-    - It’s likely people have the same problem so now you have a market too
-  - Fund yourself - outside funding is plan B
-    - Investors want their money back quickly -> overhead + other complicated things follow
-    - Money constraints force you to focus + allow creativity
-  - Fix time and budget, flex scope: better to launch great thing, on time, on a budget in small scope than big ones with many holes
-  - Pick up an enemy and use it as an motivation to tell better story
-  - If your app doesn't excite you, something’s wrong
-- Stay lean
-  - Simplify + focus
-  - Lower the cost of change -> change faster (huge advantage over big company)
-  - Start with 3 people: a developer, a designer, and a sweeper who can roam between both world
+- The starting line:
+  - Build less: less features, options, people, meetings, promises.
+  - Solve your problem.
+    - You know what’s is important and what’s not for the product itself.
+    - It’s likely people have the same problem so now you have a market too.
+  - Fund yourself
+    - Outside funding is plan B.
+    - Investors want their money back quickly -> overhead + other complicated things follow.
+    - Money constraints force you to focus + allow creativity.
+  - Fix time and budget, flex scope: better to launch great thing, on time, on a budget in small scope than big ones with many holes.
+  - Pick up an enemy and use it as an motivation to tell better story.
+  - If your app doesn't excite you, something’s wrong.
+- Stay lean.
+  - Simplify + focus.
+  - Lower the cost of change -> change faster (huge advantage over big company).
+  - Start with 3 people: a developer, a designer, and a sweeper who can roam between both world.
   - Work with your limited resources. Forget about VC, long release cycles, quick hires,...
-  - Stay small and friendly -> get closer to customer
-- Priorities
+  - Stay small and friendly -> get closer to customer.
+- Priorities.
   - What is the app vision? Why does it exit? What makes it different?
-  - Don’t get too deep in the details early one. Ship it first and optimize it later
-  - don’t waste time on problems you don’t have yet: 
+  - Don’t get too deep in the details early one. Ship it first and optimize it later.
+  - Don’t waste time on problems you don’t have yet: 
     - Scaling to millions of users? Stop dreaming! Majority of apps are never going to reach that phase. Worry about it later once it’s wildly successful.
-    - Make decisions in time
-  - Find the right audience
-    - Narrow the market
-    - Focus on the nice or small group of people who wants the product the most
-    - Don’t try to please everyone
-  - Make opinionated software, choose side, like every great companies: Google, Apple,...
-- Feature selection
+    - Make decisions in time.
+  - Find the right audience.
+    - Narrow the market.
+    - Focus on the nice or small group of people who wants the product the most.
+    - Don’t try to please everyone.
+  - Make opinionated software, choose side, like every great companies (Apple, Google, Nitendo).
+- Feature selection.
   - What is the heart of the app?
     - Forget milestone, TODO lists.
     - Just focus on the essential.
     - Let it gain traction. Then add to that foundation.
   - Focus on what matters, REALLY. Cut off everything else.
   - Learn to say no because you have to do that a lot.
-  - For every new feature, you need to
-    - Say no
-    - Force the feature to provide its value
-    - If no, end. If yes, continue
-    - Sketch the UI
-    - Design the UI
-    - Code
-    - Test, tweak, repeat
-    - Document
-    - Market
-    - Revisit pricing options, term of service,
-    - Launch
-  - Build something that you can manage, organizationally, strategically, financially
+  - For every new feature, you need to:
+    - Say no.
+    - Force the feature to provide its value.
+    - If no, end. If yes, continue.
+    - Sketch the UI.
+    - Design the UI.
+    - Code.
+    - Test, tweak, repeat.
+    - Document.
+    - Market.
+    - Revisit pricing options, term of service.
+    - Launch.
+  - Build something that you can manage, organizationally, strategically, financially.
   - Don’t worry too much about feature requests. Customers will constantly remind you about that.
   - Ask customer what they don’t want too and simplify it if possible.
-- Process
-  - Get something real up and running quickly: it’s ok to do less, skip details, take shortcuts
-    - Fail fast and learn
-    - Avoid unproductive scheduling and action faking (doing bullshit works that feel “productive” that doesn't get you closer to launching)
-  - Idea-to-implementation cycle
+- Process.
+  - Get something real up and running quickly: it’s OK to do less, skip details, take shortcuts.
+    - Fail fast and learn.
+    - Avoid unproductive scheduling and action faking (doing bullshit works that feel “productive” that doesn't get you closer to launching).
+  - Idea-to-implementation cycle.
     - What does the app need to do? What exactly are you going to make?
-    - Sketch it out on paper
-    - Create mock-up html screens
-    - Code
+    - Sketch it out on paper.
+    - Create mock-up html screens.
+    - Code.
   - Allowing options/preferences for customers is not necessarily helping them.
     - If you make a bad call, they will complain, then you can fix it.
   - Execute. Build momentum. Move on.
   - Test in the wild.
-    - Get it out there. Get real results + feedback
-    - Instead of having a beta version and a release version, have beta features in side the release one so you can have real data + workflow
+    - Get it out there. Get real results + feedback.
+    - Instead of having a beta version and a release version, have beta features in side the release one so you can have real data + workflow.
     - Break it down into smaller problems and solve it one by one.
-- Organization
-  - Build a healthy organization
-  - Utilize your alone time to get work done
+- Organization.
+  - Build a healthy organization.
+  - Utilize your alone time to get work done.
   - Meetings are normally unproductive.
-  - Have fewer meetings
-  - Only have it with a clear agenda
+  - Have fewer meetings.
+  - Only have it with a clear agenda.
   - Release something today. Celebrate small victories.
-- Staffing
+- Staffing.
   - Hire less, only when it’s really needed.
   - Working with prospective employees on a real project can give a lot of insights. However, not everyone has time for that.
-  - Look at people codes + contribution on open-source projects
-  - Go for quick learning generalists over ingrained specialists
-  - Go for happy one
-  - Hire good writers because they know how to communicate
-- Interface
-  - Design the interface before you start coding
+  - Look at people codes + contribution on open-source projects.
+  - Go for quick learning generalists over ingrained specialists.
+  - Go for happy one.
+  - Hire good writers because they know how to communicate.
+- Interface.
+  - Design the interface before you start coding.
   - Start from the core page and build outward. Focus on what matters.
-  - For each page, consider these 3 states
-    - Blank: the screen before data is entered // could insert quick tutorials, help blurbs, examples with mock data…
+  - For each page, consider these 3 states:
+    - Blank: the screen before data is entered (could insert quick tutorials, help blurbs, examples with mock data,...)
     - Regular: normal page
     - Error: when shit happens
-  - It’s ok to be inconsistent if your design makes more sense that way
+  - It’s OK to be inconsistent if your design makes more sense that way
   - Every letter matters.
-    - Don’t sound like an engineer talking to another engineer
-    - Keep it short and sweet
-  - Incorporate admin function into public interfaces so you don’t need to manage 2 different versions
-- Code
+    - Don’t sound like an engineer talking to another engineer.
+    - Keep it short and sweet.
+  - Incorporate admin function into public interfaces so you don’t need to manage 2 different versions.
+- Code.
   - Keep it simple. But be mindful about technical debt.
-  - Less maintenance and support work
-  - Low cost of change
-  - Fewer bugs
-  - Choose the tools that everyone is happy and productive with
+  - Less maintenance and support work.
+  - Low cost of change.
+  - Fewer bugs.
+  - Choose the tools that everyone is happy and productive with.
   - Get data into the world via RSS, API,...
-- Words
+- Words.
   - Document what is needed but nothing else.
   - Write stories, not details.
-    - Don’t get into the technical/design details, just a quick story
-    - Treat it as a normal conversation
-  - Use real data if possible, not dummy text all the time -> focus on the UX
+    - Don’t get into the technical/design details, just a quick story.
+    - Treat it as a normal conversation.
+  - Use real data if possible, not dummy text all the time -> focus on the UX.
   - What is your product’s personality type?
 - Pricing and signup
   - Give something for free. Let  people experience and see its usefulness.
-  - Make signup and cancellation easy
+  - Make signup and cancellation easy.
   - Avoid long term contract, signup fee,...
-- Promotion
-  - Teaser (dropping hints), preview, launch
+- Promotion.
+  - Teaser (dropping hints), preview, launch.
   - Build a promo site: overview, tour, screenshots, videos, manifesto, case studies, buzz (customers, press reviews,...), forum, pricing and signup, blog,...
   - Blogging can be more effective (and cheaper) than advertising. Could write about advices, tips, tricks, links,...
-  - Start collecting emails asap
+  - Start collecting emails asap.
   - Share your knowledge. Teaching/educating is a great way to market yourself and your product too.
-    - Blog (as above)
-    - Speak at conferences
-    - Conduct workshops
+    - Blog (as above).
+    - Speak at conferences.
+    - Conduct workshops.
     - Give interviews.
     - Write articles/books
-  - Track your online present. Leave comments, thank you notes, response to negative ones thoughtfully
-  - Promote upgrade, in-app purchases
-  - Pick an short, catchy, memorable name
-- Support
+  - Track your online present. Leave comments, thank you notes, response to negative ones thoughtfully.
+  - Promote upgrade, in-app purchases.
+  - Pick an short, catchy, memorable name.
+- Support.
   - Feel the pain yourself. Don’t outsource. Learn from it.
-  - Use inline help and FAQ instead of giving manual training
-  - Just response quickly even if you don’t have a perfect answer (during business hour)
-  - Also thank them for their input
-  - Be willing to say no
-  - Use forum or chat to let customers help each other
-  - Be open, honest, transparent (yeah bad news)
-- Post launch
-  - Issue a major update 30 days after launch
-  - Don’t stop blogging: new FAQs, tutorials, news, features, updates, fixes, buzz/pres
-  - Prioritize your bugs
-  - Wait before the storm, 1-2 days after releasing a new feature and hearing complaints, then take action
-  - Know your competitors
+  - Use inline help and FAQ instead of giving manual training.
+  - Just response quickly even if you don’t have a perfect answer (during business hour).
+  - Also thank them for their input.
+  - Be willing to say no.
+  - Use forum or chat to let customers help each other.
+  - Be open, honest, transparent (yeah bad news).
+- Post launch.
+  - Issue a major update 30 days after launch.
+  - Don’t stop blogging: new FAQs, tutorials, news, features, updates, fixes, buzz/press.
+  - Prioritize your bugs.
+  - Wait before the storm, 1-2 days after releasing a new feature and hearing complaints, then take action.
+  - Know your competitors.
   - More mature doesn't mean more complicated, as long as you provide valuable services that’s fine.
-  - Be open to new paths and changes in direction 
+  - Be open to new paths and changes in direction .
 
 <br>
 **References:**
-- [https://basecamp.com/books/getting-real](https://basecamp.com/books/getting-real)
+- <https://basecamp.com/books/getting-real>
