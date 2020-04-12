@@ -46,12 +46,13 @@ tags: [book, health, biohacking, diabetes]
     - Vitamin D
     - Try Zona Plus to help with cardiovascular issues
 - Age backward
-  - Stop eating sugar, soy, excess omega-6 fats, refined carbs
+  - Stop eating sugar, soy, excess omega-6 fats, refined carbs.
+    - Replace with saturated fat from grass-fed meat, pastured eggs, energy fats.
   - Exercise intensely 3 times a week to boost testosterone levels.
     - HIIT is real effective
     - Make sure to recover fully in between sessions
-    - Make sure to get quality sleep
-  - Consider taking vitamin D3 and zinc
+    - Get plenty of quality sleep
+  - Consider taking L-tyrosine, vitamin D3, K2, A and zinc to achive healthy hormone levels.
   - Clean up your diet and your mouth.
     - Eliminate sugar
     - Try oil pulling
