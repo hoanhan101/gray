@@ -4,6 +4,9 @@ layout: default
 
 <article role="article">
   <h1>{{ page.title }}</h1>
+
+  <p>{{ page.summary }}</p>
+
   <time class="date" datetime="{{ page.date | date_to_xmlschema }}">
       {{ page.date | date: "%B %-d, %Y" }} &middot;
 
@@ -16,15 +19,15 @@ layout: default
       read &middot;
 
       <a class="post" href="/category/{{page.category}}">{{ page.category | replace: "-", " " }}</a>
+
+      <hr>
   </time>
 
   {{ content }}
 
-  <br>
-
   <!-- Related posts: -->
     <div class="related">
-        <h3><small>Related Posts:</small></h3>
+        <h3><small>Similar posts:</small></h3>
 
         <ul>
         {% assign relatedCount = 0 %}
@@ -42,7 +45,7 @@ layout: default
         </ul>
     </div>
   
-  <br>
+  <hr>
 
   <p>
       Tagged:
@@ -50,9 +53,7 @@ layout: default
       <a class="post" href="/tag/{{tag}}">#{{tag}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}
   </p>
       
-  <hr style="height:2px; border:none; margin: 2rem 0; background-color:#e7e9ee;">
-
-  {% include share_buttons.html %}
+  <br>
 
   {% disqus %}
   
