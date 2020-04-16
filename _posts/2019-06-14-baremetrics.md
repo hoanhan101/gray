@@ -46,7 +46,6 @@ Subscription.
   building a landing page,...)
 - Later wrote useful, educational content on the blog.
 
-<br>
-
+<hr>
 References:
 - [Launching Your Product and Finding Customers Immediately with Josh Pigford of Baremetrics](https://www.indiehackers.com/podcast/006-josh-pigford-of-baremetrics)

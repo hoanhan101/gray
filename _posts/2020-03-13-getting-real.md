@@ -148,6 +148,6 @@ tags: [book, productivity, business]
   - More mature doesn't mean more complicated, as long as you provide valuable services that’s fine.
   - Be open to new paths and changes in direction .
 
-<br>
+<hr>
 **References:**
 - <https://basecamp.com/books/getting-real>

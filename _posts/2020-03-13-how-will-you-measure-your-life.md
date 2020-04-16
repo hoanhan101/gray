@@ -45,6 +45,6 @@ tags: [book, career, relationship]
   - Integrity requires constant self-awareness
   - The best way to avoid the consequences of uncomfortable moral concessions is to never start making in the first place
 
-<br>
+<hr>
 **References:**
 - <https://www.amazon.com/How-Will-Measure-Your-Life/dp/0062102419>

@@ -33,6 +33,6 @@ tags: [book, memory, productivity]
     - Make it part of your DAILY routine.
     - Stop listening to your feelings, just do it whether you feel like it or not.
 
-<br>
+<hr>
 **References:**
 - <https://www.amazon.com/Unlimited-Memory-Advanced-Strategies-Productive-ebook/dp/B00I3QS1XQ>

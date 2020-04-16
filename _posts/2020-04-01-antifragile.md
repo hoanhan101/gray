@@ -47,7 +47,7 @@ tags: [book, antifragile, investing]
   - Put most of your money in safe investments and 10% in highly lucrative ones.
   - Keep your day job but take massive action on your side hustle at night.
 
-<br>
+<hr>
 **References:**
 - <https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680>
 - <http://siimland.com/become-antifragile/>

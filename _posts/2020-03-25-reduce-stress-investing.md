@@ -22,6 +22,6 @@ Paying too much attention to your investments (more than once per quarter) costs
 
 Next time, think twice before you feel the urge to check on your performance!
 
-<br>
+<hr>
 **References:**
 - [https://www.betterment.com/resources/reduce-stress-investing/](https://www.betterment.com/resources/reduce-stress-investing/)

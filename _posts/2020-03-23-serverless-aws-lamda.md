@@ -47,6 +47,6 @@ tags: [serverless, aws, lamda]
   - Tasks requiring no on-demand computation
     - Serving static web files
 
-<br>
+<hr>
 **References:**
 - [https://www.educative.io/courses/running-serverless-applications-aws-lambda](https://www.educative.io/courses/running-serverless-applications-aws-lambda)

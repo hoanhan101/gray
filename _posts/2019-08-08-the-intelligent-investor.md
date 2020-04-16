@@ -26,6 +26,6 @@ tags: [book, investing]
   - Fluctuations can't be foreseen
   - Crises happen from time to time
 
-<br>
+<hr>
 **References:**
 - <https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661>

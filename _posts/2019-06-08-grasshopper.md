@@ -40,7 +40,6 @@ Subscription.
   tatics wouldn't work today. Basically test as many channels as possible, and
   get feedbacks quickly.
 
-<br>
-
+<hr>
 References:
 - [Bootstrapping a SaaS Business to $30,000,000/year with David Hauser of Grasshopper](https://www.indiehackers.com/podcast/003-david-hauser-of-grasshopper)

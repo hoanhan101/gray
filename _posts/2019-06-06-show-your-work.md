@@ -27,6 +27,6 @@ A book for people who hate the very idea of self-promotion:
   - Short rest: exercise, take a walk, hike, 
   - Long rest: years off, sabbatical,...anything to help you recharge and ready for a new beginning
 
-<br>
+<hr>
 **References:**
 - [https://austinkleon.com/show-your-work/](https://austinkleon.com/show-your-work/)

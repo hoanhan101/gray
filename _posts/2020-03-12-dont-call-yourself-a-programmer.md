@@ -29,6 +29,6 @@ tags: [blog, business, negotiation]
 - Read Never Eat Alone for some social grooming hack.
 - Work to live, don’t live to work.
 
-<br>
+<hr>
 **References:**
 - [https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)

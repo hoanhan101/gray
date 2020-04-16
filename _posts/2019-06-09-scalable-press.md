@@ -45,7 +45,6 @@ Manufacture.
 - Had people signed up early for the API, a lot from Hacker News. A lot of them
   turned into customers.
 
-<br>
-
+<hr>
 References:
 - [How to Execute Well and Beat the Competition with Eric Zhang of Scalable Press](https://www.indiehackers.com/podcast/101-eric-zhang-of-scalable-press)

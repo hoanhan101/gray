@@ -61,6 +61,6 @@ tags: [book, productivity, impact, compound]
   - Bounce ideas off teammates
 - Define measurable milestones
 
-<br>
+<hr>
 **References:**
 - [https://www.effectiveengineer.com/book](https://www.effectiveengineer.com/book)

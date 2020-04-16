@@ -90,6 +90,6 @@ tags: [book, business, wealth, investing]
     - People don’t care about improving their lives unless they have experiences hardship - shitty job, shitty boss, shitty commute, meaningless life,… 
     - That said, have a strong motive and just do it.
 
-<br>
+<hr>
 **References:**
 - <http://www.themillionairefastlane.com/>

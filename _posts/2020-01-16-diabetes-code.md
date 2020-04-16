@@ -19,6 +19,6 @@ tags: [book, health, diabetes]
     - Burn off remaining sugar
       - Fasting is the simplest and surest method to force your body to burn sugar
 
-<br>
+<hr>
 **References:**
 - [https://www.amazon.com/Diabetes-Code-Prevent-Reverse-Naturally/dp/1771642653](https://www.amazon.com/Diabetes-Code-Prevent-Reverse-Naturally/dp/1771642653)

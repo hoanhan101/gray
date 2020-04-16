@@ -46,7 +46,6 @@ Subscription.
 - Through direct contact as above.
 - Also launch pre-sale programs.
 
-<br>
-
+<hr>
 References:
 - [Growing a $600,000/mo Business by Starting with Direct Sales with Nathan Barry of ConvertKit](https://www.indiehackers.com/podcast/008-nathan-barry-of-convertkit)

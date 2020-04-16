@@ -37,6 +37,6 @@ tags: [microservices, linkedin]
 - Utilized optimized hardware, advanced memory and system tuning, and newer Java runtimes
 
 
-<br>
+<hr>
 **References:**
 - [https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)

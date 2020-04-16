@@ -46,6 +46,6 @@ original and do it well is always worth the effort.
 > being human is really all about, and it is alone what justifies the self-love
 > that is pride.” (Richard Taylor, Restoring Pride)
 
-<br>
+<hr>
 **References:**
 - [https://academyofideas.com/2018/09/passivity-mediocrity-mental-illness/](https://academyofideas.com/2018/09/passivity-mediocrity-mental-illness/)

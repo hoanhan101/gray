@@ -49,7 +49,6 @@ Direct sale.
   replicate artist's painting, making a 2-player version of 2048 and having
   featured on top of Hacker News,...
 
-<br>
-
+<hr>
 References:
 - [Fueling Growth with SEO and Content Marketing with Chris Chen of Instapainting](https://www.indiehackers.com/podcast/002-chris-chen-of-instapainting)

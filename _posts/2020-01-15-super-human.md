@@ -64,6 +64,6 @@ tags: [book, health, biohacking, diabetes]
     - Consider GAINSWave treatments
     - Practice Kegel on a daily basis
 
-<br>
+<hr>
 **References:**
 - [https://www.amazon.com/Super-Human-Bulletproof-Backward-Forever/dp/0062882821](https://www.amazon.com/Super-Human-Bulletproof-Backward-Forever/dp/0062882821)

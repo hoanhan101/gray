@@ -205,6 +205,6 @@ tags: [architecture]
   - Decentralized social network
 
 
-<br>
+<hr>
 **References:**
 - [https://www.educative.io/courses/web-application-software-architecture-101](https://www.educative.io/courses/web-application-software-architecture-101)
