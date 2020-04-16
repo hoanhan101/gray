@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Modern Web Architectural Components
-summary: A comprehensive insight into the modern web application architecture and its components, featuring scalability, database, message queue, stream processing and so on
+summary: A comprehensive insight into the modern web application architecture and its components, featuring scalability, database, message queue, stream processing and so on.
 category: System-design-notes
 tags: [architecture]
 ---

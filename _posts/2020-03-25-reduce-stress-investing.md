@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Checking Performance Might Hurt Your Performance
-summary: Monitoring performance frequently tends to result in stress, unhappiness, and can even end up reducing your returns
+summary: Monitoring performance frequently tends to result in stress, unhappiness, and can even end up reducing your returns.
 category: Key-takeaways-from-important-reading
 tags: [health, stress, investing]
 ---

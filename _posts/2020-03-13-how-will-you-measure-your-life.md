@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Clayton Christensen, How Will You Measure Your Life?
-summary: How to be successful and happy in your career, find happiness in relationships, live a life of integrity
+summary: How to be successful and happy in your career, find happiness in relationships, live a life of integrity.
 category: Key-takeaways-from-important-reading
 tags: [book, career, relationship]
 ---

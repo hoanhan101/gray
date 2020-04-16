@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jason Fried, Getting Real
-summary: The Smarter, Faster, Easier Way to Build a Successful Web Application
+summary: The Smarter, Faster, Easier Way to Build a Successful Web Application.
 category: Key-takeaways-from-important-reading
 tags: [book, productivity, business]
 ---

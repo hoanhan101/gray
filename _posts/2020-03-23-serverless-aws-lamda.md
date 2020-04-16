@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Serverless architecture with AWS Lamda
-summary: Serverless overview, pricing models, AWS Lamda technical constraints
+summary: Serverless overview, pricing models, AWS Lamda technical constraints.
 category: System-design-notes
 tags: [serverless, aws, lamda]
 ---

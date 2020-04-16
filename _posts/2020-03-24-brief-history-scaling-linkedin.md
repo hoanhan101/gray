@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Brief History of Scaling LinkedIn
-summary: How they started in 2003, had 2700 members the first week until 2015 when they served more then 350 millions members
+summary: How they started in 2003, had 2700 members the first week until 2015 when they served more then 350 millions members.
 category: System-design-notes
 tags: [microservices, linkedin]
 ---
