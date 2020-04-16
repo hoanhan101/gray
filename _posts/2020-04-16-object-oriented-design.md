@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Object Oriented Design Case Studies
-summary: Facebook, Amazon, LinkedIn, Stack Overflow, Library Management System, Stock Brokerage System and so on.
+title: Object Oriented Design Patterns
+summary: Case studies include Facebook, Amazon, LinkedIn, Stack Overflow, Library Management System, Stock Brokerage System and so on.
 category: System-design-notes
 tags: [architecture]
 ---
