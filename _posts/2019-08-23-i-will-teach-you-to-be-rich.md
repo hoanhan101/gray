@@ -3,7 +3,7 @@ layout: post
 title: Ramit Sethi, I Will Teach You to Be Rich
 summary: How to earn more, save more and live a rich life
 category: Key-takeaways-from-important-reading
-tags: [book, spending, saving, investing, rich, compound]
+tags: [book, spending, saving, investing, wealth, rich, compound]
 ---
 
 - When it comes to weight loss, the keys are to eat less and exercise more. But instead of focusing on these 2 fundamental things, we discuss trans fat, supplements,...
