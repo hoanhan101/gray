@@ -1,18 +1,18 @@
 ---
 layout: post
 title: William Braxton Irvine, A Guide to the Good Life
-summary: Stoicism practical lessons on living a good life.
+summary: Psychological techniques to practice Stoicism in order to attain a good life.
 category: Key-takeaways-from-important-reading
 tags: [life, wealth]
 ---
 
-- Stoic view of a good life:
+- What is a good life according to Stoicism?
   - Having a good life is not about making a good living, aka having a high-paying job since one could hate the job or have conflicting thoughts about its moral.
   - A person must be virtuous in order to have a good life.
     - A person's virtue depends on their excellence as a human being, how well one performs the function for which humans were designed.
       - A virtuous hammer is one that can drive nails well, a virtuous scissors is one that can cut well.
     - To be virtuous is to live as we were designed to live, that is to reason, to do certain things, to have certain duties. For example, one of which is the social duty that is to honor our parents, be agreeable to our friends,...
-- Psychological techniques:
+- Psychological techniques to practice Stoicism:
   - Negative visualization:
     - Bad things happen, no matter how hard we try to prevent them. Assuming we will always be able to enjoy things we value causes us distress when they are taken from us.
     - We are unhappy largely because we're insatiable. After working hard for what we desire, we quickly get bored, dissatisfied, take things for granted and eventually chase new desire.
