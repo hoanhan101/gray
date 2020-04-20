@@ -28,4 +28,8 @@ tags: [life, wealth]
       - Complete control: goals we set for ourself, opinions and values we form
       - No control: whether the sun will rise tomorrow
       - Some but not complete control: whether we will win a competition or become a millionaire though we try really hard for it
+    - We should not concern ourselves with things that we have no control of.
     - If we want things that we have less or no control, we will sometimes fail to get what we want, be upset and anxious about it.
+    - A strategy to deal with things that we have less or no control is to be careful about the goals and values that we form.
+      - Instead of setting a goal to win a competition, which we only have partial control, set a goal to do our best in the match, which we have complete control.
+      - We'll free ourself from frustration or disappointment if we lose.
