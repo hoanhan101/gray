@@ -3,7 +3,7 @@ layout: post
 title: William Braxton Irvine, A Guide to the Good Life
 summary: Psychological techniques to practice Stoicism for attaining a good life.
 category: Key-takeaways-from-important-reading
-tags: [book, life, wealth, stoic]
+tags: [book, stoic, meaning, life]
 ---
 
 - What is a good life according to Stoicism?
@@ -46,6 +46,17 @@ tags: [book, life, wealth, stoic]
       - Help us appreciate what we have.
     - Besides practicing voluntary discomfort, we should sometimes forgo opportunities to experience pleasure, choose not to do things that make us feel good (eating carb and sugar).
     - Willpower is like muscle power: the more exercise, the stronger they are; the more will power we have, the more self-control and courage we have.
+  - Meditation:
+    - On the events of daily living at bedtime:
+      - Did something disrupt our tranquility?
+      - Did we experience anger/envy/lust?
+      - Is there something that I could avoid?
+    - On our Stoic progress:
+      - Do we periodically engage in negative visualization?
+      - Do we take time to distinguish between these things over which we have control, less and no control?
+      - Are we careful to initialize our goals?
+      - Have we refrained from dwelling on the past and instead focused our attention on the future?
+      - Have we consciously practiced acts of self-denial?
 
 <hr>
 **References:**
