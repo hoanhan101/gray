@@ -38,6 +38,14 @@ tags: [book, life, wealth, stoic]
     - We must learn to welcome whatever comes to us and trust that it happens is for the best.
     - We have no control of the past as well as the present (this very moment). That said, we're wasting time worrying about past and present events.
     - Instead of wishing it could be different, embrace it.
+  - Self-denial (extension of negative visualization):
+    - Besides contemplating bad things happening, we should sometimes live as if they had happened, cause ourselves to experience discomfort that we could have avoided (experience cold weather even though clothes are at hand).
+    - Benefits of voluntary discomfort:
+      - Harden ourselves against misfortune that might happen in the future.
+      - Grow confident that we can withstand major discomfort.
+      - Help us appreciate what we have.
+    - Besides practicing voluntary discomfort, we should sometimes forgo opportunities to experience pleasure, choose not to do things that make us feel good (eating carb and sugar).
+    - Willpower is like muscle power: the more exercise, the stronger they are; the more will power we have, the more self-control and courage we have.
 
 <hr>
 **References:**
