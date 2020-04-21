@@ -17,7 +17,7 @@ cp -R _site/. ../hoanhan101.github.io
 # Push changes to github.
 cd ../hoanhan101.github.io
 git add .
-msg="🏗️ $(date)"
+msg="🏗️"
 if [ -n "$*" ]; then
 	msg="$*"
 fi
