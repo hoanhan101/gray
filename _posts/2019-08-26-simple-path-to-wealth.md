@@ -24,5 +24,5 @@ tags: [book, spending, saving, investing, rich, wealth, compound]
 
 <br>
 **References:**
-- <https://www.amazon.com/Simple-Path-Wealth-financial-independence/dp/1533667926>
+- <https://www.goodreads.com/book/show/30646587-the-simple-path-to-wealth>
 - <https://www.mrmoneymustache.com/2013/02/22/getting-rich-from-zero-to-hero-in-one-blog-post/>

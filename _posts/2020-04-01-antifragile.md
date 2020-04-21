@@ -49,5 +49,5 @@ tags: [book, antifragile, investing]
 
 <hr>
 **References:**
-- <https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680>
+- <https://www.goodreads.com/book/show/13530973-antifragile>
 - <http://siimland.com/become-antifragile/>

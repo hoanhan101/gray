@@ -35,4 +35,4 @@ tags: [book, memory, productivity]
 
 <hr>
 **References:**
-- <https://www.amazon.com/Unlimited-Memory-Advanced-Strategies-Productive-ebook/dp/B00I3QS1XQ>
+- <https://www.goodreads.com/book/show/20958539-unlimited-memory>

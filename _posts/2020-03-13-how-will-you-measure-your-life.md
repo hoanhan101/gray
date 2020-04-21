@@ -47,4 +47,4 @@ tags: [book, career, relationship]
 
 <hr>
 **References:**
-- <https://www.amazon.com/How-Will-Measure-Your-Life/dp/0062102419>
+- <https://www.goodreads.com/book/show/13425570-how-will-you-measure-your-life>

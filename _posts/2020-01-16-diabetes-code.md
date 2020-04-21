@@ -21,4 +21,4 @@ tags: [book, health, diabetes]
 
 <hr>
 **References:**
-- [https://www.amazon.com/Diabetes-Code-Prevent-Reverse-Naturally/dp/1771642653](https://www.amazon.com/Diabetes-Code-Prevent-Reverse-Naturally/dp/1771642653)
+- <https://www.goodreads.com/en/book/show/38227753>

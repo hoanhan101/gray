@@ -63,4 +63,4 @@ tags: [book, productivity, impact, compound]
 
 <hr>
 **References:**
-- [https://www.effectiveengineer.com/book](https://www.effectiveengineer.com/book)
+- <https://www.effectiveengineer.com/book>

@@ -66,4 +66,4 @@ tags: [book, health, biohacking, diabetes]
 
 <hr>
 **References:**
-- [https://www.amazon.com/Super-Human-Bulletproof-Backward-Forever/dp/0062882821](https://www.amazon.com/Super-Human-Bulletproof-Backward-Forever/dp/0062882821)
+- <https://www.goodreads.com/en/book/show/43801612>

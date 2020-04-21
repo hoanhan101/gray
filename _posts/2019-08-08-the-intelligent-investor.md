@@ -28,4 +28,4 @@ tags: [book, investing]
 
 <hr>
 **References:**
-- <https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661>
+- <https://www.goodreads.com/book/show/106835.The_Intelligent_Investor>
