@@ -3,7 +3,7 @@ layout: post
 title: William Braxton Irvine, A Guide to the Good Life
 summary: Psychological techniques to practice Stoicism for attaining a good life.
 category: Key-takeaways-from-important-reading
-tags: [life, wealth]
+tags: [book, life, wealth, stoic]
 ---
 
 - What is a good life according to Stoicism?
@@ -23,6 +23,7 @@ tags: [life, wealth]
       - Image that we have lost the things we value, our wife has left, our relatives and friends were death, we lost our job, our house, our money and so on.
       - As we go about our day, reflect periodically that we will not live forever and this day could be our last. The goal is not to change our activities but our state of mind that we carry out these activities and appreciate today.
     - Most of us are already living the dream, having a wonderful partner, a dream job, a good car though we take things for granted other than delighting in them. Some are less fortunate, still the practice of negative still can be applied.
+    - Being satisfied with what we've got doesn't mean we shouldn't seek certain things in life or strive to become better.
   - Trichotomy of control:
     - There are things over which we have:
       - Complete control: goals we set for ourself, opinions and values we form
@@ -33,3 +34,11 @@ tags: [life, wealth]
     - A strategy to deal with things that we have less or no control is to be careful about the goals and values that we form.
       - Instead of setting a goal to win a competition, which we only have partial control, set a goal to do our best in the match, which we have complete control.
       - We'll free ourself from frustration or disappointment if we lose.
+  - Fatalism:
+    - We must learn to welcome whatever comes to us and trust that it happens is for the best.
+    - We have no control of the past as well as the present (this very moment). That said, we're wasting time worrying about past and present events.
+    - Instead of wishing it could be different, embrace it.
+
+<hr>
+**References:**
+- <https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life>
