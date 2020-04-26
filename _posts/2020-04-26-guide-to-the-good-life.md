@@ -1,9 +1,9 @@
 ---
 layout: post
 title: William Braxton Irvine, A Guide to the Good Life
-summary: Psychological techniques to practice Stoicism for attaining a good life.
+summary: Psychological techniques and advices to practice Stoicism for attaining a good life.
 category: Key-takeaways-from-important-reading
-tags: [book, stoic, meaning, life]
+tags: [book, stoic, happiness, meaning, life, death, wealth]
 ---
 
 - What is a good life according to Stoicism?
@@ -84,6 +84,17 @@ tags: [book, stoic, meaning, life]
     - Things that anger us generally don't do use any real harm. Sometimes things that we think are important are actually are not that important.
     - Humor can help if we choose to think that bad things happening to us is funny and amusing.
     - When angry, force ourselves to relax our face, soften our voice, slow our pace of walking and so on.
+  - How to think about fame:
+    - If we seek social status, we give other people power over us in a sense that we have to do things that make them admire us. In other words, we will have enslaved ourselves.
+    - We should be confident about ourselves and our values and ignore what people think of us.
+  - How to think about wealth/luxurious living:
+    - There's a danger that if we're exposed to a luxurious lifestyle, we will lose our ability to take delight in simple things.
+      - We become harder to please.
+      - Our standards are constantly getting higher as we want nothing but the best.
+      - Once it starts, it's difficult to stop.
+    - Luxurious lifestyle is harder to maintain and keep up with.
+    - People who achieve luxurious lifestyle are rarely satisfied or happy since they will only learn that they crave even more luxury.
+    - Even though a Stoic doesn't pursue wealth, they nevertheless acquire it. It's acceptable for them to enjoy wealth, as long as they are careful not to cling to it. Also, by the practice of negative visualization, they should be prepared as their wealth can be taken away from them anytime.
 
 <hr>
 **References:**
