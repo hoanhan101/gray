@@ -72,10 +72,10 @@ tags: [book, stoic, happiness, meaning, life, death, wealth]
       - If it's true or we respect the insulter, we should reflect on ourselves and strive to be better.
       - If not, we should feel relived because it's the right thing to do as we don't need their approval.
         - If a dog barks us, we don't be upset by the fact that he might dislike us.
-    - One of the best way to response to insult is with humor, especially self-deprecating jokes. Another way is with no response.
+    - One of the best way to respond to insult is with humor, especially self-deprecating jokes. Another way is with no response.
       - By not responding to the insulter, we are robbing him the pleasure of having upset us which is likely to make him upset as a result.
       - Also, no one wants to be ignored and the insulter is likely to feel humiliated then.
-  - How to response to the death:
+  - How to respond to the death:
     - It's not possible to eliminate grief but possible to minimize the amount of grief we experience in our life.
     - One strategy that is mentioned above is negative visualization.
     - Remember that the person whose death that we're grieving wouldn't want us to tortured with tears.
