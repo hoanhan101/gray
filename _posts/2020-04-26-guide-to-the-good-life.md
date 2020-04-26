@@ -1,7 +1,7 @@
 ---
 layout: post
 title: William Braxton Irvine, A Guide to the Good Life
-summary: Psychological techniques and advices to practice Stoicism for attaining a good life.
+summary: Psychological techniques and advice to practice Stoicism for attaining a good life.
 category: Key-takeaways-from-important-reading
 tags: [book, stoic, happiness, meaning, life, death, wealth]
 ---
