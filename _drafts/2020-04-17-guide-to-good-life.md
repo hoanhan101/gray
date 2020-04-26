@@ -57,6 +57,33 @@ tags: [book, stoic, meaning, life]
       - Are we careful to initialize our goals?
       - Have we refrained from dwelling on the past and instead focused our attention on the future?
       - Have we consciously practiced acts of self-denial?
+- Advice on daily living:
+  - How to think about social duty:
+    - We were designed to live among other people and interact with them in a manner that is advantageous.
+    - To fulfill this social duty, we must feel a concern for all humankind, to do good and bear with them.
+  - How to preserve tranquility while interacting with other people:
+    - We can't be selective in doing our social duty (dealing with annoying, misguided people) though we can be selective about whom we befriend, ones that share our values.
+    - When dealing with annoying people, keep in mind that there are people that find us annoying as well so that we can also reflect on our shortcomings and become more empathetic to others' faults.
+    - Due to fatalism, we should operate on the assumption that annoying people are fated to behave that way and it's expectable (though they can be changed of course).
+    - The risk in dealing with annoying people is that they will make us hate them, though that only makes us more like them. The best revenge is to refuse to do so.
+  - How to deal with insult:
+    - What upsets us is not things themselves but our judgments about these things.
+    - When insulted, pause and consider if what the insulter said is true, how well-inform the insulter is, or if we respect him.
+      - If it's true or we respect the insulter, we should reflect on ourselves and strive to be better.
+      - If not, we should feel relived because it's the right thing to do as we don't need their approval.
+        - If a dog barks us, we don't be upset by the fact that he might dislike us.
+    - One of the best way to response to insult is with humor, especially self-deprecating jokes. Another way is with no response.
+      - By not responding to the insulter, we are robbing him the pleasure of having upset us which is likely to make him upset as a result.
+      - Also, no one wants to be ignored and the insulter is likely to feel humiliated then.
+  - How to response to the death:
+    - It's not possible to eliminate grief but possible to minimize the amount of grief we experience in our life.
+    - One strategy that is mentioned above is negative visualization.
+    - Remember that the person whose death that we're grieving wouldn't want us to tortured with tears.
+  - How to overcome anger/anti-joy:
+    - We should fight our tendency to believe the worst about other and our tendency to jump to conclusion about their motivations.
+    - Things that anger us generally don't do use any real harm. Sometimes things that we think are important are actually are not that important.
+    - Humor can help if we choose to think that bad things happening to us is funny and amusing.
+    - When angry, force ourselves to relax our face, soften our voice, slow our pace of walking and so on.
 
 <hr>
 **References:**
