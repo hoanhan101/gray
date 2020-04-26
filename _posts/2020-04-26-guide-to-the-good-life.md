@@ -78,10 +78,10 @@ tags: [book, stoic, happiness, meaning, life, death, wealth]
   - How to respond to the death:
     - It's not possible to eliminate grief but possible to minimize the amount of grief we experience in our life.
     - One strategy that is mentioned above is negative visualization.
-    - Remember that the person whose death that we're grieving wouldn't want us to tortured with tears.
+    - Remember that the person whose death that we're grieving wouldn't want us to be tortured with tears.
   - How to overcome anger/anti-joy:
     - We should fight our tendency to believe the worst about other and our tendency to jump to conclusion about their motivations.
-    - Things that anger us generally don't do use any real harm. Sometimes things that we think are important are actually are not that important.
+    - Things that anger us generally don't do us any real harm. Sometimes things that we think are important are actually are not that important.
     - Humor can help if we choose to think that bad things happening to us is funny and amusing.
     - When angry, force ourselves to relax our face, soften our voice, slow our pace of walking and so on.
   - How to think about fame:
