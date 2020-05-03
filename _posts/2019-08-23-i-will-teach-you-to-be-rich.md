@@ -46,7 +46,7 @@ tags: [book, spending, saving, investing, wealth, rich, compound]
     - If there’s money left over, keep contributing to 401k (check current limits).
     - Then, Health saving account (HSA).
     - Then, Non-retirement investment account.
-- 401k vs Roth IRA
+- 401k vs Roth IRA.
   - 401k
     - Pros:
       - Money is not taxed until you withdraw years later. Have more for compound grow.
@@ -70,6 +70,6 @@ tags: [book, spending, saving, investing, wealth, rich, compound]
   - Cash/saving account is the safest, 2-4%.
   - The rule of thumb is that: when you’re young, invest aggressively on stocks and bonds.
 
-<br>
+<hr>
 **References:**
 - <https://www.iwillteachyoutoberich.com/book>

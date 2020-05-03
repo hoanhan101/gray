@@ -8,15 +8,15 @@ tags: [blog, business, negotiation]
 
 - Software solves business problems. It doesn't matter if your app has the most elegant architecture, it must create value for the company aka brings in revenue.
 - Engineers are hired to create business value.
-  - Non-goals: produce the beautiful software, solve complex technical problems, use sexy frameworks
-  - Actual goals: add revenue, reduce costs - “wrote the backend billing code that 97% of Google’s revenue passes through”
+  - Non-goals: produce the beautiful software, solve complex technical problems, use sexy frameworks.
+  - Actual goals: add revenue, reduce costs - “wrote the backend billing code that 97% of Google’s revenue passes through”.
   - That’s why Quants makes more in bonuses in a good year than many talented engineers will earn in a lifetime.
 - Angel investor is a polite synonym for rich.
 - Most hiring happens privately.
   - Resume is not the primary way to get job interviews, but connections do.
   - Networking means:
-    - Meet people at some point can help you
-    - Make a favorable impression on them
+    - Meet people at some point can help you.
+    - Make a favorable impression on them.
   - Strive to help people first so it’s harder for them to refuse to help you later.
 - Academia is not like the real world.
 - People who are skilled in negotiation make more than those who are not.
@@ -31,4 +31,4 @@ tags: [blog, business, negotiation]
 
 <hr>
 **References:**
-- [https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
+- <https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/>

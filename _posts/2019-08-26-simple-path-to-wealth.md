@@ -11,6 +11,8 @@ tags: [book, spending, saving, investing, rich, wealth, compound]
   - Avoid debts.
   - Optimize travelling cost by living close to work or doing remote work.
   - Don't buy expensive car.
+    - [If you don’t even have the money invested somewhere to allow you to pay for a car in cash, you are obviously far too poor to buy that car.](https://www.mrmoneymustache.com/2011/11/28/new-cars-and-auto-financing-stupid-or-sensible/)
+    - [Buy good used ones.](https://www.mrmoneymustache.com/2012/03/19/top-10-cars-for-smart-people/)
   - Cook at home.
 - Invest in low cost index fund.
   - The market always go up.
@@ -22,7 +24,7 @@ tags: [book, spending, saving, investing, rich, wealth, compound]
   - Begin expending your lifestyle still keep your spending level at 4% of your holding.
   - Consider having children or buying a house.
 
-<br>
+<hr>
 **References:**
 - <https://www.goodreads.com/book/show/30646587-the-simple-path-to-wealth>
 - <https://www.mrmoneymustache.com/2013/02/22/getting-rich-from-zero-to-hero-in-one-blog-post/>
