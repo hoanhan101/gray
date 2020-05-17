@@ -47,5 +47,5 @@ Subscription.
 - Later wrote useful, educational content on the blog.
 
 <hr>
-References:
+**References:**
 - [Launching Your Product and Finding Customers Immediately with Josh Pigford of Baremetrics](https://www.indiehackers.com/podcast/006-josh-pigford-of-baremetrics)

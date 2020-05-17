@@ -46,5 +46,5 @@ Manufacture.
   turned into customers.
 
 <hr>
-References:
+**References:**
 - [How to Execute Well and Beat the Competition with Eric Zhang of Scalable Press](https://www.indiehackers.com/podcast/101-eric-zhang-of-scalable-press)

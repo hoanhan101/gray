@@ -41,5 +41,5 @@ Subscription.
   get feedbacks quickly.
 
 <hr>
-References:
+**References:**
 - [Bootstrapping a SaaS Business to $30,000,000/year with David Hauser of Grasshopper](https://www.indiehackers.com/podcast/003-david-hauser-of-grasshopper)

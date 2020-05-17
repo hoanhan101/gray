@@ -42,5 +42,5 @@ $50k a month.
 - Many musicians turned into customers.
 
 <hr>
-References:
+**References:**
 - [Building an Audience and Being Scrappy with Jason Grishkoff of SubmitHub](https://www.indiehackers.com/podcast/001-jason-grishkoff-of-submithub)

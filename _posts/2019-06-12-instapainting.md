@@ -50,5 +50,5 @@ Direct sale.
   featured on top of Hacker News,...
 
 <hr>
-References:
+**References:**
 - [Fueling Growth with SEO and Content Marketing with Chris Chen of Instapainting](https://www.indiehackers.com/podcast/002-chris-chen-of-instapainting)
