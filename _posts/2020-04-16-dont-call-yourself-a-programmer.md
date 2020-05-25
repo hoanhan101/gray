@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Patrick McKenzie, Don't Call Yourself A Programmer
-summary: This is for fairly bright young engineer with zero knowledge on how the real world actually works
+summary: This is for fairly bright young engineer with zero knowledge on how the real world actually works.
 category: Key-takeaways-from-important-reading
 tags: [blog, business, negotiation]
 ---
@@ -21,7 +21,7 @@ tags: [blog, business, negotiation]
 - Academia is not like the real world.
 - People who are skilled in negotiation make more than those who are not.
   - Sell solution to a business need rather than your programming skill.
-  - Learn to negotiate better. (Getting to Yes)
+  - Learn to negotiate better (refer to [Getting to Yes](https://www.goodreads.com/book/show/313605.Getting_to_Yes)).
 - Working at a startup vs megacorp is more of a lifestyle choice.
 - Your most important professional skill is communication.
 - Engineers are not hired to create programs. They are hired to create business value. The dominant quality which gets you jobs is the ability to give people the perception that you will create value.  This is not necessarily coextensive with ability to create value.
