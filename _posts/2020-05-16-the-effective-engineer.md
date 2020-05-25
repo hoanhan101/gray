@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Edmond Lau, The Effective Engineer
-summary: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact.
+summary: How to leverage your efforts in software engineering to make a meaningful impact.
 category: Key-takeaways-from-important-reading
 tags: [book, productivity, impact, compound]
 ---
