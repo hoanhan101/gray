@@ -18,6 +18,7 @@ tags: [book, happiness, meaning, life, wealth]
       - Spending more time with friends and family.
       - Reducing commuting time even if it means living in smaller houses.
       - Taking longer vacations even if it means earning less.
+      - [Programming Ruby, building Basecamp, writing for Signal v Noise, taking pictures, and enjoying all the same avenues of learning and entertainment my already privileged lifestyle had afforded me for years in advance.](https://m.signalvnoise.com/the-day-i-became-a-millionaire/)
 - V are things that we choose to do, not that we have to, such as meditation, exercise, learning new things and so on.
   - We can increase our happiness if we use your strengths, particularly in the service of strengthening connections such as helping friends, expressing gratitude to benefactors.
   - According to the progress principle, pleasure comes more from making progress toward a goal than from achieving them. That said, we should take the initiative and perform gratifying activities regularly.
