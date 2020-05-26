@@ -39,6 +39,10 @@ tags: [architecture]
     - Evolvability: make it easy for engineers to make changes.
       - Follow agile approach.
 - Data models and query languages.
+  - Data started out being represented as one big tree, though it wasn't good for representing many-to-many relationships models, so the relational model was invented.
+  - However, some applications didn't fit well into the relational model, non-relational NoSQL was born:
+    - Document database: self-contained documents, rare relationships between one model and another.
+    - Graph database: anything is related to everything.
 - Storage and retrieval.
 - Encoding and evolution.
 
