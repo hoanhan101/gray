@@ -44,6 +44,19 @@ tags: [architecture]
     - Document database: self-contained documents, rare relationships between one model and another.
     - Graph database: anything is related to everything.
 - Storage and retrieval.
+  - Data structres that power your database:
+    - Hash indexes:
+      - Basically key-value pairs where each key is mapped to a byte offset in the data file.
+      - Can also split it into smaller chunks/segments for easy storing.
+      - Even though it's easy to understand and implement, it has memory constrains that the hash table must fit in memory. Also range queries are not efficient since hashed keys are not put next to each other.
+    - Sorted String Table (SSTable) and Log-Structured Merge-Tree (LSM-trees):
+      - SSTable maintains a list of key-value pairs that is sorted by key.
+      - The table can also be split into smaller segments and merging is simple as it is sorted.
+      - Maintaining a sorted structure on disk is possible, though keeping it in memory is easy as we can use a tree data structure such as Red-Black trees or AVL trees (memtable).
+      - If the database crashes, memtable might be lost though we can keep a separate log for it, inspired by LSM-tree indexing structure.
+    - B-trees:
+      - Like SSTables, B-trees keep key-value pairs sorted by key, which allows efficient key-value lookups and range queries.
+      - Instead of breaking down the database into variable-size segments and always writing sequentially, B-trees break into fixed-size blocks/pages and reading/writing one page at a time.
 - Encoding and evolution.
 
 ### Distributed data
