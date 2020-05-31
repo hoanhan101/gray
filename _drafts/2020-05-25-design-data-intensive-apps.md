@@ -71,6 +71,15 @@ tags: [architecture]
     - Since data warehouse queries often involve an aggregate function, such as COUNT, SUM, AVG, MIN or MAX, we can cache these aggregated values that are used often.
     - One way of creating such a cache is a materialized view, while data cube is a special case.
 - Encoding and evolution.
+  - Formats for encoding data.
+    - Many languages come with built-in support for encoding in-memory objects to byte sequences though they are not used because it's language-specific and don't show good performance.
+    - JSON, XML are widely known, supported due to the fact that they are simple, can be used by many languages and have built-in support for web browser. However, there are a lot of ambiguity around the encoding of numbers and they also don't support binary encoding (compact, efficient encoding). Hence the development of MessagePack, BSON, BJSON, and so on.
+    - Thrift and Protocol Buffers are binary encoding libraries that require a schema for any data that is encoded, that is clearly defined forward and backward compatibility semantics. They come with a code generation tool that produces classes that implement the schema in various programming languages.
+    - There's is also a binary encoding library Avro that is good for processing large files as in Hadoop’s use cases.
+  - Modes of data flow (from one process to anther).
+    - Databases: the process writing to the database encodes the data, and the process reading from the database decodes it.
+    - Calls to services, REST and RPC (gRPC): client encodes a request, server decodes the request and encodes a response, and client finally decodes the response.
+    - Asynchronous message-passing (RabbitMQ, Apache Kafka): nodes send each other messages that are encoded by the sender and decoded by the recipient.
 
 ### Distributed data
 
