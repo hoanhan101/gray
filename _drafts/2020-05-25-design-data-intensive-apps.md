@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Martin Kleppmann, Designing Data-Intensive Applications
-summary: Principles and the practicalities of data systems and how to build data-intensive applications.
+summary: Principles and practicalities of data systems and how to build data-intensive applications.
 category: System-design-notes
 tags: [architecture]
 ---
@@ -57,6 +57,19 @@ tags: [architecture]
     - B-trees:
       - Like SSTables, B-trees keep key-value pairs sorted by key, which allows efficient key-value lookups and range queries.
       - Instead of breaking down the database into variable-size segments and always writing sequentially, B-trees break into fixed-size blocks/pages and reading/writing one page at a time.
+  - Transactional processing or analytic?
+    - The basic database access pattern is similar to processing business transaction (create, read, update, delete record), as known as online transaction processing (OLTP).
+    - Since OLTP are expected to be highly available as they're critical to the operation of the business, they're reluctant to let business analysts run ad-hoc analytic queries.
+    - A data warehouse is a separate database that analysts can query without affecting OLTP operations.
+      - Data is extracted from OLTP databases, transformed into an analysis-friendly schema, cleaned up, and then loaded into the data warehouse.
+      - A big advantage of using a separate data warehouse is that the data warehouse can be optimized for analytic access patterns.
+      - 2 popular schemas that data are stored in are star schema, snowflake schema.
+  - Column-oriented storage:
+    - In most OLTP databases, storage is laid out in a row-oriented fashion: all the values from one row of a table are stored next to each other. In the column-oriented storage, all the values are stored from each column together instead.
+    - Since the sequences of values for each column are often look repetitive (distinct values are small), they often lend themselves well to compression.
+  - Aggregation:
+    - Since data warehouse queries often involve an aggregate function, such as COUNT, SUM, AVG, MIN or MAX, we can cache these aggregated values that are used often.
+    - One way of creating such a cache is a materialized view, while data cube is a special case.
 - Encoding and evolution.
 
 ### Distributed data
