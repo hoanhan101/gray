@@ -30,7 +30,7 @@ tags: [health, testosterone]
   - Exercise regularly.
     - Strength training: Starting Strength, 5/3/1 program.
     - HIIT training.
-    - Don't overtrai (3-4 times a week is good), move more instead.
+    - Don't overtrain (3-4 times a week is good), move more instead.
   - Get better sleep.
     - If you don’t have "morning wood" on a consistent basis, you might have low T.
     - If you’re not getting enough quality sleep, your body can’t produce testosterone as efficiently or effectively.
