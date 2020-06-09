@@ -48,7 +48,7 @@ tags: [book, productivity, impact, compound]
     - Is there anything else I could be doing that’s higher-leverage?
       - Focus on what directly produce value (products shipped, user acquired, business metrics moved, sales made).
       - Focus on the important and non-urgent (planning career goals, building relationships, personal development, improving workflow).
-  - Preserve larger blocks of focused time + learn to say no unimportant activities.
+  - Preserve larger blocks of focused time + learn to say no to unimportant activities.
   - Limit the amount of work in progress + resist the urge to work on too many projects at once.
   - Make it a habit.
 - Iterate quickly to build more and learn faster.
