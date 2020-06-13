@@ -110,6 +110,12 @@ tags: [architecture]
       - If the user view the data shortly after making the write, new data may have not yet reach the replica. In this case, we need read-after-write consistency, meaning we can read from the leader first, so that user always see their latest changes.
       - If a user makes several reads from different replicas and there's lagging among replicas, they might not see the correct data. Monotonic reads guarantee that this kind of anomaly does not happen by making sure that each user always makes their reads from the same replica.
       - If some followers are replicated slower than others, an observer may see the answer before they see the question. Preventing this kind of anomaly requires consistent prefix reads so that if a sequence of writes happens in a certain order, then anyone reading those writes will see them appear in the same order.
+  - Multi-leader replication:
+    - Use cases:
+      - Multi-datacenter operation: each datacenter has its own leader. This can improve perfomance, tolerance of datacenter outages though same data may be concurrently modified in two different datacenters, and those write conflicts must be resolved.
+      - Client with offline operation: every client has a local database that acts as a leader, and there is an asynchronous multi-leader replication process (sync) between the replicas on all of your clients.
+      - Real-time collaborative editing: when one user edits a document, the changes are instantly applied to their local replica and asynchronously replicated to the server and any other users who are editing the same document.
+    - Handling write conflicts:
 - Partitioning.
 - Transactions.
 - The trouble with distributed systems
