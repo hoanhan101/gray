@@ -57,6 +57,7 @@ tags: [architecture]
     - B-trees:
       - Like SSTables, B-trees keep key-value pairs sorted by key, which allows efficient key-value lookups and range queries.
       - Instead of breaking down the database into variable-size segments and always writing sequentially, B-trees break into fixed-size blocks/pages and reading/writing one page at a time.
+      - Every modification is first written to a write-ahead log (WAL) so that the index can be restored to a consistent state after a crash.
   - Transactional processing or analytic?
     - The basic database access pattern is similar to processing business transaction (create, read, update, delete record), as known as online transaction processing (OLTP).
     - Since OLTP are expected to be highly available as they're critical to the operation of the business, they're reluctant to let business analysts run ad-hoc analytic queries.
@@ -84,6 +85,27 @@ tags: [architecture]
 ### Distributed data
 
 - Replication.
+  - Why would you want to replicate data?
+    - Reduce latency by keeping data geographically close to users.
+    - Increase availability.
+    - Increase throughput.
+  - 2 types of algorithms are leader-based replication and leaderless replication.
+  - Leader-based replication:
+    - Workflow:
+      - One of the replicas is designed as the leader while others are followers.
+      - Client must send write request to the leader though can send read request to both leader and followers.
+      - After the leader writes data to its local storage, it sends the changes to all of its followers so that they can self apply accordingly.
+    - An important detail of a replicated system is whether the replication happens synchronously or asynchronously. 
+      - Even though the advantage of synchronous replication is that followers is that the follower is guaranteed to have an up-to-date data, if the synchronous follower doesn’t respond, the write cannot be processed, thus the leader must block all writes and wait until one is available again.
+      - It is impractical for all followers to be synchronous so leader-based replication is often configured to be completely asynchronous.
+    - From time to time, you need to set up new followers to increase the number of replicas, or to replace failed nodes. This can usually be done without downtime by maintaining a consistent snapshot of the leader's database.
+    - If the follower goes down, it can recover quite easily from its logs that it has received from the leader. Later when it's able to talk to the leader again, it can request all the missing data and catch up to the leader.
+    - If the leader goes down, a possible approach is failover: one of the followers needs to be promoted to be the new leader using a consensus algorithm, clients and followers need to be configured to talk to the new leader. However, failover can go wrong as well (two leaders, choosing the right timeout before the leader is declared dead,...) as there are no easy solutions to these.
+    - Different implementation of replication logs:
+      - Statement-based replication: the leader logs every write request that it executes, and sends that statement log to its followers. Even though it seems reasonable, non-deterministic function, such as NOW() to get current date and time, is likely to generate a different value on each replica.
+      - Write-ahead log (WAL) shipping: similar to B-tree's approach where every modification is first written to a WAL, besides writing the log to disk, the leader also sends it to its followers so that they can build a copy of the exact same data structures as found on the leader.
+      - Logical log replication: allow the replication log to be decoupled from the storage engine by using different log formats.
+      - Trigger-based replication: register a trigger to only replicate subset of the data, or from one kind of database to another and so on.
 - Partitioning.
 - Transactions.
 - The trouble with distributed systems
