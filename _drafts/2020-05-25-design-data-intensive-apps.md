@@ -123,6 +123,24 @@ tags: [architecture]
       - The most general topology is all-to-all where every leader sends its writes to every other leader. Other popular ones are circular and star topology.
       - A problem with circular and star topologies is that if one node fails, the path is broken, resulting in some nodes are not connected others.
       - Even though all-to-all topologies avoid a single point of failure, they can also have issues that some replications are faster and can overtake others. A technique called version vectors can be used to order these events correctly.
+  - Leaderless replication: client writes to several replicas or a coordinator node does this on behalf of the client.
+    - A failover does not exist in a leaderless replication. If a node is down, client writes to all available replicas in parallel, verify if they're successful and simply ignore the one unavailable replica. Read requests are also sent to several nodes in parallel to avoid stale values.
+    - To ensure all up-to-date data is copied to every replica, two often used mechanisms are read repair (make requests to several nodes in parallel and detect stale values using versioning), anti-entropy process (background process that constantly looks for differences in the data between replicas and copies any missing data from one replica to another).
+    - If there are n replicas, every write must be confirmed by w nodes to be considered successful, and we must query at least r nodes for each read, as long as w + r > n, we expect to get an up-to-date value when reading, because at least one of the r nodes we’re reading from must be up-to-date. However, there're still edge cases when stale values are return:
+      - Using a sloppy quorum.
+      - Two writes happen concurrently, or with read.
+      - A node carrying a failed value.
+    - For multi-datacenter operation, some implementation of leaderless replication keeps all communication between clients and database nodes local to one datacenter, so n describes the number of replicas within one datacenter. Cross-datacenter replication works similarly to multi-leader replication.
+    - Handling concurrent write conflicts:
+      - Last write wins: attach a timestamp to each write, pick the biggest timestamp as the most ‘recent’, and discard any writes with a lower timestamp.
+      - Version vectors:
+        - For a singple replica, the algorithm works as follow:
+          - A server maintains a version number for every key, increments the version number every time that key is written, and stores the new version number along with the value written.
+          - A client must read a key before writing. When a client writes a key, it must include the version number from the prior read, and it must merge together all values that it received in the prior read.
+          - When the server receives a write with a particular version number, it can overwrite all values with that version number or below but it must keep all values with a higher version number.
+        - For multiple replicas:
+          - We need to use a version number per replica as well as per key.
+          - Each replica increments its own version number when processing a write, and also keeps track of the version numbers it has seen from all of the other replicas.
 - Partitioning.
 - Transactions.
 - The trouble with distributed systems
