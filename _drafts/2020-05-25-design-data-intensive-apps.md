@@ -116,6 +116,13 @@ tags: [architecture]
       - Client with offline operation: every client has a local database that acts as a leader, and there is an asynchronous multi-leader replication process (sync) between the replicas on all of your clients.
       - Real-time collaborative editing: when one user edits a document, the changes are instantly applied to their local replica and asynchronously replicated to the server and any other users who are editing the same document.
     - Handling write conflicts:
+      - A write conflict can be caused by two leaders concurrently updating the same record. In a single-leader scenario, it can't happen since the second leader will wait for the first write or abort it. In a multi-leader one, both writes are successful and the conflict can only be detected asynchronously at later point in time.
+      - The simplest way for dealing with multi-leader write conflicts is to avoid them by making sure all writes go through the same designated leader.
+      - Since there is no defined ordering of writes in a multi-leader database, it's unclear what the final value should be in all replicas. A number of ways to converge to the final value include giving each writes a unique ID and picking one with the highest ID as the winner, somehow merging values together,...
+    - Topologies: communication paths along which writes are propagated from one node to another.
+      - The most general topology is all-to-all where every leader sends its writes to every other leader. Other popular ones are circular and star topology.
+      - A problem with circular and star topologies is that if one node fails, the path is broken, resulting in some nodes are not connected others.
+      - Even though all-to-all topologies avoid a single point of failure, they can also have issues that some replications are faster and can overtake others. A technique called version vectors can be used to order these events correctly.
 - Partitioning.
 - Transactions.
 - The trouble with distributed systems
