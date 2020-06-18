@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Martin Kleppmann, Designing Data-Intensive Applications
+title: "Summary: Designing Data-Intensive Applications by Martin Kleppmann"
 summary: Principles and practicalities of data systems and how to build data-intensive applications.
 category: System-design-notes
-tags: [architecture]
+tags: [book, architecture]
 ---
 
 ### Foundation of data systems

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: MJ DeMarco, The Millionaire Fastlane
-summary: How starting a business is the fastest way to build wealth
+title: "Summary: The Millionaire Fastlane by MJ DeMarco"
+summary: How starting a business is the fastest way to build wealth.
 category: Key-takeaways-from-important-reading
 tags: [book, business, wealth, investing]
 ---

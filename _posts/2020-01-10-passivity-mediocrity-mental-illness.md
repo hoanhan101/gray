@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Why Passivity Breeds Mediocrity and Mental Illness
-summary: Too much inactivity, rather than promoting mental health, tends to breed unhappiness and a plethora of psychological problems
+title: "Summary: Why Passivity Breeds Mediocrity and Mental Illness"
+summary: Too much inactivity, rather than promoting mental health, tends to breed unhappiness and a plethora of psychological problems.
 category: Key-takeaways-from-important-reading
 tags: [blog, passivity, mediocrity, health]
 ---

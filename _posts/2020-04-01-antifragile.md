@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nassim Nicholas Taleb, Antifragile
+title: "Summary: Antifragile by Nassim Nicholas Taleb"
 summary: Fragile things are exposed to volatility, robust things resist it, antifragile things benefit from it.
 category: Key-takeaways-from-important-reading
 tags: [book, antifragile, investing]

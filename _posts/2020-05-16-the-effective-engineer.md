@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Edmond Lau, The Effective Engineer
+title: "Summary: The Effective Engineer by Edmond Lau"
 summary: How to leverage your efforts in software engineering to make a meaningful impact.
 category: Key-takeaways-from-important-reading
 tags: [book, productivity, impact, compound]

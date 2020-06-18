@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Benjamin Graham, The Intelligent Investor
-summary: Intelligent investing takes a long-term, risk-averse, value investing approach to the stock market
+title: "Summary: The Intelligent Investor by Benjamin Graham"
+summary: Intelligent investing takes a long-term, risk-averse, value investing approach to the stock market.
 category: Key-takeaways-from-important-reading
 tags: [book, investing]
 ---

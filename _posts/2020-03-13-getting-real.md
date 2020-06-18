@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jason Fried, Getting Real
+title: "Summary: Getting Real by Jason Fried"
 summary: The Smarter, Faster, Easier Way to Build a Successful Web Application.
 category: Key-takeaways-from-important-reading
 tags: [book, productivity, business]
