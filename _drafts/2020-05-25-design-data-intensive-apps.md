@@ -141,7 +141,26 @@ tags: [book, architecture]
         - For multiple replicas:
           - We need to use a version number per replica as well as per key.
           - Each replica increments its own version number when processing a write, and also keeps track of the version numbers it has seen from all of the other replicas.
-- Partitioning.
+- Partitioning/sharding.
+  - The main reason for partitioning is scalability: partitions can be distributed across many nodes, disks, and so on.
+  - It is usually combined with replication so that copies of each partitions are stored on multiple nodes.
+  - The goal of partitioning is to spread the data and query load evenly across nodes.
+  - Partitioning of key-value data.
+    - One way of partitioning is to assign a continuous range of keys to each partition. However, the downside is that certain patterns can lead to high load.
+    - Another way is to use a hash function to determine the partition for a given key. A downside is the ability to efficiently do range queries as adjacent keys are now scattered across all partitions.
+  - Partitioning and secondary indexes.
+    - Partitioning becomes more complicated if secondary indexes are involved since they don't identify records uniquely but rather, it’s a way of searching for occurrences of a particular value.
+    - Two main approaches are document-based partitioning and term-based partitioning.
+    - With document-based partitioning, each partition maintains its own secondary indexes covering only the documents in that partition. Since it doesn't care about other partitions, reading from it can be quite expensive since one need to query all partitions and aggregate everything for more exact results.
+    - With term-based partitioning, rather than each partition having its own secondary index, we can construct a global index that covers data in all partitions. This can make reads more efficient rather than doing scatter/gather over all partitions. The downside is that writes are now slower and more complicated, because a write to a single document may now affect multiple partitions of the index.
+  - Rebalancing partitions as we increase our nodes and machines over time.
+    - Mod N approach is problematic when the number of nodes N changes, most of the keys need to be moved as well.
+    - A simple solution is to create many more partitions than there are nodes, and assign several partitions to each node. If a new node is added, it can steal a few partitions from every existing node.
+    - Rebalancing can be done automatically, though it won't hurt to have a human in the loop to help prevent operational surprises.
+  - Request routing/service discovery.
+    - After the partitioning and rebalancing, how does the client know which node to connection to?
+      - Client can talk to any node and forward the request to the appropriate node if needed.
+      - Client can talk to a routing tier that determines the node that should handle the request and forwards it accordingly.
 - Transactions.
 - The trouble with distributed systems
 - Consistency and consensus
