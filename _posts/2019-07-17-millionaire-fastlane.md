@@ -9,13 +9,13 @@ tags: [book, business, wealth, investing]
 - The Slowlane is to get a good job, invest in the stock market, max out your 401k and be rich by 65.
   - It demands a long time of employment.
   - You have limited leverage and limited control with a job.
-    - Fixed income: the pay rate is fixed for a year and it takes a long time to get a raise
-    - Fixed hours: you can only do so much
+    - Fixed income: the pay rate is fixed for a year and it takes a long time to get a raise.
+    - Fixed hours: you can only do so much.
   - $10,000 investment with 15% return will worth $2.5 millions in 40 years.
     - 15% consistence is impossible.
     - $2.5 millions only worth $250k in today dollars thanks for inflation!
     - You will likely not have the youth to experience the millionaire lifestyle by then anyway.
-  - Have you ever known a person who got rich by doing this? What’s their life be?
+  - Have you ever known a person who got rich by doing this? What would their lives be like?
 - The Fastlane is to build a system/product that will leverage the work and help millions of people.
   - The amount of money in your life is a reflection to the amount of value you have given to others.
   - In order to make millions, impact millions. The more lives you impact, the more wealth you attract.
@@ -26,7 +26,7 @@ tags: [book, business, wealth, investing]
     - Instead of taking a job, hire for job.
   - Examples:
     - Create a gadget and sell millions of them.
-    - Build an mobile app and sell millions of them.
+    - Build a mobile app and sell millions of them.
     - Build a blog and sell it for millions.
     - Build a website that profits.
 - Compound interest is most effective with a large sum of money.
@@ -38,10 +38,10 @@ tags: [book, business, wealth, investing]
     - Do what you love is bullshit because it doesn’t make money and it endangers the love.
     - No one cares about your desire or dream but what your business can do for them.
     - Add values to their lives, help them, educate them:
-      - Make them feel better, look better (health, nutrition, clothing, makeup)
-      - Give them security (housing, safety, health)
-      - Raise a positive emotion (love, happiness, laughter, confidence)
-      - Satisfy appetites (from food to sex)
+      - Make them feel better, look better (health, nutrition, clothing, makeup).
+      - Give them security (housing, safety, health).
+      - Raise a positive emotion (love, happiness, laughter, confidence).
+      - Satisfy appetites (from food to sex).
     - Instead of chasing money, chase needs.
   - Entry:
     - Easy entry creates high competitions and high traffic.
@@ -55,24 +55,24 @@ tags: [book, business, wealth, investing]
     - Can the system be self-automated without you being there all the time?
 - Fastlane business patterns:
   - Internet business
-    - Subscription-based: x-as-a-service (Netflix)
-    - Content-based: provide content for free consumption and sell advertising (Spotify)
-    - Lead generation: provide a service while bringing fragmented industries togethe
-    - Social network: spin-off of content system but pull people into group and tribes instead
-    - Brokerage system: bring buyers and sells together and facilities transaction (PayPal, eBay)
-    - Advertising: similar to brokerage but also runs ads
-    - E-commerce: online marketplace (Amazon)
-  - Innovation
+    - Subscription-based: x-as-a-service (Netflix).
+    - Content-based: provide content for free consumption and sell advertising (Spotify).
+    - Lead generation: provide a service while bringing fragmented industries together.
+    - Social network: spin-off of content system but pull people into group and tribes instead.
+    - Brokerage system: bring buyers and sells together and facilities transaction (PayPal, eBay).
+    - Advertising: similar to brokerage but also runs ads.
+    - E-commerce: online marketplace (Amazon).
+  - Innovation.
     - Manufacture + distribution.
     - Not about inventing something completely new but taking something and improving it (vokda in a new colorful bottle).
     - Writing a book is not a business, selling the book is.
-  - Intentional iteration - basically repeat a success, a chaining or a franchise
+  - Intentional iteration - basically repeat a success, a chaining or a franchise.
 - Opportunity is rarely about some blockbuster breakthrough but as simple as an unmet need:
-  - Solution to an inconvenience
-  - Simplification
-  - Comfort
-  - Better service
-  - Fixing pain
+  - Solution to an inconvenience.
+  - Simplification.
+  - Comfort.
+  - Better service.
+  - Fixing pain.
 - Common phrases to spot a possible opportunity:
   - "I hate..."
   - "I don’t like..."
