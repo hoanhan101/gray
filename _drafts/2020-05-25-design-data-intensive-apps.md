@@ -162,6 +162,8 @@ tags: [book, architecture]
       - Client can talk to any node and forward the request to the appropriate node if needed.
       - Client can talk to a routing tier that determines the node that should handle the request and forwards it accordingly.
 - Transactions.
+  - Atomicity, Consistency, Isolation and Durability (ACID).
+    - Atomicity.
 - The trouble with distributed systems
 - Consistency and consensus
 
