@@ -6,7 +6,7 @@ category: System-design-notes
 tags: [book, architecture]
 ---
 
-### Foundation of data systems
+## I. Foundation of data systems
 
 - Reliable, scalable, maintainable applications.
   - Reliability means continuing to work correctly, even when things go wrong. Common faults and preventions include:
@@ -82,7 +82,7 @@ tags: [book, architecture]
     - Calls to services, REST and RPC (gRPC): client encodes a request, server decodes the request and encodes a response, and client finally decodes the response.
     - Asynchronous message-passing (RabbitMQ, Apache Kafka): nodes send each other messages that are encoded by the sender and decoded by the recipient.
 
-### Distributed data
+## II. Distributed data
 
 - Replication.
   - Why would you want to replicate data?
@@ -163,11 +163,40 @@ tags: [book, architecture]
       - Client can talk to a routing tier that determines the node that should handle the request and forwards it accordingly.
 - Transactions.
   - Atomicity, Consistency, Isolation and Durability (ACID).
-    - Atomicity.
+    - Since transactions are often composed of multiple statements, atomicity guarantees that each transaction is treated as a single "unit", which either succeeds completely, or fails completely.
+    - Consistency ensures that a transaction can only bring the database from one valid state to another, maintaining database invariants.
+    - Isolation means that concurrently executing transactions are isolated from each other.
+    - Durability guarantees that once a transaction has been committed, it will remain committed even in the case of a system failure.
+  - Weak isolation levels.
+    - Database hides concurrency issues from application developers by providing transaction isolation, especially serializable isolation, by guaranteeing that have transactions the same effect as if they ran serially, one at a time without any concurrency.
+    - In practice, serializable isolation has a performance cost and many databases don't want to pay that price. Instead, they use weaker levels of isolation.
+    - Read committed.
+      - When reading from the database, you will only see data that has been committed.
+      - When writing to the database, you will only overwrite data that has been committed.
+    - Snapshot isolation or Multiversion Concurrency Control (MVCC).
+      - Each transaction read from a consistent snapshot of the database. Each transaction sees the latest data from the time it starts.
+    - Preventing lost update.
+      - Lost update can occur if two transations modify the value concurrently that one modification is lost.
+      - 2 popular approaches are to use atomic write and locking.
+    - Preventing write skew and phantoms.
+      - Write skew is a generalization of lost update. It happens when two transaction update **some** of the same objects, not just the same object.
+      - Phantom happens while a write in one transaction change the result of a search query in another transaction.
+      - Since multiple objects are involved, atomic single-object or snapshot isolation write doesn't help as it doesn't prevent valid conflicting concurrent writes.
+      - A simple and straightforward solution is to use serializable isolation.
+  - Implementation of serializable isolation.
+    - Actual serial execution.
+      - The best way to avoid concurrency issue is to execute only one transaction at a time, in serial order, on a single thread.
+      - The entire transaction is submitted as a stored procedure as the data must be small and fast.
+    - Two-phase locking (2PL).
+      - 2PL has really strong requirements where writers don't just block writers, readers also block writers and vice versa.
+      - The big downside is performance as it hasn't used a lot in practice.
+    - Serializable snapshot isolation (SSI).
+      - As serial isolation doesn't scale well and 2PL doesn't perform well, SSI is promising since it provides full serializability and has only a small performance penalty compared to snapshot isolation.
+      - It allows transactions to proceed without blocking. When a transaction wants to commit, it is checked, and aborted if the execution was not serializable.
 - The trouble with distributed systems
 - Consistency and consensus
 
-### Derived data
+## III. Derived data
 
 - Batch processing.
 - Stream processing.
@@ -175,3 +204,4 @@ tags: [book, architecture]
 <hr>
 **References:**
 - <https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications>
+- <https://en.wikipedia.org/wiki/ACID>
