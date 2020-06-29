@@ -209,7 +209,23 @@ tags: [book, architecture]
   - Knowledge, truth and lies.
     - A distributed system cannot exclusively rely on a single node, because a node may fail at any time, potentially leaving the system stuck and unable to recover. Instead, many distributed algorithms rely on a quorum where decisions are made by a majority of nodes.
     - Distributed systems problems become much harder if there is a risk that nodes may lie, such as claiming unreceived messages from other node or sending untrue messages to other nodes, it's known as Byzantine fault.
-- Consistency and consensus
+- Consistency and consensus.
+  - Most replicated databases provide at least eventual consistency, which means that if you stop writing to the database and wait for some unspecified length of time, then eventually all read requests will return the same value. However, this is a very weak guarantee as it doesn’t say anything about when the replicas will converge. Below we're looking at stronger consistency models and discussing their trade-offs.
+  - Linearizability makes a system appear as if there was only one copy of the data, and all operations on it are atomic.
+    - It is useful in such circumstances:
+      - A system needs to ensure that there is indeed only one leader.
+      - Constraints and uniqueness guarantees in database: user's username or email must be unique, two people can't have the same seat on a flight,...
+      - Cross-channel timing dependencies: web server and image resizer communicate both through file storage and a message queue, opening the potential for race conditions,...
+    - CAP (Consistency, Availability, Partition tolerance) theorem to pick 2 out of 3:
+      - If the application requires linearizability, some replicas are disconnected from the other replicas due to a network problem, then some replicas cannot process requests while they are disconnected, or unavailable.
+      - If the application does not require linearizability, each replica can process requests independently, even if it is disconnected from other replica.
+      - A better way of phrasing CAP would be either Consistent or Available when Partitioned 
+    - Few systems are actually linearizable in practice since most of them concern about their performance and availability.
+  - Ordering guarantees.
+    - In order to maintain causality, you need to know which operation happened before which other operation. One way is to use sequence numbers or timestamps to order events such as Lamport timestamp.
+    - However, in order to implement something like a uniqueness constraint for usernames, it’s not sufficient to have a total ordering of operations as you also need to know when that order is finalized, aka total order broadcast.
+    - Total order broadcast says that if every message represents a write to the database, and every replica processes the same writes in the same order, then the replicas will remain consistent with each other.
+  - Distributed transaction and consensus.
 
 ## III. Derived data
 
