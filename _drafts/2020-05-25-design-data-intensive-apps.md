@@ -193,7 +193,22 @@ tags: [book, architecture]
     - Serializable snapshot isolation (SSI).
       - As serial isolation doesn't scale well and 2PL doesn't perform well, SSI is promising since it provides full serializability and has only a small performance penalty compared to snapshot isolation.
       - It allows transactions to proceed without blocking. When a transaction wants to commit, it is checked, and aborted if the execution was not serializable.
-- The trouble with distributed systems
+- Things that may go wrong in a distributed system.
+  - A partial failure is when there are some parts of the system that are broken in some unpredictable ways even though the rest are working fine. And since partial failures are non-deterministic in a sense that your solution might sometimes unpredictably fail, it distributed systems hard to work with.
+  - Unreliable networks.
+    - There are many things could go wrong with a networking request such as your request may have been lost, be waiting in a queue, the remote node may have failed, the response has been lost, delayed, and so on.
+    - Network problem can be surprisingly common in practice.
+    - Timeout is normally a good way to detect a fault. Rather than using a configured constant timeouts, system can automatically adjust timeouts according to the observed response time distribution.
+  - Unreliable clocks.
+    - Time is tricky since communication is not instantaneous, it takes time for a message to travel from one point to another, and because of variable delayed in network with multiple machines are involved, it's hard to determine the order of operations.
+    - Modern computers have at least two different kinds of clock:
+      - A time-of-day clock, which are usually synchronized with Network Time Protocol (NTP), which means that a timestamp from one machine (ideally) means the same as a timestamp on another machine. 
+      - A monotonic clock is suitable for measuring a duration such as a timeout or a service’s response time.
+    - Time-of-day clocks need to be set according to an NTP in order to be useful though this isn't as reliable as we hope as he quartz clock in a computer is not very accurate, if a computer’s clock differs too much from an NTP server, it may refuse to synchronize, NTP synchronization can only be as good as the network delay, NTP servers could be wrong or misconfigured, the hardware clock is virtualized in virtual machines, and so on.
+    - If you use software that requires synchronized clocks, it is essential that you also carefully monitor the clock offsets between all the machines.
+  - Knowledge, truth and lies.
+    - A distributed system cannot exclusively rely on a single node, because a node may fail at any time, potentially leaving the system stuck and unable to recover. Instead, many distributed algorithms rely on a quorum where decisions are made by a majority of nodes.
+    - Distributed systems problems become much harder if there is a risk that nodes may lie, such as claiming unreceived messages from other node or sending untrue messages to other nodes, it's known as Byzantine fault.
 - Consistency and consensus
 
 ## III. Derived data
