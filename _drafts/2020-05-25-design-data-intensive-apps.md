@@ -226,6 +226,15 @@ tags: [book, architecture]
     - However, in order to implement something like a uniqueness constraint for usernames, it’s not sufficient to have a total ordering of operations as you also need to know when that order is finalized, aka total order broadcast.
     - Total order broadcast says that if every message represents a write to the database, and every replica processes the same writes in the same order, then the replicas will remain consistent with each other.
   - Distributed transaction and consensus.
+    - There are several situations in which it is important for nodes to reach consensus such as leader election and atomic commit in database.
+    - 2-phase commit (2PC) algorithm is the most common way for achieving atomic transaction commit across multiple nodes.
+      - 2PC uses a new component as a coordinator to manage all nodes.
+      - The application first requests a globally unique transaction ID from the coordinator for transaction.
+      - When the application is ready to commit, the coordinator begins phase 1: send a prepare request to each of the nodes, tagged with the ID, asking them whether they are able to commit.
+      - If all participants reply "yes", the coordinator sends out a commit request to all nodes in phase 2, while if any of them says "no", the coordinator sends an abort request.
+      - If the coordinator fails after all participants reply "yes" in phase 1, participants have no way of knowing whether to commit or abort in phase 2. The only way how this can complete is to wait for the coordinator to recover.
+      - Three-phase commit (3PC) has been proposed as alternative to 2PC. However, it assumes a network with bounded delay and nodes with bounded response times which is not practical in most systems.
+
 
 ## III. Derived data
 
