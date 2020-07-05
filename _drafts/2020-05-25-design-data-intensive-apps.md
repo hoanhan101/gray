@@ -6,7 +6,7 @@ category: System-design-notes
 tags: [book, architecture]
 ---
 
-## I. Foundation of data systems
+## I. 4 fundamental ideas that apply to all data systems.
 
 - Reliable, scalable, maintainable applications.
   - Reliability means continuing to work correctly, even when things go wrong. Common faults and preventions include:
@@ -82,7 +82,7 @@ tags: [book, architecture]
     - Calls to services, REST and RPC (gRPC): client encodes a request, server decodes the request and encodes a response, and client finally decodes the response.
     - Asynchronous message-passing (RabbitMQ, Apache Kafka): nodes send each other messages that are encoded by the sender and decoded by the recipient.
 
-## II. Distributed data
+## II. What happens if multiple machines are involved in storage and retrieval of data?
 
 - Replication.
   - Why would you want to replicate data?
@@ -240,7 +240,7 @@ tags: [book, architecture]
     - The best-known fault-tolerant consensus algorithms are Viewstamped Replication (VSR), Paxos, Raft and Zab as most of them provide total order broadcast. However, they're not used everywhere since they all come with performance costs.
     - ZooKeeper or etcd implements a consensus algorithm though they are often described as distributed key-value stores. They are not use directly in your application but via some other projects for distributed coordination, work allocation, service discovery, membership services.
 
-## III. Derived data
+## III. How to take different distributed data systems and integrate them into a larger system?
 
 - Batch processing.
 - Stream processing.
