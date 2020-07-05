@@ -6,7 +6,7 @@ category: System-design-notes
 tags: [book, architecture]
 ---
 
-## I. 4 fundamental ideas that apply to all data systems.
+## I. 4 fundamental ideas that we need in order to design data-intensive applications.
 
 - Reliable, scalable, maintainable applications.
   - Reliability means continuing to work correctly, even when things go wrong. Common faults and preventions include:
@@ -82,7 +82,7 @@ tags: [book, architecture]
     - Calls to services, REST and RPC (gRPC): client encodes a request, server decodes the request and encodes a response, and client finally decodes the response.
     - Asynchronous message-passing (RabbitMQ, Apache Kafka): nodes send each other messages that are encoded by the sender and decoded by the recipient.
 
-## II. What happens if multiple machines are involved in storage and retrieval of data?
+## II. Replication, partitioning/sharding, transactions, and what it means to achieve consistency and consensus in a distributed system.
 
 - Replication.
   - Why would you want to replicate data?
@@ -240,7 +240,7 @@ tags: [book, architecture]
     - The best-known fault-tolerant consensus algorithms are Viewstamped Replication (VSR), Paxos, Raft and Zab as most of them provide total order broadcast. However, they're not used everywhere since they all come with performance costs.
     - ZooKeeper or etcd implements a consensus algorithm though they are often described as distributed key-value stores. They are not use directly in your application but via some other projects for distributed coordination, work allocation, service discovery, membership services.
 
-## III. How to take different distributed data systems and integrate them into a larger system?
+## III. Batch and stream processing.
 
 - Batch processing.
   - With basic Unix tools (awk, sed, grep, sort, uniq, xarg, pipe,...), one can do a lot of powerful data processing jobs. A simple chain of Unix commands can actually perform surprisingly well as it can easily scale to large datasets, without running out of memory.
@@ -260,6 +260,19 @@ tags: [book, architecture]
       - AMQP/JMS-style message brokers: the broker assigned individual messages to consumers, consumers acknowledge when they have been successfully processed.
       - Log-based message brokers: the broker assigns all messages in a partition to the same consumer node, and always delivers messages in the same order while consumers keep their logs.
     - When multiple consumers are reading messages in the same topic, two main patterns of messaging are load balancing and fan out.
+  - It's also useful to think of the writes to a database as a stream that it can capture the changelog, either implicitly through change data capture or explicitly through event sourcing as it also opens up powerful opportunities for integrating systems.
+    - You can keep derived data systems such as search indexes, caches and analytics systems continually up-to-date by consuming the log of changes and applying them to the derived system.
+    - You can even build fresh views onto existing data by starting from scratch and consuming the log of changes from the beginning all the way to the present.
+  - Stream processing has long been used for monitoring purposes, where an organiza‐ tion wants to be alerted if certain things happen. However, other uses of stream processing have also emerged over time.
+    - Complex event processing (CEP) allows you to specify rules to search for certain patterns of events in a stream.
+    - Analytics that are more oriented towards aggregations and statistical metrics over a large number of events are also used.
+    - It can be used to maintain materialized views onto some dataset, so that you can query it efficiently, and updating that view whenever the underlying data changes.
+  - Stream processing frameworks use the local system clock on the processing machine to determine windowing. Even though it's simple to implement and reason about, it breaks down if there is any significant processing lag.
+  - There are 3 types of join that may appear in stream processes:
+    - Stream-stream joins: matching two events that occur within some window of time.
+    - Stream-table joins: one input stream consists of activity events, while the other is a database changelog.
+    - Table-table joins: both input streams are database changelogs where every change on one side is joined with the latest state of the other side.
+  - To tolerate faults, one solution is to break the stream into small blocks, and treat each block like a miniature batch process (microbatching). Other is to use idempotent writes.
 
 <hr>
 **References:**
