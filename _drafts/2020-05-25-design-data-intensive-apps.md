@@ -234,7 +234,11 @@ tags: [book, architecture]
       - If all participants reply "yes", the coordinator sends out a commit request to all nodes in phase 2, while if any of them says "no", the coordinator sends an abort request.
       - If the coordinator fails after all participants reply "yes" in phase 1, participants have no way of knowing whether to commit or abort in phase 2. The only way how this can complete is to wait for the coordinator to recover.
       - Three-phase commit (3PC) has been proposed as alternative to 2PC. However, it assumes a network with bounded delay and nodes with bounded response times which is not practical in most systems.
-
+    - Distributed transactions in practice has mixed reputation. On one hand, they provide an important safety guarantee. On the other hand, it causes operational problems, kill perfomance and so on.
+      - There are two types of distributed transaction are often conflated: database-internal distributed transactions (distributed databases that support internal transactions among the nodes of that database) and heterogeneous distributed transactions (participants are two or more different technologies).
+      - That said, database-internal distributed transactions can often work quite well though transactions spanning heterogeneous technologies are a lot more challenging.
+    - The best-known fault-tolerant consensus algorithms are Viewstamped Replication (VSR), Paxos, Raft and Zab as most of them provide total order broadcast. However, they're not used everywhere since they all come with performance costs.
+    - ZooKeeper or etcd implements a consensus algorithm though they are often described as distributed key-value stores. They are not use directly in your application but via some other projects for distributed coordination, work allocation, service discovery, membership services.
 
 ## III. Derived data
 
