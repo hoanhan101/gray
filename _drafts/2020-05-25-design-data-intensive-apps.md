@@ -243,7 +243,23 @@ tags: [book, architecture]
 ## III. How to take different distributed data systems and integrate them into a larger system?
 
 - Batch processing.
+  - With basic Unix tools (awk, sed, grep, sort, uniq, xarg, pipe,...), one can do a lot of powerful data processing jobs. A simple chain of Unix commands can actually perform surprisingly well as it can easily scale to large datasets, without running out of memory.
+  - MapReduce is a bit like Unix tools, but distributed across potentially thousands of machines.
+    - While Unix tools use stdin and stdout as input and output, MapReduce jobs read and write files on a distributed filesystem like Google's GFS.
+    - As the name suggested, 2 callback functions in MapReduce are map and reduce. Map extracts they key and value from the input record while reduce iterates over that collection of values with the same key and produce zero or more outputs. They're stateless function as they also don't modify output. Since the input is also bounded, the output is guaranteed to be completed.
+    - The main difference to pipelines of Unix commands is that MapReduce can parallelize a computation across many machines out-of-the-box.
+    - Your code does not need to worry about implementing fault tolerance mechanisms since the framework can guarantee that the final output of a job is the same as if no faults had occurred, even though in reality various tasks perhaps had to be retried.
+    - It's common for MapReduce jobs to be chained together into workflows, such that the output of one job becomes the input to the next job.
+    - There are several join algorithms for MapReduce such as sort-merge joins, broadcast hash joins, partitioned hash joins that allow us to use joins more efficiently.
 - Stream processing.
+  - In batch process, the input is bounded that it's known and have finite size. In reality, a lot of data is unbounded, arrives gradually over time and never complete in any meaningful way, that batch processors must divide and process them in chunks. However, that takes a long time for impatient users. Stream processing is introduced as it simply processes every event as it happens.
+  - An event is generated once by a producer/publisher/sender and processed by multiple consumers/subscribers/recipients.
+  - A common approach for notifying consumers about new events is to use a messaging system: a producer sends a message containing the event, which is then pushed to consumers.
+    - A number of messaging systems use direct network communication between producers and consumers, without going via intermediary nodes such as UDP multicast, ZeroMQ, webhooks,...
+    - A widely-used alternative is to send messages via a message broker/message queue. Two types of them are:
+      - AMQP/JMS-style message brokers: the broker assigned individual messages to consumers, consumers acknowledge when they have been successfully processed.
+      - Log-based message brokers: the broker assigns all messages in a partition to the same consumer node, and always delivers messages in the same order while consumers keep their logs.
+    - When multiple consumers are reading messages in the same topic, two main patterns of messaging are load balancing and fan out.
 
 <hr>
 **References:**
