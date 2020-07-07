@@ -11,12 +11,14 @@ git push origin master
 # Build the project.
 JEKYLL_ENV=production bundle exec jekyll build
 
-# Copy static site over hoanhan101.github.io
+# Copy static site over local hoanhan101.github.io repo.
 cp -R _site/. ../hoanhan101.github.io
 
-# Push changes to github.
+# Save last commit.
+msg=$(git log --format=%B -n 1 -1)
+
+# Switch over and push those changes.
 cd ../hoanhan101.github.io
 git add .
-msg="git log --format=%B -n 1 -1"
 git commit -m "$msg"
 git push origin master
