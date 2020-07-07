@@ -17,9 +17,6 @@ cp -R _site/. ../hoanhan101.github.io
 # Push changes to github.
 cd ../hoanhan101.github.io
 git add .
-msg="🏗️"
-if [ -n "$*" ]; then
-	msg="$*"
-fi
+msg="git log --format=%B -n 1 -1"
 git commit -m "$msg"
 git push origin master
