@@ -20,7 +20,7 @@ tags: [book, architecture, data, system]
       - Decouple the places where people make the most mistake.
       - Automate testing: unit test, integration test, end-to-end test.
       - Allow quick recovery rollback strategy.
-      - Set up detials monitoring
+      - Set up details monitoring
   - Scalability describes a system's ability to cope with increased load.
     - Describing load: requests per second, read/write radio, active users, cache hit rate,...
     - Describing performance:
@@ -263,7 +263,7 @@ tags: [book, architecture, data, system]
   - It's also useful to think of the writes to a database as a stream that it can capture the changelog, either implicitly through change data capture or explicitly through event sourcing as it also opens up powerful opportunities for integrating systems.
     - You can keep derived data systems such as search indexes, caches and analytics systems continually up-to-date by consuming the log of changes and applying them to the derived system.
     - You can even build fresh views onto existing data by starting from scratch and consuming the log of changes from the beginning all the way to the present.
-  - Stream processing has long been used for monitoring purposes, where an organiza‐ tion wants to be alerted if certain things happen. However, other uses of stream processing have also emerged over time.
+  - Stream processing has long been used for monitoring purposes, where an organization wants to be alerted if certain things happen. However, other uses of stream processing have also emerged over time.
     - Complex event processing (CEP) allows you to specify rules to search for certain patterns of events in a stream.
     - Analytics that are more oriented towards aggregations and statistical metrics over a large number of events are also used.
     - It can be used to maintain materialized views onto some dataset, so that you can query it efficiently, and updating that view whenever the underlying data changes.
