@@ -17,7 +17,7 @@ cp -R _site/. ../hoanhan101.github.io
 # Save last commit message and hash.
 msg=$(git log --format=%B -n 1 -1)
 hash=$(git rev-parse HEAD)
-msghash="${msg} (${hash})"
+msghash="${msg} (hoanhan101/gray@${hash})"
 
 # Switch over and push those changes.
 cd ../hoanhan101.github.io
