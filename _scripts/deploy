@@ -22,5 +22,5 @@ msghash="${msg} (${hash})"
 # Switch over and push those changes.
 cd ../hoanhan101.github.io
 git add .
-git commit -m msghash
+git commit -m "$msghash"
 git push origin master
