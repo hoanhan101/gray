@@ -12,7 +12,7 @@ tags: [book, business, customer]
 - The Mom Test.
   - You shouldn't ask your mom or anyone whether your business is a good idea because it's a bad question and invites everyone to lie to you at least a little.
   - The Mom Test is a set of 3 simple rules for crating good questions that even your mom can't lie about:
-    - Talk about their live instead of your idea.
+    - Talk about their lives instead of your idea.
     - Ask about specifics in the past instead of generics or opinions about the future.
     - Talk less and listen more.
   - Fix a bad question.
@@ -62,6 +62,9 @@ tags: [book, business, customer]
     - "Looks great. Let me know when it launches.": look for a commitment I could ask for today.
     - "There are a couple people I can intro you to when you’re ready.": ask who they want to introduce you to, what “ready” means, why he can't make the intro now,...
     - "I would definitely buy that.": ask for a letter of intent/a pre-purchase/deposit/intros to other decision makers and team members,...
+- Finding conversations.
+- Choosing customers.
+- Running the process.
 
 <hr>
 **References:**
