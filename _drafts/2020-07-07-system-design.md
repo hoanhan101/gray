@@ -8,6 +8,8 @@ tags: [architecture, system, design]
 
 ## URL Shortener
 
+URL Shortener provides short aliases redirecting to long URLs.
+
 **Requirements clarifications**
 - Functional requirements:
   - Given a URL, return a shorter and unique alias link.
@@ -24,8 +26,8 @@ tags: [architecture, system, design]
 ![URL Shortener's Component Design](/assets/images/sd-url-shortener.png)
 
 - Key Generation Service generates an unique key for a given URL.
-  - One way to do so is to compute a unique hash of the URL directly. We can hash the URL with an increasing sequence number to prevent key duplication given the same URL. We can also hash it with a user id though that requires an user to either sign in or provide a unique key if not signed in.
-  - Another way is to generate unique keys beforehand so that we don't have to worry about duplications or collisions.
+  - One way to do so is to compute a unique hash of the URL directly. We can hash the URL with an increasing sequence number to prevent key duplication given the same URL. We can also hash it with an user's ID though that requires an user to either sign in or provide a unique key if not signed in.
+  - Another way is to generate unique keys offline beforehand. Whenever we want to store a new link, just take one of the already generated keys and use it. That way, we don't have to worry about duplications or collisions.
 - A NoSQL database is a good option in this case for several reasons:
   - Each record in the database is small as it only holds the URL mapping and its owner.
   - There are no relationships between records.
@@ -37,9 +39,50 @@ tags: [architecture, system, design]
 - Cleaning Service is a lightweight service that runs periodically to clean up expired links in the database and cache.
 - Load Balancers can be added between clients and application servers as well as between application servers and databases to increase the service load.
 - Cache Service can use existing caching server like Memcached to cache URLs that are frequently accessed.
-  - We can also replicate caching servers to distribute load between them.
   - Whenever there's a cache miss, servers would be hitting databases. 
 - Separate analytic tools can be used to track the number of times a short link has been used, users' locations, browsers, web page that refers the click, and so on.
+
+## Instagram
+
+Instagram lets users upload photos and share them with other users.
+
+**Requirements clarifications**
+- Functional requirements:
+  - Users can upload, view, like, comment on, download photos/videos.
+  - Users can upload as many photos/videos as they like.
+  - Users can search for photos/videos titles, other usernames.
+  - Users can follow other users.
+  - Users can have a News Feed consisting of recent photos from all of their following users.
+- System requirements:
+  - The system should be highly reliable as any uploaded photo/video should never be lost.
+  - Consistency can take a hit in the interest of availability. It's fine if an user doesn't see a photo or new changes for a while.
+  - The system should be read-heavy as low latency is expected while viewing photos/videos.
+
+**Component Design**
+![Instagram's Component Design](/assets/images/sd-instagram.png)
+
+- Image Hosting Service uses Object Storage Service to store actual photos/videos and Metadata Service to store metadata information about the photos/videos.
+- Object Storage Service uses distributed file storages such as HDFS or S3.
+- Metadata Service uses SQL databases as we need to store photos/videos metadata as well as their owners and followers.
+- There are 2 ways we can partition metadata information in this case:
+  - Partitioning based on User's ID so that all photos/videos of a user is on the same shard. Different issues with this approach include:
+    - Some users have a lot of photos/videos compared to others, thus making the distribution unbalanced.
+    - All photos/videos of a user might not fit on on shard, thus making distributing onto different shards resource-expensive.
+    - Storing all photos/videos of a user on a shard makes the user's shard a single point of failure.
+  - Partitioning based on Photo/Video's ID will fix all above problems. One way to generate a unique photo/video's ID is to use a Key Generation Service as in the URL Shortener.
+
+## TEMPLATE
+
+**Requirements clarifications**
+- Functional requirements:
+  - TODO
+- System requirements:
+  - TODO
+
+**Component Design**
+![TODO's Component Design](/assets/images/sd-todo.png)
+
+TODO
 
 <hr>
 **References:**
