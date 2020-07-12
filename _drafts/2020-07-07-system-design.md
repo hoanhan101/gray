@@ -28,7 +28,7 @@ URL Shortener provides short aliases redirecting to long URLs.
 - Key Generation Service generates an unique key for a given URL.
   - One way to do so is to compute a unique hash of the URL directly. We can hash the URL with an increasing sequence number to prevent key duplication given the same URL. We can also hash it with an user's ID though that requires an user to either sign in or provide a unique key if not signed in.
   - Another way is to generate unique keys offline beforehand. Whenever we want to store a new link, just take one of the already generated keys and use it. That way, we don't have to worry about duplications or collisions.
-- A NoSQL database is a good option in this case for several reasons:
+- Key Storage uses a NoSQL database in this case for several reasons:
   - Each record in the database is small as it only holds the URL mapping and its owner.
   - There are no relationships between records.
   - The system is read-heavy.
@@ -37,7 +37,7 @@ URL Shortener provides short aliases redirecting to long URLs.
   - Range-based partitioning where URLs are stored in separate partitions based on the first letter of the hash key. The problem is that it can lead to unbalanced partitions.
   - Hash-based partitioning where URLs are stored based their hashes over the number of servers, aka consistent hashing.
 - Cleaning Service is a lightweight service that runs periodically to clean up expired links in the database and cache.
-- Load Balancers are added added between clients and application servers as well as between application servers and databases to increase the service load.
+- Load Balancers can be added added between clients and application servers as well as between application servers and databases to increase the service load.
 - Cache Service uses existing caching server like Memcached to cache URLs that are frequently accessed.
   - Whenever there's a cache miss, servers would be hitting databases. 
 - Separate analytic tools can be used to track the number of times a short link has been used, users' locations, browsers, web page that refers the click, and so on.
@@ -77,6 +77,31 @@ Instagram lets users upload photos and share them with other users.
   - We can also adopt a hybrid approach where we only maintain Long Poll requests for users who has a small number of followers.
 - Cache Service uses an existing caching server like Memcached to cache metadata informations/hot database rows.
 - CDN sits on top of the Object Storage Service so that photos/videos can be served faster and more cost effective.
+
+## Dropbox
+
+Dropbox enables users to store data on remote servers that are accessible through the Internet.
+
+**Requirements clarifications**
+- Functional requirements:
+  - Users can upload, view, download their files from any device.
+  - Users can share files with others.
+  - Files are sync automatically among devices.
+  - Large files are supported.
+  - Offline editing is supported.
+- System requirements:
+  - The system should be highly reliable as any uploaded file should never be lost.
+  - The system is both read and write heavy.
+
+**Component Design**
+![Dropbox's Component Design](/assets/images/sd-dropbox.png)
+ 
+- Block Service upload/download file from TODO.
+  - Files are broken down and stored in small chunks. There are a lot of benefits to uploading/downloading:
+    - Only failed chunk will be retried.
+    - Only updated chunk will be uploaded, thus saving bandwidth.
+- Metadata Service keeps metadata of files, their owners and followers in TODO database.
+- Synchronization Service notifies clients about different change for synchronization.
 
 <hr>
 **References:**
