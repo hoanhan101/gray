@@ -38,8 +38,7 @@ URL Shortener provides short aliases redirecting to long URLs.
   - Hash-based partitioning where URLs are stored based their hashes over the number of servers, aka consistent hashing.
 - Cleaning Service is a lightweight service that runs periodically to clean up expired links in the database and cache.
 - Load Balancers can be added added between clients and application servers as well as between application servers and databases to increase the service load.
-- Cache Service uses existing caching server like Memcached to cache URLs that are frequently accessed.
-  - Whenever there's a cache miss, servers would be hitting databases. 
+- Cache Service can be added to cache URLs that are frequently accessed.
 - Separate analytic tools can be used to track the number of times a short link has been used, users' locations, browsers, web page that refers the click, and so on.
 
 ## Instagram
@@ -61,9 +60,9 @@ Instagram lets users upload photos and share them with other users.
 **Component Design**
 ![Instagram's Component Design](/assets/images/sd-instagram.png)
 
-- Image Hosting Service uses Object Storage Service to store actual photos/videos and Metadata Service to store metadata information about the photos/videos.
+- Image Hosting Service uses Object Storage Service to store actual photos/videos and Metadata Storage to store metadata information about the photos/videos.
 - Object Storage Service uses distributed file storages such as HDFS or S3.
-- Metadata Service uses SQL databases as we need to store photos/videos metadata as well as their owners and followers.
+- Metadata Storage uses SQL databases as we need to store photos/videos metadata as well as their owners and followers.
 - There are 2 ways we can partition metadata information in this case:
   - Partitioning based on User's ID so that all photos/videos of a user is on the same shard. Different issues with this approach include:
     - Some users have a lot of photos/videos compared to others, thus making the distribution unbalanced.
@@ -75,7 +74,7 @@ Instagram lets users upload photos and share them with other users.
   - We can pull the New Feeds on a regular basis or whenever they need it. However, new data might not be shown until a request is issued.
   - We can maintain Long Poll requests for receiving updates, though there will be a performance hit for users who have millions of followers.
   - We can also adopt a hybrid approach where we only maintain Long Poll requests for users who has a small number of followers.
-- Cache Service uses an existing caching server like Memcached to cache metadata informations/hot database rows.
+- Cache Service can be added to cache metadata informations/hot database rows.
 - CDN sits on top of the Object Storage Service so that photos/videos can be served faster and more cost effective.
 
 ## Dropbox
@@ -95,13 +94,17 @@ Dropbox enables users to store data on remote servers that are accessible throug
 
 **Component Design**
 ![Dropbox's Component Design](/assets/images/sd-dropbox.png)
- 
-- Block Service upload/download file from TODO.
-  - Files are broken down and stored in small chunks. There are a lot of benefits to uploading/downloading:
-    - Only failed chunk will be retried.
-    - Only updated chunk will be uploaded, thus saving bandwidth.
-- Metadata Service keeps metadata of files, their owners and followers in TODO database.
-- Synchronization Service notifies clients about different change for synchronization.
+
+- Client Application monitors user's local workspace and syncs all files with our remote Storage Service. It can be broken into 3 parts as follows:
+  - Chunk Service is responsible for splitting/reconstructing files into/from smaller chunks. It retries only failed chunks as well as uploads only updated chunks, thus saving bandwidth and synchronization time.
+  - Metadata Storage keeps track of all the files, their versions, location in the file system.
+  - Management Service monitors the local workspace, distributes work load to Chunk Service, updates Metadata Storage about the modified changes, and communicates with the remote Synchronization Service on the uploading/downloading changes as well as communicating with other Client Applications (Web, Mobile, Desktop).
+- Synchronization Service notifies clients about different changes for synchronization and applies these changes to them. It also takes advantages of Chunk Service to intelligently upload/download only updated bits of files.
+- Since the system is read and write heavy as the Synchronization Service has to deal with a high number of clients pulling/pushing at the same time, a message Queue is introduced to balance its load.
+- Metadata Storage keeps metadata of files, their owners and followers in a database of choice.
+  - A relational database is more preferable as it natively supports ACID properties, which is critical in our case.
+- Block Storage stores chunks of files uploaded by user.
+- Cache Service can be added to cache hot chunks.
 
 <hr>
 **References:**
