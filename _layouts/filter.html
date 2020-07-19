@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<article role="article">
+    <h1>Categories:</h1>
+    <table>
+	{% for category in site.categories reversed %}
+	{% capture category_name  %}{{ category | first }}{% endcapture %}
+        <tr style="border: 0px;">
+            <td style="padding-left: 0px;"><a href="/category/{{category_name}}">{{ category_name | replace: "-", " " }}</a></td>
+            <td style="float: right; white-space: nowrap;">{{ category | last | size }} articles</td>
+        </tr>
+    {% endfor %}
+    </table>
+</article>
+
+<article role="article">
+    <h1>Tags:</h1>
+    {% assign tags = site.tags | sort %}
+    <table>
+    {% for tag in tags %}
+        <tr style="border: 0px;">
+            <td style="padding-left: 0px;"><a href="/tag/{{ tag | first | slugify }}/">#{{ tag[0] | replace:'-', ' ' }}</a></td>
+            <td style="float: right; white-space: nowrap;">{{ tag | last | size }} articles</td>
+        </tr>
+    {% endfor %}
+    </table>
+</article>
