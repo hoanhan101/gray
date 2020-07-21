@@ -89,6 +89,17 @@ tags: [book, business, wealth, investing]
     - Warning people about a hot fire doesn't work - they need to feel the burn themselves. 
     - People don’t care about improving their lives unless they have experiences hardship - shitty job, shitty boss, shitty commute, meaningless life,… 
     - That said, have a strong motive and just do it.
+- Your last business - What to do about millions once you have accumulated them.
+  - Money can be allocated into 3 pots: fuck-you (FU) pot, home pot and paycheck pot.
+  - The FU pot is idle cash sitting in saving accounts usually doing nothing. The points of FU pot is about choices so that you can do whatever you want with it without it being endanger your lifestyle.
+  - The home pot is your home without a mortgage. Since your biggest expense will your home, removing this expense means money will no longer an issue. Alternatively, your paycheck pot can be big enough to pay your mortgage without an issue.
+  - The paycheck pot is a passive-income system of financial instruments such as stock dividends, bond interest, loan, and so on. Regardless, here are the rules:
+    - Any investment that carries an unstated return is a 50-50 coin flip. You should focus on one that pays monthly or quarterly.
+    - Your investment must recallable back to cash within 24 hours or seconds so you can be safe.
+    - Your investment should only be trusted to largely recognized companies.
+    - If your investment appreciates unrealized gains greater or equal to 3 years in any 3-month period, sell and take the profits.
+    - Your portfolio should be boring. If it's too good, consider using the FU pot instead.
+    - Avoid any fund with a management fee greater than 1%.
 
 <hr>
 **References:**
