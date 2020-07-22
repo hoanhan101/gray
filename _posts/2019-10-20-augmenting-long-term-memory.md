@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summary: Augmenting Long-term Memory by Michael Nielsen"
+title: Augmenting Long-term Memory by Michael Nielsen
 summary: Investigation of a personal memory system, Anki, improve the long-term memory.
 category: Key-takeaways-from-important-reading
 tags: [blog, memory]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summary: The Mom Test by Rob Fitzpatrick"
+title: The Mom Test by Rob Fitzpatrick
 summary: How to talk to customers and learn if your business is a good idea when everyone is lying to you.
 category: Key-takeaways-from-important-reading
 tags: [book, business, customer]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summary: Testosterone Experiment by The Art of Manliness"
+title: Testosterone Experiment by The Art of Manliness
 summary: The keys to increasing testosterone level naturally are eating better, exercising smarter, and getting more sleep.
 category: Key-takeaways-from-important-reading
 tags: [blog, health, testosterone]

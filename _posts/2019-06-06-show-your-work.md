@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summary: Show Your Work by Austin Kleon"
+title: Show Your Work by Austin Kleon
 summary: A book for people who hate the very idea of self-promotion.
 category: Key-takeaways-from-important-reading
 tags: [book, creativity, compound]

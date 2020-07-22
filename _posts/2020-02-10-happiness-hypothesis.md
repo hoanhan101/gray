@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summary: The Happiness Hypothesis by Jonathan Haidt"
+title: The Happiness Hypothesis by Jonathan Haidt
 summary: The happiness formula found in philosophical wisdom through the lens of psychological science.
 category: Key-takeaways-from-important-reading
 tags: [book, happiness, meaning, life, wealth]

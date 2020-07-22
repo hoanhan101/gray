@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summary: Unlimited Memory by Kevin Horsley"
+title: Unlimited Memory by Kevin Horsley
 summary: How to remember more by applying creativity to everything you learn.
 category: Key-takeaways-from-important-reading
 tags: [book, memory, productivity]

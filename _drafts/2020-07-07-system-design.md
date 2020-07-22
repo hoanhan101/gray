@@ -1,6 +1,6 @@
 ---
 layout: post
-title: High-Level System Design Experiment
+title: System Design Interview Cheat Sheet
 summary: Learn system design by redesigning Youtube, Dropbox, Facebook, Messenger, Instagram, Uber, Pastebin, TinyURL and so on.
 category: System-design-notes
 tags: [architecture, system, design]

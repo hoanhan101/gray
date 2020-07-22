@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summary: Authority by Nathan Barry"
+title: Authority by Nathan Barry
 summary: Step-by-step guide to self-publishing.
 category: Key-takeaways-from-important-reading
 tags: [writing, self-publishing]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summary: Super Human Dave Asprey"
+title: Super Human Dave Asprey
 summary: The Bulletproof Plan to Age Backward and Maybe Even Live Forever.
 category: Key-takeaways-from-important-reading
 tags: [book, health, biohacking, diabetes]

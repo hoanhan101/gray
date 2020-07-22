@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summary: How Will You Measure Your Life? by Clayton Christensen"
+title: How Will You Measure Your Life? by Clayton Christensen
 summary: How to be successful and happy in your career, find happiness in relationships, live a life of integrity.
 category: Key-takeaways-from-important-reading
 tags: [book, career, relationship]

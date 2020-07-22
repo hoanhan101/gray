@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summary: The Simple Path to Wealth by JL Collins"
+title: The Simple Path to Wealth by JL Collins
 summary: Your road map to financial independence and a rich, free life.
 category: Key-takeaways-from-important-reading
 tags: [book, spending, saving, investing, rich, wealth, compound]
