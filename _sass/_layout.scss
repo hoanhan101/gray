@@ -84,5 +84,11 @@ footer {
 
 /* No nav a margin for small devices */
 @media only screen and (max-width: 600px) {
-    nav a {margin: 0;}
+    nav a {
+        margin: 0;
+    }
+
+    h1 {
+        font-size: 26px;
+    }
 }
