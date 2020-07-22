@@ -81,3 +81,8 @@ footer {
     text-align: center;
     color: inherit;
 }
+
+/* No nav a margin for small devices */
+@media only screen and (max-width: 600px) {
+    nav a {margin: 0;}
+}
