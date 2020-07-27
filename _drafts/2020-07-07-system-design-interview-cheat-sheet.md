@@ -6,6 +6,13 @@ category: System-design-notes
 tags: [architecture, system, design]
 ---
 
+<h2> Table of Contents </h2>
+
+* TOC
+{:toc}
+
+<hr>
+
 ## URL Shortener
 
 URL Shortener provides short aliases redirecting to long URLs.
