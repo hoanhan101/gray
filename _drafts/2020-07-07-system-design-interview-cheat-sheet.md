@@ -124,16 +124,20 @@ Messenger lets users chat with their friends both from their phones and its webs
 **Component Design**
 ![Messenger's Component Design](/assets/images/sd-messenger.png)
 
-- To efficiently send/receive messages, users can keep a connection with a Chat Service using WebSocket.
-  - Chat Service contains a number of Chat Servers. Depending on the load, we can scale up by adding more Chat Servers when needed.
-  - Chat Service maintains a map of user's ID and their connection objects to fasten the lookup and redirecting messages process.
-  - If an user/receiver is offline, Chat Service can store the message and retry sending it once the receiver connects.
+- To efficiently send/receive messages, a client can keep a connection with Chat Service using WebSocket.
+  - Chat Servers are the building block of Chat Service. They handle all users' requests, read/write from the database. Depending on the load, we can scale up by adding more Chat Servers when needed.
   - To maintain the sequencing of the messages, Chat Service can keep a increasing sequence/version number with every message for each client.
   - To keep track of user's online/offline status, Chat Service can broadcast online status of a user to other relevant users.
+  - To enable group chat functionality, we can define a group chat object that maintain a list of users in a separate table in the database.
+  - If an user/receiver is offline, Chat Service can store the message and retry sending it once the receiver connects. Alternatively, Chat Service can talk to Notification Service to handle the delivery process and enable push notification on user's devices.
 - Load Balancer tells us which Chat Server holds the connection to which user by holding a map of users' ID to their Chat Servers.
-- Storage Service uses a HBase dabase for several reasons:
+  - It assigns each user to a Chat Server based on the hash of their user's ID.
+  - It forwards users' messages to their Chat Servers.
+- Storage Service uses HBase database for several reasons:
   - Since we have a huge number of small messages that needed to be written in the database as well as query them sequentially in range, HBase is a good choice as it supports a very high rate of small updates and fetching a range of records quickly.
   - Relational database like MySQL or NoSQL like MongoDB is not a good fit because we can't afford to read/write every time user receives/sends a message.
+- We can partition based on the hash of user's ID so that all messages of a user are on the same database. This also makes it fast to fetch chat history of any user.
+- We can cache a few recent messages in a few recent conversations of each user. Since all user's messages are on one shard, the cache should also be on the same machine too.
 
 <hr>
 **References:**
