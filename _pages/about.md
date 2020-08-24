@@ -22,7 +22,7 @@ me live a more meaningful and fulfilling life. And this is just as important
 as mastering my engineering craft.
 
 If you're interested in getting updates on my latest insights, projects and
-becoming better a software engineer as well as a better person overall, feel
+becoming a better software engineer as well as a better person overall, feel
 free to join my [Insights mailing list here →](https://tinyletter.com/hoanhan)
 
 Have a wonderful day,
