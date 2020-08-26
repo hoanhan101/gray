@@ -13,8 +13,12 @@ Almost a year ago, in August 2019, I shared one of my projects called Ultimate G
 the community. Fast forward to August 2020, it now has over 11K stars, 900 folks with the help
 of more than 20 contributors.
 
-The project is a collection of my notes while learning Go programming language. Different people
-have different learning styles. For me, I learn best by doing and walking through examples.
+The project is a collection of my notes while learning Go programming language from Ardan Labs's Ultimate Go course.
+Honestly, I couldn’t thank Bill Kennedy and the Ardan Labs team enough for open-sourcing this
+wonderful material. They’ve done such great jobs putting together their knowledge, insights
+into their courses, and making them available to the public.
+
+Different people have different learning styles. For me, I learn best by doing and walking through examples.
 That said, I take notes carefully, comment directly on the source code to make sure that I
 understand every single line of code as I am reading and also be mindful of the theories behind the scene.
 
