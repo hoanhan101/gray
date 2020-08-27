@@ -25,9 +25,14 @@ layout: default
 
   {{ content }}
 
+  <hr>
+
+
+
   <!-- Related posts: -->
     <div class="related">
-        <h3><small>Similar posts:</small></h3>
+        <h4>Interested in getting updates on my latest insights and projects, feel free to join my <a class="post" href="https://tinyletter.com/hoanhan">Insights mailing list</a>.
+        Otherwise, checkout similar posts here:</h4>
 
         <ul>
         {% assign relatedCount = 0 %}
@@ -47,6 +52,7 @@ layout: default
   
   <hr>
 
+  <!-- Tags: -->
   <p>
       Tagged:
       {% for tag in page.tags %}
