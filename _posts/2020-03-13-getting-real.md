@@ -13,17 +13,17 @@ tags: [book, productivity, business]
     - It’s likely people have the same problem so now you have a market too.
   - Fund yourself
     - Outside funding is plan B.
-    - Investors want their money back quickly -> overhead + other complicated things follow.
+    - Investors want their money back quickly → overhead + other complicated things follow.
     - Money constraints force you to focus + allow creativity.
   - Fix time and budget, flex scope: better to launch great thing, on time, on a budget in small scope than big ones with many holes.
   - Pick up an enemy and use it as an motivation to tell better story.
   - If your app doesn't excite you, something’s wrong.
 - Stay lean.
   - Simplify + focus.
-  - Lower the cost of change -> change faster (huge advantage over big company).
+  - Lower the cost of change → change faster (huge advantage over big company).
   - Start with 3 people: a developer, a designer, and a sweeper who can roam between both world.
   - Work with your limited resources. Forget about VC, long release cycles, quick hires,...
-  - Stay small and friendly -> get closer to customer.
+  - Stay small and friendly → get closer to customer.
 - Priorities.
   - What is the app vision? Why does it exit? What makes it different?
   - Don’t get too deep in the details early one. Ship it first and optimize it later.
@@ -111,7 +111,7 @@ tags: [book, productivity, business]
   - Write stories, not details.
     - Don’t get into the technical/design details, just a quick story.
     - Treat it as a normal conversation.
-  - Use real data if possible, not dummy text all the time -> focus on the UX.
+  - Use real data if possible, not dummy text all the time → focus on the UX.
   - What is your product’s personality type?
 - Pricing and signup
   - Give something for free. Let  people experience and see its usefulness.
