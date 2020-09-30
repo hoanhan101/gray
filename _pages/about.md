@@ -23,7 +23,7 @@ as important as mastering my engineering craft.
 
 If you're interested in getting updates on my latest insights, projects and
 becoming a better software engineer as well as a better person overall, feel
-free to join my [Insights mailing list here →](https://tinyletter.com/hoanhan)
+free to join my [Insights mailing list here →](https://mailchi.mp/579f9d6927dd/hoanhanco)
 
 Have a wonderful day,
 

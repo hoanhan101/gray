@@ -84,6 +84,3 @@ Cost:
 
 > For more coding problems, please visit
   [https://github.com/hoanhan101/algo](https://github.com/hoanhan101/algo).
-
-> If you're interested in getting updates for such content like these, consider
-  joining my [mailing list here →](https://tinyletter.com/hoanhan)
