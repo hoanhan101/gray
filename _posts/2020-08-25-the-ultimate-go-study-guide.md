@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Ultimate Go Study Guide
-summary: For the last 3 months or so, I have spent most of my free time putting together Ultimate Go Study Guide into a 200-page book
+summary: For the last 3 months or so, I have spent most of my free time putting together Ultimate Go Study Guide into a 200-page book.
 category: Product-releases
 tags: [book, go, ultimate-go]
 ---
