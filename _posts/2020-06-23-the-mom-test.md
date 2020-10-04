@@ -44,13 +44,13 @@ tags: [book, business, customer]
   - Ideas.
     - Take a moment to dig into the **motivations** behind the idea/feature request.
     - Why do you want that? What would that let you do? How are you coping without it? Do you think we could push back the launch to add that feature? How would that fit into your day?
-    - Tell me more about that. That seems to really bug you. What makes it so aweful? Why haven't you been able to fix it already? Is this a big deal? Why so happy?
+    - Tell me more about that. That seems to really bug you. What makes it so awful? Why haven't you been able to fix it already? Is this a big deal? Why so happy?
 - Keeping it casual.
   - Strip all the formality from the process.
   - Make it a quick and casual chat.
 - Commitment and advancement.
   - A meeting has succeeded when it ends with a commitment to advance to the next step.
-  - Commitment can either be time, reputation risk, or fiance.
+  - Commitment can either be time, reputation risk, or finance.
     - Time commitment include: having a clear next meeting with known goals, sitting down to give feedback, using a trial.
     - Reputation risk include: intro to peers/team or a decision maker (boss, lawyer), giving a public testimonial or case study.
     - Financial commitment include: letter of intent to purchase, pre-order, deposit.
@@ -60,10 +60,10 @@ tags: [book, business, customer]
     - "There are a couple people I can intro you to when you’re ready.": ask who they want to introduce you to, what “ready” means, why he can't make the intro now,...
     - "I would definitely buy that.": ask for a letter of intent/a pre-purchase/deposit/intros to other decision makers and team members,...
 - If you already know your customers, go talk to them. If you don't know, how to find these conversations?
-  - Cold calls are hard, though having only one to start the train.
+  - Cold calls are hard, though having only one is enough to start the train.
     - Try to keep it informal. Don't even need to mention you have a business. Have a good conversation. Be interested in other people's problems.
   - Instead of reaching out to them, what can you offer what will make them want to talk to you?
-    - Organize meetups, give talks at conferences, host workshops, teach through videos, blogging,...
+    - Organize meet-ups, give talks at conferences, host workshops, teach through videos, blogging,...
   - Reach out to general audiences and ask for references. Everyone knows someone. We just need to ask.
   - Find advisors, including industry experts as well as professors.
   - Find investors.
