@@ -8,7 +8,7 @@ title: About
 Hi friends,
 
 I'm Hoanh, a software engineer with a background in distributed systems. In my
-free time, I enjoy contributing to open-source projects and building/running personal ones.
+free time, I enjoy contributing to open-source projects, building and running personal ones.
 
 Some of my popular projects include:
 - [Motion](https://motion.hoanhan.co/): Simple way to set goal you actually follow
