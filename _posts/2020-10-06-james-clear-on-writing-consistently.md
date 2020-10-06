@@ -6,8 +6,8 @@ category: Motion
 tags: [motion, app, hoanhan.co, consistency]
 ---
 
-For nearly three years, James Clear have pushed out a new article on his blog **every Monday and Thursday**.
-No matter how long, short, compelling an article was, it got published on the site on time. He said that,
+For nearly three years, James Clear has pushed out a new article on his blog **every Monday and Thursday**.
+No matter how long, short, compelling an article was, it got published on the site on time. He said that
 he wanted to write consistently to [find his voice, build an audience, churn through average ideas to
 discover great ones](https://jamesclear.com/once-per-week). He didn’t know whether an article was popular
 or not, but he believed that if he did not miss a day, he would eventually become a better writer and
