@@ -54,19 +54,32 @@ Unconventional PR is really effective if done right.
 
 ## Search Engine Marketing (SEM)
 
-SEM refers to placing advertisements on search engine like Google. It's easy to get started
-though difficult to master.
+SEM refers to placing advertisements on search engine like Google. You can use SEM to test product
+positioning even before you build it.
 
-3 terminologies to focus on are
-- Click-Through Rate (CTR): if 100 people see your ad, 3 click, your CTR is 3%. The higher
-it is, the higher quality your ad is, the better placement and pricing you can have.
+3 terminologies to focus on are:
+- Click-Through Rate (CTR): if 100 people see your ad, 3 of them click, your CTR is 3%.
 - Cost per Click (CPC): amount it costs to buy a click.
-- Cost per Acquisition (CPA): amount it costs to acquire a customer. If your CPC is $1,
-10% of people click your ad and *make a purchase*, your CPA is $1/10% = $10.
+- Cost per Acquisition (CPA): amount it costs to acquire a customer.
 
-You can use SEM to test product positioning even before you build it.
+The higher your CTR is, the higher quality your ad is, the better placement and pricing you can have.
+
+If your CPC is $1, 10% of people click on your ad and *make a purchase*, your CPA is
+$1/10% = $10. If your product costs $1 and it costs you $10 to acquire a customer, SEM might not worth it.
 
 ## Social and Display Ads
+
+Display Ads are ones you see on websites all over the Internet where they are run by ad networks.
+- Large Networks: Google Display Network, Advertising.com.
+- Niche Networks: BuySell Ads.
+- Direct Networks: ask sites owners to place your ads.
+
+To know the ads your competitors are running, use tools like MixRank, Adbeat. To determine whether
+a site's audience is the right fit, use tools like Alexa, Quantcast.
+
+Social Ads is when you use social media (LinkedIn, Twitter, Facebook, reddit) to generate interests,
+awareness, start a conversation, deliver a message, build an audience rather than conversion purposes
+(completing a sale, generating sign-up).
 
 ## Offline Ads
 
