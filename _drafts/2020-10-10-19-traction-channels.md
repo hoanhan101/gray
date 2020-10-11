@@ -35,9 +35,12 @@ Top news get stories from smaller news or blogs. That said, to target these effe
 and pitch to niche blogs or ones who often get picked up by larger ones like TechCrunch, Lifehacker,
 Hacker News, Reddit, and so on.
 
-Follow influencers in your industry and target blogs they often link to.
+Follow influencers in your industry and target blogs they often link to. Ask them for comment/feedback
+on your product, and also to share it with their audience if possible.
 
-Figure out specific reporters covering your market and build relationship with them.
+Figure out specific reporters covering your market and build relationship with them (read their articles,
+comment, offer help). Pitch when you have a compelling story (raising money, launching products, hitting
+a usage barrier). Refer to the book for pitch templates.
 
 ## Unconventional PR
 
@@ -53,6 +56,15 @@ Unconventional PR is really effective if done right.
 
 SEM refers to placing advertisements on search engine like Google. It's easy to get started
 though difficult to master.
+
+3 terminologies to focus on are
+- Click-Through Rate (CTR): if 100 people see your ad, 3 click, your CTR is 3%. The higher
+it is, the higher quality your ad is, the better placement and pricing you can have.
+- Cost per Click (CPC): amount it costs to buy a click.
+- Cost per Acquisition (CPA): amount it costs to acquire a customer. If your CPC is $1,
+10% of people click your ad and *make a purchase*, your CPA is $1/10% = $10.
+
+You can use SEM to test product positioning even before you build it.
 
 ## Social and Display Ads
 
