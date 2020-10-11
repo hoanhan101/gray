@@ -83,9 +83,42 @@ awareness, start a conversation, deliver a message, build an audience rather tha
 
 ## Offline Ads
 
+There are many kinds of offline ads, such as TV, radio, magazines, newspapers, billboards, direct mail.
+The most important factor to consider while making an offline ads purchase is the demographics.
+
+You can run cheap tests by targeting local markets first and scale up to national ones. To track it,
+use unique codes or web addresses.
+
 ## Search Engine Optimization (SEO)
 
+SEO is the process of improving your ranking in search engines.
+
+[Moz's The Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo) is a good start for beginners.
+
+SEO comes down to two things: contents and links.
+- The more aligned your content is with the keywords, the better it will rank.
+- The more links you can get from credible and varying sources, the better it will rank. This can be achieved
+via PR, content marketing, and so on.
+
 ## Content Marketing
+
+Blogging is proven to be a great way to promote your product. Having a strong blog can positively impact
+other traction channels as well.
+
+Some use their blogs as a marketing platform before they even have a product.
+Some use their blogs as their main channel for customers acquisition.
+
+Other than blogging, courses, ebooks, infographics,... are also be used in content marketing.
+
+> “In the early days, it’s unlikely that your blog will see much traffic, regardless of content quality.
+> Even Unbounce was receiving less than 800 monthly visits after six months of consistently putting out content.
+> It took a while for them to grow to 20,000 monthly visitors.”
+
+One of the best way to grow your audience is to do guest posting on popular blogs.
+
+To succeed, you have to create quality content and **[publish consistently](/james-clear-on-writing-consistently)**.
+- Write about problems your target customers have.
+- Use data from your product to produce in-depth posts.
 
 ## Email Marketing
 
