@@ -14,7 +14,7 @@ or not, but he believed that if he did not miss a day, he would eventually becom
 hopefully make it big someday.
 
 We all knew the result. James became extremely well-known for his blog. As of today, he has 10 million
-visitors to his site per year. Along with that, he has sold over 1 million copies of his books and has
+people visited his site per year. Along with that, he has sold over 1 million copies of his books and has
 spoken at tons of major events. All thanks to a simple strategy that he setup in the very beginning when
 he first started: **publish an article consistently every Monday and Thursday**.
 
