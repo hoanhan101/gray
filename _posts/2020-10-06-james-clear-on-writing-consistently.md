@@ -3,7 +3,7 @@ layout: post
 title: How writing consistently helped James Clear gain millions of fans
 summary: For nearly three years, James Clear have pushed out a new article on his blog every Monday and Thursday.
 category: Motion
-tags: [motion, app, hoanhan.co, consistency]
+tags: [motion.hoanhan.co, consistency]
 ---
 
 For nearly three years, James Clear has pushed out a new article on his blog **every Monday and Thursday**.
