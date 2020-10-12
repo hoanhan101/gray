@@ -7,7 +7,7 @@ tags: [motion, app, hoanhan.co, consistency, genius, masterpiece]
 ---
 
 According to [Adam M. Grant’s Originals](https://www.goodreads.com/book/show/25614523-originals?ac=1&from_search=true&qid=hmhJm1ODZL&rank=3),
-lots of creative geniuses came up with **a large number of ideas consistently** throughout the years. For example,
+many creative geniuses came up with **a large number of ideas** throughout the years. For example,
 - Shakespeare produced 37 plays and 154 sonnets in the span of 2 decades.
 - Mozart composed more than 600 pieces before his death at 35.
 - Beethoven produced 650 pieces in his lifetime.
@@ -27,6 +27,6 @@ you want to focus on quantity. Putting more works out there also means that you 
 faster, have more time to reflect and improve your pieces.
 
 Now, the thing is, doing work itself is hard, doing more of it is harder, **doing it consistently
-is the hardest**. That's why having a good system to keep you in check frequently as well as keeping track
+is incredibly hard**. That's why having a good system to keep you in check frequently as well as keeping track
 of your work is crucial to your success. I've written about system planning and goal setting here if you're
 interested in [checking it out →](/motion)
