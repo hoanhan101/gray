@@ -122,6 +122,19 @@ To succeed, you have to create quality content and **[publish consistently](/jam
 
 ## Email Marketing
 
+Email marketing works best when it's personalized as they sit next to email updates from friends and family in your
+customer's inbox.
+
+Email can be used in all stages of the customer lifecycle:
+- Finding customers: include an email list in your blog, offer materials over email, and so on.
+- Engaging customers: what you really want is an email list of **active users**. What it means depends on your product.
+For Dropbox, it means uploading at least 1 file. For Twitter, it means sending out a tweet or following at least 5 people.
+- Retaining customers: send out lifecycle emails to slowly expose customers to new features, weekly summary,...
+- Upselling cusomters.
+- Generating referrals.
+
+Checkout Copyhackers for copywriting tips.
+
 ## Engineering as Marketing
 
 ## Target Market Blogs
