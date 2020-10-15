@@ -157,10 +157,10 @@ To find influential bloggers, can search for "top blogs/best blogs for x" in sea
 ## Business Development (BD)
 
 BD focuses on exchanging value through partnerships. Some of the major types are:
-- Standard partnerships: two parties work together to leverage each or both products (Nike+ is the result of Apple and Nike).
-- Join ventures: two parties work together to create a new product offering (Starbucks Frappuccino is the result of Starbucks and Pepsi).
+- Standard partnership: two parties work together to leverage each or both products (Nike+ is the result of Apple and Nike).
+- Join venture: two parties work together to create a new product offering (Starbucks Frappuccino is the result of Starbucks and Pepsi).
 - Licensing: an upstart can use a stronger branch to have more credibility.
-- Distribution deals: one party provides a service to other in return for access to potential customers (Groupon work with restaurants to offer discounts to their mailing list).
+- Distribution deal: one party provides a service to other in return for access to potential customers (Groupon work with restaurants to offer discounts to their mailing list).
 
 ## Sales
 
@@ -170,27 +170,45 @@ For more information, refer to the book as well as [The Mom Test](/the-mom-test)
 
 ## Affiliate Programs
 
-TODO
+An affiliate program is an arrangement where you pay people to perform a certain action. Some of the major categories are:
+- Coupon/deal: offer discounts and take a sale cut (Amazon).
+- Loyalty program: offer cash back on purchases made through partnered networks (Upromise, Ebates).
+- Aggregator: aggregate products from retailers.
+- Email list.
+- Niche sites.
+
+Your ability to use affiliate programs effectively depends on how much you're willing to pay out of pocket to acquire a
+customer.
+- Use affiliate networks such as ClickBank, Commission Junction, Pepperjam,...
+- Create your own: even though you don't have to pay for affiliates in cash, you have to recruit partners yourself.
 
 ## Existing Platforms
 
-TODO
+Existing platforms are websites, apps with huge number of users (Apple App Store, Google add-ons/extensions).
+- For app stores, you want to get high ranking or featured.
+- For social platform, you want to focus on missing features.
 
 ## Trade Shows
 
-TODO
+Trade shows allow companies to show their products in person.
+
+Look at how other companies do it and decide yourself.
 
 ## Offline Events
 
-TODO
+Conferences are the most popular type of offline events. Alongside, throwing parties is a successful strategy to attract
+and reward prospective customers.
+
+Meetups are also good ways to build local communities.
 
 ## Speaking Engagements
 
-TODO
+If you're a good fit for a event, you're doing the event organizers by presenting.
 
 ## Community Building
 
-TODO
+> “Community building can give you traction by magnifying your essential purpose, building a core asset,
+> creating evangelists for your service, contributing to product development and even giving you a hiring pool.”
 
 <hr>
 **References:**
