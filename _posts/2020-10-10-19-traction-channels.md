@@ -6,8 +6,6 @@ category: Key-takeaways-from-important-reading
 tags: [book, traction, customer]
 ---
 
-> Still a work in progress. Last updated on 10/15/20.
-
 <h2> Table of Contents </h2>
 
 * TOC
@@ -139,19 +137,36 @@ Checkout Copyhackers for copywriting tips.
 
 ## Engineering as Marketing
 
-TODO
+Build useful tools and resources to reach more people. For example, HubSpot built a free marketing review tool, Marketing Grader,
+to automate the process of evaluating websites' marketing effectiveness and at the same time build a bigger customer base.
+
+The key features of these tools are that they're free, very to easy use, and an immediate value.
 
 ## Target Market Blogs
 
-TODO
+Targeting blogs your customer read is one of the most effective way to get your first customers.
+
+Mint used this strategy to acquire 20k sign up before they launched:
+- They got several blogs to write about them.
+- They sponsored blogs to put ads.
+- They partnered with larger sites like The Motley Fool.
+- They asked people on their pre-launch list to share in return for priority product access.
+
+To find influential bloggers, can search for "top blogs/best blogs for x" in search engines, Youtube, social media.
 
 ## Business Development (BD)
 
-TODO
+BD focuses on exchanging value through partnerships. Some of the major types are:
+- Standard partnerships: two parties work together to leverage each or both products (Nike+ is the result of Apple and Nike).
+- Join ventures: two parties work together to create a new product offering (Starbucks Frappuccino is the result of Starbucks and Pepsi).
+- Licensing: an upstart can use a stronger branch to have more credibility.
+- Distribution deals: one party provides a service to other in return for access to potential customers (Groupon work with restaurants to offer discounts to their mailing list).
 
 ## Sales
 
-TODO
+Sales is the process of generating leads and converting them into paying customers. It works best for high-priced products.
+
+For more information, refer to the book as well as [The Mom Test](/the-mom-test).
 
 ## Affiliate Programs
 
