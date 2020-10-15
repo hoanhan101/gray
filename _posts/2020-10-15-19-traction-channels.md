@@ -6,6 +6,8 @@ category: Key-takeaways-from-important-reading
 tags: [book, traction, customer]
 ---
 
+> Still a work in progress. Last updated on 10/15/20.
+
 <h2> Table of Contents </h2>
 
 * TOC
@@ -137,23 +139,43 @@ Checkout Copyhackers for copywriting tips.
 
 ## Engineering as Marketing
 
+TODO
+
 ## Target Market Blogs
+
+TODO
 
 ## Business Development (BD)
 
+TODO
+
 ## Sales
+
+TODO
 
 ## Affiliate Programs
 
+TODO
+
 ## Existing Platforms
+
+TODO
 
 ## Trade Shows
 
+TODO
+
 ## Offline Events
+
+TODO
 
 ## Speaking Engagements
 
+TODO
+
 ## Community Building
+
+TODO
 
 <hr>
 **References:**

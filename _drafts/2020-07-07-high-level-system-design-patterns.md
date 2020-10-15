@@ -132,11 +132,19 @@ Chat Service lets users chat with their friends both from their phones and its w
 
 Search Service lets users search for informations across the World Wide Web.
 
+TODO
+
 ## Proximity Service
+
+TODO
 
 ## Ride Sharing Service
 
+TODO
+
 ## Ticketing Service
+
+TODO
 
 <hr>
 **References:**
