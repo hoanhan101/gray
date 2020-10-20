@@ -7,7 +7,7 @@ tags: [motion.hoanhan.co, goal, consistency, sacrifice]
 ---
 
 Let me know if you agree to these:
-- Everyone wants to have an amazing job and financial independent but not everyone wants
+- Everyone wants to have an amazing job and financial independence but not everyone wants
   to sacrifice their late nights and weekends, do unpleasant paperwork, practice networking, or
   take lots of risks even though it's not guaranteed to be successful.
 - Everyone wants to have a great relationship but not everyone wants to go through tough
@@ -26,7 +26,7 @@ price you have to pay. Take these examples from real-life successful people:
 - Marissa Mayer used to put in 130-hour weeks at Google.
 
 These people understood their costs well, chose to accept the immediate
-pain and focused on the big picture. As a result, they all had what they wanted. Now, to better understand
+pain, and focused on the big picture. As a result, they all had what they wanted. Now, to better understand
 your cost, it's always a good idea to write it down and have a simple way to keep track of it. I've written
 about system planning and goal setting here if you're interested in [checking it out →](/motion)
 
