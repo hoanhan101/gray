@@ -6,20 +6,20 @@ category: Key-takeaways-from-important-reading
 tags: [blog, memory]
 ---
 
-- Anki like a flashcard app but able to manage the review schedule.
+- Anki works like a flashcard app but also has the ability to manage the review schedule.
   - If you answer a question correctly, the review time expands.
-  - The better you master the material, the less frequent it appears
+  - The better you master the material, the less frequent it appears.
 - Memories are maximally strengthened if tested when we're on the verge of forgetting them.
-- Used to learn anything: papers, books, talks, conversations, facts, plans,...
-- Have desktop client for entering new card, mobile client for reviewing.
-- Read a research paper in an unfamiliar field - AlphaGo paper.
+- Anki is used to learn anything: papers, books, talks, conversations, facts, plans,... A common way to use Anki is to use
+  its desktop client for entering new card, mobile client for reviewing.
+- Author's workflow for reading a research paper in an unfamiliar field (AlphaGo paper).
   - Read quickly first, come up with questions that:
     - Identify the most important ideas.
     - Look for basics fact that I could understand easily.
   - Make several passes this way, each time try to get deeper, continue to ask questions.
 - Make better use of Anki:
-  - Make the question more atomic so I could focus on the hard-to-memory details -> asking good questions is very important.
-  - Construct your own decks instead of using shared ones -> constructing a card forces you to think through the questions and its answer.
+  - Make the question more atomic so I could focus on the hard-to-memory details → asking good questions is very important.
+  - Construct your own decks instead of using shared ones → constructing a card forces you to think through the questions and its answer.
   - Avoid yes/no questions.
 - Procedural vs declarative memory.
   - Procedural (implicit, unconscious, automatic): habits such as walking, talking,...
@@ -34,7 +34,7 @@ tags: [blog, memory]
 - The importance of long-term memory.
   - A study shows that chess grandmaster has higher memory capacity.
     - Beginner see a series of individual pieces.
-    - Master see see a “chunk”-combinations of pieces recognized as a unit -> able to reason much easier at a higher level of abstraction (25k-100k).
+    - Master see see a “chunk”-combinations of pieces recognized as a unit → able to reason much easier at a higher level of abstraction (25k-100k).
   - A study shows that the better working memory one has, the higher their IQ and vice versa.
   - Having more chunks memorized in some domain is somewhat like an effective boost to a person's IQ in that domain.
 - Distribute practice - why Anki works?
