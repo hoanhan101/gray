@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Get started with 2-minute rule
-summary: Scale any task down into a 2-minute version to make it easier to get started
+summary: Scale any task down into a 2-minute version to make it easier to get started.
 category: Motion
 tags: [motion.hoanhan.co, consistency, start]
 ---
@@ -13,6 +13,7 @@ Whenever you find it hard to get started on a task, consider scaling it down int
 - Do 100 push-ups → Do 1 push up
 - Eat more vegetables → Eat an apple
 - Study for interview → Skim through my notes
+- Build a program → Code a function
 
 The idea is to make it super easy to get started. Once you pass the starting point, which is arguably the hardest step,
 you start to gain momentum to keep doing the task itself:
@@ -23,7 +24,8 @@ you start to gain momentum to keep doing the task itself:
 As you can see, once you start, it is much easier to continue doing it. Sometimes, you'll find yourself completing the
 task even before you even notice it.
 
-> For more insights on system planning and goal setting, feel free to check out [Motion →](/motion)
+> For more insights on system planning and goal setting, feel free to check out [this guide](/motion). If you're curious
+> about how I apply it on a daily basis, [check this out →](https://motion.hoanhan.co/goals/hoanhan/).
 
 <hr>
 **References:**
