@@ -9,9 +9,6 @@ Hi friends,
 
 I'm Hoanh, a software engineer with a background in distributed systems. In my
 free time, I enjoy contributing to open-source projects, building and running personal ones.
-- I built [Motion](https://motion.hoanhan.co/) to help people set goals they actually
-follow using 4 simple strategies. More than 300 people signed up in the first week since
-the launch in October 2020.
 - I created [The Ultimate-Go Study Guide](https://github.com/hoanhan101/ultimate-go) to help
 people learn Go programming language better. The project now has over 13,000+ stars on GitHub
 and also has an [eBook version](https://gumroad.com/l/bpUYF) that has sold over 3,000 copies
