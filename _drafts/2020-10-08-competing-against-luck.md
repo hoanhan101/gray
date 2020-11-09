@@ -9,16 +9,16 @@ tags: [book, innovation, customer]
 ## Correlation vs causality
 
 The masses of data that companies accumulated are not organized in a way that enables them to predict
-which ideas will succeed. For examples, your height, age, shoe size, shopping habits,... don't
-necessarily **cause** you to buy this or that product. There might be a correlation between some of
-collected characteristics and the tendency of customers who purchase the same product but they don't
-cause you to go and buy them. Correlation is not the same as causality.
+which ideas will succeed. For examples, your height, age, shoe size, shopping habits,... **don't
+necessarily cause** you to buy this or that product. There might be a correlation between some of
+collected characteristics and the tendency of customers who purchase the same product. However, they don't
+cause you to go and buy them since correlation is not the same as causality.
 
 ## Job Theory
 
 Instead of trying to find patterns and cross-references in the data sets of a product, it's better to
-figure out what job function of it actually is. Essentially, when we buy a product, we hire it to get
-a job done in a specific circumstance, to make the progress we were struggling to achieve. For example,
+figure out what its job function actually is. Essentially, when we buy a product, we hire it to get
+a job done in a specific circumstance or to make the progress we were struggling to achieve. For example,
 some people use Netflix because they want to be entertained, some use it to kill time, some use it
 for educational purposes. Depending on the context and their unique circumstances, they hire Netflix
 to do different jobs which might not match what Netflix creators make it to do.
@@ -29,9 +29,8 @@ functional dimensions (what it does), it also has social and emotional dimension
 function could be to hire childcare because of your busy schedule, the emotional dimensions then depend
 on who will you trust with your children.
 
-**Job insights are more like stories and statistics.**
-
-One helpful way to grasp a job is to go through this list of questions:
+**Job insights are more like stories and statistics.** One helpful way to grasp a job function is
+to go through this list of questions:
 - What progress is the person trying to achieve? What are the functional, social, emotional dimensions?
 - What are the circumstances? Who, when, where, while doing what?
 - What obstacles are getting in the way?
@@ -44,6 +43,16 @@ One helpful way to grasp a job is to go through this list of questions:
 - Pay attention to people to create their own solutions, workarounds.
 - Look for what people don't want to do because they feel frustrating about the process or something.
 - Spot unusual uses that are different from what your company has envisioned.
+
+**Social and emotional dimensions are just important as functional dimensions**. Sometimes, faster,
+more features, more colors,... are not what customers want, but the ease of using might. Let's take
+P&G's example when they introduced diapers to China. They already knew how to sell to Western customers
+and assumed that if the diaper were affordable enough in developing country like China, it could be sold easily.
+However, it did not take off. After years of research, they realized that they focused too much on the functional aspect
+without taking into account the social and emotional dimensions of customer's struggle. They found that babies who
+wore diapers fell asleep 30% faster and slept longer every night. Not only better sleep improves children's cognitive
+development, because the babies had slept, parents could also have more time to rest and sleep as well. Using this
+finding explicitly in the ads and launch eventually made P&G a top-selling brand in China.
 
 <hr>
 **References:**
