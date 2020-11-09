@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 19 Traction Channels
-summary: Viral marketing, public relations, unconventional PR, search engine marketing, social ads, SEO, content marketing and so on.
+summary: Key takeaways from 19 traction channels, including viral marketing, public relations, unconventional PR, search engine marketing, social ads, SEO, content marketing and so on.
 category: Key-takeaways-from-important-reading
 tags: [book, traction, customer]
 ---

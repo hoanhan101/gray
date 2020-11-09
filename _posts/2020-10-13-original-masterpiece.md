@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How creative geniuses maximized their odds of creating a masterpiece
-summary: Shakespeare, Mozart, Picasso, Albert Einstein all produced a huge volume of work throughout the years.
+summary: Shakespeare, Mozart, Picasso, Albert Einstein all produced a huge volume of work throughout the years. By doing so, they increased the odds of having influential and successful ones.
 category: Motion
 tags: [motion.hoanhan.co, consistency, genius, masterpiece]
 ---
