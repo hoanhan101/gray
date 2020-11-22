@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Step by Step Database Normalization
-summary: Walkthrough an example of normalization from 1NF to 3NF
+summary: Example of a step by step normalization from 1NF to 3NF.
 category: System-design-notes
 tags: [architecture, database, normalization]
 ---
