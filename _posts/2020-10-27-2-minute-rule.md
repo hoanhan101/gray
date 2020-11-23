@@ -24,8 +24,7 @@ you start to gain momentum to keep doing the task itself:
 As you can see, once you start, it is much easier to continue doing it. Sometimes, you'll find yourself completing the
 task even before you even notice it.
 
-> For more insights on system planning and goal setting, feel free to check out [this guide](/motion). If you're curious
-> about how I apply it on a daily basis, [check this out →](https://motion.hoanhan.co/goals/hoanhan/)
+> For more insights on system planning and goal setting, feel free to check out [this guide](/motion).
 
 <hr>
 **References:**

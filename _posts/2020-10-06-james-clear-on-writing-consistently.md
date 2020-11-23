@@ -32,5 +32,5 @@ by week.
 
 That’s it! If you’re interested in learning more about how to design better goals and systems and James
 Clear's Goal Setting technique, feel free to check out my **[definitive guide here](/motion)** and
-**[Motion](https://motion.hoanhan.co)**. If you’re curious about how I am using it on a daily basis, check out
-**[my public page here](https://motion.hoanhan.co/goals/hoanhan/)**.
+**[Motion](http://motion.hoanhan.co)**. If you’re curious about how I am using it on a daily basis, check out
+**[my public page here](http://motion.hoanhan.co)**.
