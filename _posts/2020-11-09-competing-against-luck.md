@@ -6,6 +6,13 @@ category: Key-takeaways-from-important-reading
 tags: [book, innovation, customer]
 ---
 
+<h2> Table of Contents </h2>
+
+* TOC
+{:toc}
+
+<hr>
+
 ## Correlation is not the same as causality
 The masses of data that companies accumulated are not organized in a way that enables them to predict
 which ideas will succeed. For examples, your height, age, shoe size, shopping habits,... **don't
@@ -36,6 +43,8 @@ One helpful way to grasp a job function is to go through this list of questions:
 - What obstacles are getting in the way?
 - What have they tried so far? Are they use a workaround?
 - What would a better solution mean for them? At what trade-offs?
+
+## Applying Job Theory
 
 ### 5 ways to search for unresolved jobs
 
@@ -70,6 +79,14 @@ They tried to look for surprises, unexpected behavior, unusual product uses, pro
 because those were incredibly important to develop a more attractive product.
 
 > “One of the critical storyboard moments, for example, is the first Little Hire moment for guests-when they first turn up at the home in which they’ll stay. How are they greeted? If they’re expecting a place that has been described as relaxing, is that evident? Maybe there should be soft music playing or a scented candle, says Airbnb’s Chip Conley. Has the host made them feel at ease with their decision? Has the host made clear how they will solve any issues or problems that arise during the stay? And so on. The experience must match the customers’ vision of what they hired Airbnb to do. The Airbnb storyboards—which have been constantly tweaked and improved since its founding—reflect the importance of the combination of pushes and pulls that drive their customers’ Big Hires and Little Hires.”
+
+### Once you figure out the job function, you want to create the desired experience
+
+If you can successfully nail the job, you can transform your company's brand into a purpose branch such that customers automatically associate with your solutions:
+- IKEA: finish my apartment today
+- FedEx: send my documents fast
+- Apple: assure technology is easy to used and elegantly designed
+- Google: search anything immediately
 
 <hr>
 **References:**
