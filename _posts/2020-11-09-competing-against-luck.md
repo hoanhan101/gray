@@ -41,7 +41,7 @@ One helpful way to grasp a job function is to go through this list of questions:
 - What progress is the person trying to achieve? What are the functional, social, emotional dimensions?
 - What are the circumstances? Who, when, where, while doing what?
 - What obstacles are getting in the way?
-- What have they tried so far? Are they use a workaround?
+- What have they tried so far? Are they using a workaround?
 - What would a better solution mean for them? At what trade-offs?
 
 ## Applying Job Theory
