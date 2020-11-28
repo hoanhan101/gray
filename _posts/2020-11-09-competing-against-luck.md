@@ -61,7 +61,7 @@ P&G's example when they introduced diapers to China. They already knew how to se
 and assumed that if the diaper were affordable enough in developing country like China, it could be sold easily.
 However, it did not take off. After years of research, they realized that they focused too much on the functional aspect
 without taking into account the social and emotional dimensions of customer's struggle. They found that babies who
-wore diapers fell asleep 30% faster and slept longer every night. Not only better sleep improves children's cognitive
+wore diapers fell asleep 30% faster and slept longer every night. Not only better sleep improved children's cognitive
 development, because the babies had slept, parents could also have more time to rest and sleep as well. Using this
 finding explicitly in the ads and launch eventually made P&G a top-selling brand in China.
 
