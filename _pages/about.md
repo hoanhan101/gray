@@ -18,7 +18,7 @@ subscribers on my [newsletter](https://mailchi.mp/579f9d6927dd/hoanhanco) to hel
 better for their next coding interviews.
 
 I'm using this blog to share what I learn on different topics of software engineering and
-product development. Besides, I also enjoy reading, writing about business, decision making
+product development. Besides, I enjoy reading, writing about business, decision making
 and happiness. I believe that by self-educating on these topics, I am investing
 a great deal in myself, my knowledge onto the world, my hobbies, my relationships
 that could help me live a more meaningful and fulfilling life. And this is just
