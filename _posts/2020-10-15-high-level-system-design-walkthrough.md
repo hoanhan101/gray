@@ -1,7 +1,7 @@
 ---
 layout: post
-title: High Level System Design Patterns
-summary: TODO
+title: High Level System Design Walkthrough
+summary: From requirements clarifications to component design of a Photo/Video Sharing Service, File Hosting Service and Chat Service.
 category: System-design-notes
 tags: [architecture, system, design]
 ---
@@ -128,23 +128,9 @@ Chat Service lets users chat with their friends both from their phones and its w
 - We can partition based on the hash of user's ID so that all messages of a user are on the same database. This also makes it fast to fetch chat history of any user.
 - We can cache a few recent messages in a few recent conversations of each user. Since all user's messages are on one shard, the cache should also be on the same machine too.
 
-## Search Service
+## One more thing
 
-Search Service lets users search for informations across the World Wide Web.
-
-TODO
-
-## Proximity Service
-
-TODO
-
-## Ride Sharing Service
-
-TODO
-
-## Ticketing Service
-
-TODO
+Let me know if you have any question/thought/feedback in the comment section below.
 
 <hr>
 **References:**
