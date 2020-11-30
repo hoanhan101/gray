@@ -4,6 +4,7 @@ title: A Guide to the Good Life by William Braxton Irvine
 summary: Psychological techniques and advice to practice Stoicism for attaining a good life.
 category: Key-takeaways-from-important-reading
 tags: [book, stoic, happiness, meaning, life, death, wealth]
+pin: true
 ---
 
 - What is a good life according to Stoicism?

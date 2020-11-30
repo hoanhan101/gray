@@ -4,6 +4,7 @@ title: The Ultimate Go Study Guide
 summary: For the last 3 months or so, I have spent most of my free time putting together Ultimate Go Study Guide into a 200-page book.
 category: Product-releases
 tags: [book, go, ultimate-go]
+pin: true
 ---
 
 A year ago, in August 2019, I shared this [Ultimate Go Study Guide project on GitHub](https://github.com/hoanhan101/ultimate-go), and surprisingly, it got a lot of attention from the community.

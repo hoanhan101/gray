@@ -3,7 +3,42 @@ layout: default
 title: Notes
 ---
 
-<!-- This loops through the paginated posts -->
+<!-- List popular posts -->
+{% if paginator.page == 1 %}
+    <h3 style="color: gray;">POPULAR</h3>
+    {% assign pinned = site.posts | where_exp: "item", "item.pin == true" %}
+    {% for post in pinned %}
+    <article role="article">
+      <h2><a style="text-decoration: none;" href="{{ site.baseurl }}{{ post.url }}">
+        {{ post.title }}
+      </a></h2>
+
+      <p>{{ post.summary }}</p>
+      {% unless post.summary  %}
+        <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+      {% endunless %}
+
+      <time class="date" datetime="{{ post.date | date_to_xmlschema }}">
+          {{ post.date | date: "%B %-d, %Y" }} &middot;
+
+          {% assign words = post.content | number_of_words %}
+          {% if words < 360 %}
+            1 min
+          {% else %}
+            {{ words | divided_by:180 }} mins
+          {% endif %}
+          read &middot;
+
+          <a class="post" href="/category/{{post.category}}">{{ post.category | replace: "-", " " }}</a>
+      </time> 
+    </article>
+    {% endfor %}
+
+    <hr>
+    <h3 style="color: gray;">RECENT</h3>
+{% endif %}
+
+<!-- List recent posts -->
 {% for post in paginator.posts %}
 <article role="article">
   <h2><a style="text-decoration: none;" href="{{ site.baseurl }}{{ post.url }}">
