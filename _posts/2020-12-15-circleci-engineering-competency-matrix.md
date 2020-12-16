@@ -15,7 +15,8 @@ tags: [blog, outlier, success]
 
 ## Guidelines
 
-- Junior-Senior levels generally focus on engineers executing works while Staff-Principal levels focus on mentoring and guiding others in their work.
+- A numbered list is used for each theme, where the higher the number is, the higher seniority level one has. Usually, each is built on top of the previous one.
+- Junior-Senior levels generally focus on engineers executing works (number 1 and 2) while Staff-Principal levels focus on mentoring and guiding others in their work (number 3 and above).
 - Competencies scale through impact: task → project → milestone → team → across teams → organization.
 - Competencies also scale through increased frequency: sometimes → usually → always.
 
