@@ -54,7 +54,7 @@ Inhale through your nose and send the pressure to your stomach, not your chest o
 ## 5F
 
 1. Focus: Do not practice more than 2 exercises but really focus on masterting them, which are one-arm push up and pistol squat in this case.
-2. Flawless: Practice using these 5 conditions: significant external resistance, application of the High Tension and Power Breathing techniques, limiting the repetitions to 5 per set or less, approaching each set relatively fresh, and moving fairly slow.
+2. Flawless: Practice using these 5 conditions: significant external resistance, application of the High Tension and Power Breathing techniques, limiting the repetitions to 5 per set or less, approaching each set relatively fresh (rest 5-10 mins between sets), and moving fairly slow.
 3. Frequent: Since low reps are easier to recover from, the more frequent you practice, the stronger you become. It could be 6 times a week, in multiple mini sessions. Just make sure to avoid fatigue and overtraining.
 4. Fresh: Do as much as you can while staying fresh (doing too little slows down your progress while doing too much makes you sore and weak) and do not push to failure. Remember, strength is a skill, treat it as a practice, not a workout.
 5. Fluctuating: Put variety into the training. Constantly vary the sets, reps, and proximity to failure. Precede a strength test with one or two easy days and one day off. However, the less frequently you try for a PR, the better (every 2 weeks for beginner, every 2 months for experienced athlete).
