@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Get Startup Ideas by Paul Graham
-summary: Live in the future, build what seems interesting and turn of the schlep filter.
+summary: Live in the future, build what seems interesting, and turn of the schlep filter.
 category: Key-takeaways-from-important-reading
 tags: [blog, startup, idea]
 ---
