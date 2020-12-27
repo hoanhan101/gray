@@ -10,7 +10,7 @@ Hi friends,
 I'm Hoanh, a software engineer with a background in distributed systems. In my
 free time, I enjoy contributing to open-source projects, building and running personal ones.
 - I created [The Ultimate-Go Study Guide](https://github.com/hoanhan101/ultimate-go) to help
-people learn Go programming language better. The project now has over 13,000+ stars on GitHub
+people learn Go programming language better. The project now has over 14,000+ stars on GitHub
 and also has an [eBook version](https://gumroad.com/l/bpUYF) that has sold over 3,000 copies
 in the first month of August 2020.
 - I shared my [101+ Coding Interview Challenges](https://github.com/hoanhan101/algo) with 3,000+
