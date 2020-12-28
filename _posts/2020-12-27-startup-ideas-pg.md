@@ -27,7 +27,7 @@ The way to have good organic startup ideas is to become the sort of person who h
 
 > The way successful founders have had their ideas, it's generally the result of some external stimulus hitting a prepared mind. Bill Gates and Paul Allen hear about the Altair and think "I bet we could write a Basic interpreter for it." Drew Houston realizes he's forgotten his USB stick and thinks "I really need to make my files live online."
 
-Work on projects that seem like they'd be cool if exist. But don't feel like you have to build things that will become startups. That's premature optimization. Just build things. Microcomputers seemed like toys when Apple and Microsoft started working on them. Facebook was just a way for undergrads to stalk one another.
+Work on projects that seem like they'd be cool if exist. But don't feel like you have to build things that will become startups. That's premature optimization. Until you have some users to measure, you're optimizing based on guesses. Just build things. Microcomputers seemed like toys when Apple and Microsoft started working on them. Facebook was just a way for undergrads to stalk one another.
 
 While the real recipe is to live in the future and build what seems interesting, here are some tricks to come up with not-so organic ideas:
 - Look in areas where you have some expertise.
