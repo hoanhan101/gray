@@ -42,7 +42,7 @@ You want to be able to convince others of what you believe. This requires:
 ## Make it easy to take risks
 
 It's easier to take risks early in your career as you don't have much to lose and potentially a lot to gain.
-- Look for small bets where you lose 1x if you're wrong but 100x otherwise.
+- Look for small bets where you lose 1x if you're wrong but gain 100x otherwise.
 - Don't save up for too long.
 - Don't get used to a comfortable life and predictable job.
 - Keep your life cheap and flexible.
