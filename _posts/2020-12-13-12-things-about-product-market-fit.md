@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 12 Things about Product/Market Fit by Tren Griffin
+title: 12 Things About Product/Market Fit by Tren Griffin
 summary: Notes on why market comes first, the process behind product/market fit, common misconceptions, and how to get there.
 category: Key-takeaways-from-important-reading
 tags: [blog, product]

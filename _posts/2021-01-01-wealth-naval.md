@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How to get rich by Naval
-summary: Collection of Naval's principles on building wealth.
+title: How To Make Wealth by Naval Ravikant
+summary: Give society what it wants, but doesn't know how to get yet, at scale.
 category: Key-takeaways-from-important-reading
 tags: [blog, wealth]
 ---
@@ -99,7 +99,7 @@ A pragmatic approach to build up specific knowledge is to become top 5 at three 
 
 Building the product can include design, development, manufacturing, operating and so on. Selling it can include marketing, communicating, raising money and so on. Generally, the Silicon Valley startup model tends to work best where you have two founders, one is world class at selling, and the other is world class at building. It’s the magic combination.
 
-Start out with a building mentality and learn selling later because it's harder otherwise. Sales skills could mean in a different than traditional domain. For example, you are an engineer. You might not good at hand-to-hand sales but you're a good communicator that can leverage it for your sales. You might not good at writing but you're good at recruiting or fundraising.
+Start out with a building mentality and learn selling later because it's harder otherwise. Sales skills could mean in different than traditional domain. For example, you are an engineer. You might not good at hand-to-hand sales but you're a good communicator that can leverage it for your sales. You might not good at writing but you're good at recruiting or fundraising.
 
 ## Read what you love until you love to read
 
@@ -125,7 +125,7 @@ You can't learn about running a business by watching others do it or studying/re
 
 ## You need accountability to get leverage
 
-To get rich, you need to get leverage, which can come from labor (somebody works for you), capital (somebody gives you money), or code or media. To get these things, you need to up credibility by building these under your own name. Having accountability allows you to take credit when things go well but also take risk of failure, humiliation. You’re taking greater downside risk for greater upside. That is not bad in reality because even if you fail in public, you actually gain a lot of power. Look at people like Kanye, Oprah, Elon. They sometime fail big but they're are still very wealthy and powerful because their name are such powerful brandings.
+To get rich, you need to get leverage, which can come from labor (somebody works for you), capital (somebody gives you money), or code or media. To get these things, you need to build up credibility by building these under your own name. Having accountability allows you to take credit when things go well but also take risk of failure, humiliation. You’re taking greater downside risk for greater upside. That is not bad in reality because even if you fail in public, you actually gain a lot of power. Look at people like Kanye, Oprah, Elon. They sometime fail big but they're are still very wealthy and powerful because their name are such powerful brandings.
 
 Plus, you’re less replaceable if you have high accountability.
 
@@ -178,6 +178,44 @@ Step up, you're a massive developer. You're going to build entire communities. Y
 Step up, you build a real estate tech company. You now have specific knowledge in technology and in real estate. It's high risk, high accountability, with maximum leverage from code and media. You might end up with a Zillow kind of company and billions of dollars in value.
 
 > As you layer in more and more kinds of knowledge that can only be gained on the job and aren’t common knowledge, and you layer in more and more accountability and risk-taking, and you layer in more and more great people working on it and more and more capital on it, and more and more code and media on it, you keep expanding the scope of the opportunity all the way from the day-laborer, who might just literally be scrappling on the ground with their hands, all the way up to somebody who started a real estate tech company and then took it public.
+
+## Judgment is the most important skill
+
+> Warren Buffett is so wealthy now because of his judgment. Even if you were to take away all of Warren’s money, tomorrow, investors would come out of the woodwork and hand him a $100 billion because they know his judgment is so good, and they would give him a big chunk of that $100 billion to invest.
+
+Judgment is knowing the long-term consequences of your actions. It's very hard to build up where you need to combine both intellect and experience. Intellect without any experience is useless because you have no skin in the game, no real experience, no real accountability, you’re just throwing darts. That said, you need to iterate fast and smart, take 10,000 tries at something.
+
+The people with the best judgment are among the least emotional and often sounds like philosophers. They read and study everything, including a lot of philosophy. That make them more stoic, less emotional so they can make better decisions and have better judgment.
+
+## Set an aspirational hourly rate and stick to it
+
+> You can spend your life however you want. But if you want to get rich, it has to be your top priority. It has to come before anything else, which means you can’t penny-pinch. This is what people don’t understand. You can penny-pinch your way to basic sustenance. You can keep expenses low and maybe retire early. That’s perfectly valid. But we’re here to talk about wealth creation. If you’re going to create wealth, it has to be your number-one, overwhelming priority.
+
+No one is going to value you more than you value you. Your rate should seem and feel absurdly high. Start treating yourself that way. Factor your time into every decision. Let's say you value your time at $5,000 an hour. If you spend an hour driving across town to get something, you’re effectively throwing away $5,000. Are you going to do that?
+
+## Work as hard as you can
+
+Before going to work as hard as you can, make sure you pick the right area to work in and the right people to work with because these 2 matters more than how hard you work.
+
+> When you’re building a business, or a career, first figure out: “What should I be doing? Where is a market emerging? What’s a product I can build that I’m excited to work on, where I have specific knowledge?”
+
+No one works 80 hours a week with mental clarity. The way they tend to work most effectively is to work as hard as they can while they feel inspired to work and take long breaks. When they have inspiration, they act on it immediately, as quickly as they can and with their full attention. Also, be patience with results because they're dealing with complex systems and a lot of people.
+
+> "We get these questions a lot from the enterprising young. It's a very intelligent question: You look at some old guy who's rich and you ask, 'How can I become like you, except faster?' Spend each day trying to be a little wiser than you were when you woke up. Discharge your duties faithfully and well. Step by step you get ahead, but not necessarily in fast spurts. But you build discipline by preparing for fast spurts... Slug it out one inch at a time, day by day, at the end of the day - if you live long enough - most people get what they deserve." - Charlie Munger
+
+Ruthlessly decline meetings. Only meet when it's absolutely necessary, with strict agenda, when you have something important and valuable to discuss. When you think that you're not networking enough to "make it", you're wrong. When you have hope for that lucky break, you're replying on the first 2 kinds of luck mentioned above. You want to focus on the 3th and 4th kinds because they're better. You spend time developing a reputation, unique point of view so they are able to spot opportunities that others can’t.
+
+## Keep redefining what you do until you’re the best at what you do
+
+You want to be number one at whatever you do. You can get paid for just being you. No one can compete with you on being you.
+
+## The best founders listen to everyone but make up their own mind
+
+What make a person successful might not apply to you. You can't take their exact circumstance and map it onto yours. You listen to advices but you also examine them, make up your own mind and your own point of view.
+
+## When you’re wealthy, you’ll realize it wasn't what you were seeking in the first place
+
+Money will solve all your money problems, but it doesn't get you everywhere. Even if you have all the money in the world, you can't have a fit body, a calm mind, and good relationships if you don't work on them. You'll realize that they can bring a lot of peace and happiness than any amount of money ever will.
 
 <hr>
 **References:**

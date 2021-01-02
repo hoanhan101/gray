@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Grow and Level Up as a Software Engineer
+title: How To Grow And Level Up As A Software Engineer
 summary: Based on CircleCI Engineering Competency Matrix, let's learn more about different growth opportunities as well as how we can level up our career.
 category: Key-takeaways-from-important-reading
 tags: [blog, outlier, success]
