@@ -21,9 +21,11 @@ Money is how we transfer wealth, not wealth itself. It's social credits, meaning
 
 ## Make abundance for the world
 
-Wealth isn't about taking money or something from somebody else but creating abundance.
+Wealth isn't about taking money or something from somebody else but creating abundance. Make something lots of people want.
 
 > Everybody can be wealthy. Everybody can be retired. Everybody can be successful. It is merely a question of education and desire. You have to want it. If you don’t want it, that’s fine. Then you opt out of the game.
+
+For example, the thing that makes Bitcoin interesting is not that it's the best technology but it has the most diehard fan out there. As long as there are believers, like a movement or a religion, it's a currency. If the world decide that Bitcoin is better than US dollars, it would switch to Bitcoin. It's a consensus belief.
 
 ## Making money isn't about luck
 
@@ -66,7 +68,7 @@ You can find your audience on the internet, on any niche, build a business, crea
 
 What industries should you work in? What kind of job should you should have? Who do you might want to work with? Pick one where you can play long-term games with long-term people because they're good with compound interest and with trust. In a long-term game, everyone is making each other rich while in a short-term one, they are making themselves rich.
 
-Not just wealth but all returns in life, whether in wealth, relationships, or knowledge come from compound interest. The fitter you are, the easier it is to stay fit, the better you are at keeping yourself fit.
+Not just wealth but all returns in life, whether in wealth, relationships, or knowledge, come from compound interest. A good hack is to find the thing that you like play to you (but work to other) that you can do long term. For example, you can find a healthy food that you enjoy and eat them regularly. You can find an good exercise routine that you can do every day or every other day so that it becomes a part of your life. Hacking on some code that you enjoy is more productive than playing video games. That said, finding the things that make the long term feel effortless to you is the key to winning.
 
 ## Pick business partners with high intelligence, energy and integrity
 
@@ -185,7 +187,9 @@ Step up, you build a real estate tech company. You now have specific knowledge i
 
 Judgment is knowing the long-term consequences of your actions. It's very hard to build up where you need to combine both intellect and experience. Intellect without any experience is useless because you have no skin in the game, no real experience, no real accountability, you’re just throwing darts. That said, you need to iterate fast and smart, take 10,000 tries at something.
 
-The people with the best judgment are among the least emotional and often sounds like philosophers. They read and study everything, including a lot of philosophy. That make them more stoic, less emotional so they can make better decisions and have better judgment.
+Another hard part to judgement is not the learning itself but the unlearning. Adding to what you know is easy but unlearning your opinons is hard. It's the beginner mind that every great person has. You have to be willing to hit reset and start from scratch.
+
+Judgment comes from clear thinking. Clear thinking comes from having time to reflect and to pursue your genuine intellectual curiosity. Some of the greatest investors think most of the time. They read and study everything, including a lot of philosophy. That make them more stoic, less emotional so they can make better decisions and have better judgment.
 
 ## Set an aspirational hourly rate and stick to it
 
@@ -217,6 +221,9 @@ What make a person successful might not apply to you. You can't take their exact
 
 Money will solve all your money problems, but it doesn't get you everywhere. Even if you have all the money in the world, you can't have a fit body, a calm mind, and good relationships if you don't work on them. You'll realize that they can bring a lot of peace and happiness than any amount of money ever will.
 
+After all, your life is short. You should enjoy yourself.
+
 <hr>
 **References:**
 - <https://nav.al/rich>
+- <https://tim.blog/2020/10/15/naval-transcript/>
