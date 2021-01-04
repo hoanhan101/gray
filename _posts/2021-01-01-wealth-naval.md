@@ -52,7 +52,7 @@ You want a job, or a career, or a profession where your inputs don’t match you
 
 ## Live below your means
 
-When you become more a bit more wealthy, you don't want to upgrade your lifestyle too fast. Ideally you want to make your money in discrete lumps, separated over long periods of time so that your lifestyle does not have a chance to adapt quickly.
+When you become a bit more wealthy, you don't want to upgrade your lifestyle too fast. Ideally you want to make your money in discrete lumps, separated over long periods of time so that your lifestyle does not have a chance to adapt quickly.
 
 ## Give society what it wants, but doesn't know how to get at scale
 
@@ -68,7 +68,7 @@ You can find your audience on the internet, on any niche, build a business, crea
 
 What industries should you work in? What kind of job should you should have? Who do you might want to work with? Pick one where you can play long-term games with long-term people because they're good with compound interest and with trust. In a long-term game, everyone is making each other rich while in a short-term one, they are making themselves rich.
 
-Not just wealth but all returns in life, whether in wealth, relationships, or knowledge, come from compound interest. A good hack is to find the thing that you like play to you (but work to other) that you can do long term. For example, you can find a healthy food that you enjoy and eat them regularly. You can find an good exercise routine that you can do every day or every other day so that it becomes a part of your life. Hacking on some code that you enjoy is more productive than playing video games. That said, finding the things that make the long term feel effortless to you is the key to winning.
+Not just wealth but all returns in life, whether in wealth, relationships, or knowledge, come from compound interest. A good hack is to find the thing that feel like playing to you (but work to other) that you can do long term. For example, you can find a healthy food that you enjoy and eat them regularly. You can find an good exercise routine that you can do every day or every other day so that it becomes a part of your life. Hacking on some code that you enjoy is more productive than playing video games. That said, finding the things that make the long term feel effortless to you is the key to winning.
 
 ## Pick business partners with high intelligence, energy and integrity
 
