@@ -199,7 +199,7 @@ No one is going to value you more than you value you. Your rate should seem and 
 
 ## Work as hard as you can
 
-Before going to work as hard as you can, make sure you pick the right area to work in and the right people to work with because these 2 matters more than how hard you work.
+If getting wealthy is your goal, you’re going to have to work as hard as you can. However, before doing that, make sure you pick the right area to work in and the right people to work with because these 2 matters more than how hard you work.
 
 > When you’re building a business, or a career, first figure out: “What should I be doing? Where is a market emerging? What’s a product I can build that I’m excited to work on, where I have specific knowledge?”
 
