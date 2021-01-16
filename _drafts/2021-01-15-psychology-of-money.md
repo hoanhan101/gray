@@ -5,7 +5,6 @@ summary: TODO
 category: Key-takeaways-from-important-reading
 tags: [book, wealth, greed, happiness]
 ---
-
 <h2> Table of Contents </h2>
 
 * TOC
@@ -75,11 +74,45 @@ By 1990s and 2000, Heinz Berggruen became one of the most successful art dealers
 
 > “It is not intuitive that an investor can be wrong half the time and still make a fortune. It means we underestimate how normal it is for a lot of things to fail. Which causes us to overreact when they do.”
 
-Anything that is huge, profitable, influential is the result of a long-tail event. Take venture capital for example. If a VC makes 50 investments, expects half to fail, 10 to make 10-20x return, 1-2 to make 50x or more. This is actually the same for large public companies as most of them are duds, a few do well, and a handful become extraordinary that account for the majority of the market's return. It's the tails that drive everything.
+Anything that is huge, profitable, influential is the result of a long-tail event. Take venture capital for example. A VC makes 50 investments, expects half to fail, 10 to make 10-20x return, 1-2 to make 50x or more. This is actually the same for large public companies as most of them are duds, a few do well, and a handful become extraordinary that account for the majority of the market's return. It's the tails that drive everything.
 
-So what should you do right now? What stocks should you buy today? Well, it doesn't matter. Over the course of your lifetime, your decision that you make today, tomorrow or next week will not matter as much as what you do during the small number of days when everyone around is going crazy. For example, if you invest $1 consistently from 1900 to 2019, whether it's a recession or bear market, you could end up with the most money compared to whom invest only when a recession ends or sells when a recession begins. You can fail a lot of times but still end up making more. Warren Buffet owned 400-500 stocks but made most of his money on 10 of them.
+So what should you do right now? What stocks should you buy today? Well, it doesn't matter. Over the course of your lifetime, your decision that you make today, tomorrow or next week will not matter as much as what you do during the small number of days when everyone around is going crazy. For example, if you invest $1 consistently from 1900 to 2019, whether it's a recession or bear market, you could end up with the most money compared to whom invest only when a recession ends or sells when a recession begins. You can fail a lot of times but still end up making more since each stock's return is not equal to each other. Warren Buffet owned 400-500 stocks but made most of his money on 10 of them.
 
 > “It’s not whether you’re right or wrong that’s important,” George Soros once said, “but how much money you make when you’re right and how much you lose when you’re wrong.” You can be wrong half the time and still make a fortune."
+
+## The highest form of wealth is freedom.
+
+It's the ability to wake up everyday and do whatever you want, when you want, with whom you want, for as long as you want. 
+
+The common denominator in happiness is that people want to control their lives. Money has the ability to give you that control. Building wealth means the ability to take a few days of work without breaking the bank, having shorter commute, dealing with a medical emergency without the added burden of worrying about how you’ll pay for it and eventually retiring when you want to.
+
+## Humility, kindness, empathy will bring you respect, not fancy things.
+
+> "People tend to want wealth to signal to others that they should be liked and admired. But in reality those other people often bypass admiring you, not because they don’t think wealth is admirable, but because they use your wealth as a benchmark for their own desire to be liked and admired."
+
+People generally aspire to be respected and admired by others. Using money to buy fancy things might bring less of it than you imagine. Instead, humility, kindness, and empathy will bring you more respect than any fast cars ever will.
+
+## Building wealth has little to do with your income or investment returns and lots to do with your saving rate.
+
+Investment returns can make you rich but whether it will work and how long it will work for is always in doubt. Personal savings and frugality are more in your control. Also, the value of wealth is relative to what you need. Say you and I have the same net worth. You are a better investor since you earn 12% annual returns while I only earn 8%. However, I'm more efficient with my money since I need half as much to be happy while your lifestyle compounds as fast as your assets.
+
+## Things that have never happened before happen all the time.
+
+History offers a rough guide of what tends to work and what not. But it's not a map of the future. Two dangerous things happen when you reply too heavily on investment history as a guide to what happen next:
+- The most important events are not yet happened and they are what move the needle in the economy the most.
+- History can be misleading because it might not be relevant in today's world. VC barely existed 25 years ago. Thee S&P 500 did not include financial stock until 1976. Technology stock were nonexistent 50 years ago. The Intelligent Investor is one of the greatest books of all time even though most of its advices do not work in today's time.
+
+You can plan for every risk except ones that are too crazy to cross your mind. Those crazy things can do the most harm and they happen more frequently than you think.
+
+## Always leave room for errors.
+
+> “The wisdom in having room for error is acknowledging that uncertainty, randomness, and chance, "unknowns", are an ever-present part of life. The only way to deal with them is by increasing the gap between what you think will happen and what can happen while still leaving you capable of fighting another day.”
+
+Benjamin Graham calls it margin of safety, or room for errors. Instead of viewing the word as black or white, predictable or a crapshoot, view it as a gray area and pursue things where a range of potential outcomes are acceptable. It's often misunderstood as a conservative move, used by those who don't want to take much risk. However, when room for errors is used appropriately, it lets you endure a range of potential outcomes, and endurance lets you stick around long enough to let the odds of benefiting from a low-probability outcome fall in your favor. The biggest gains happen infrequently either because they don't happen often or they take time to compound.
+
+> “Bill Gates understood this well. When Microsoft was a young company, he said he “came up with this incredibly conservative approach that I wanted to have enough money in the bank to pay a year’s worth of payroll even if we didn’t get any payments coming in.” Warren Buffett expressed a similar idea when he told Berkshire Hathaway shareholders in 2008: “I have pledged—to you, the rating agencies and myself—to always run Berkshire with more than ample cash ... When forced to choose, I will not trade even a night’s sleep for the chance of extra profits.”
+
+In short, you have to take risk to get ahead but no risk that can wipe you out is ever worth taking. Not only an event of wiping out leaves you broke, it also erases every opportunity to get back in the game at the moment opportunity is ripe.
 
 <hr>
 **References:**
