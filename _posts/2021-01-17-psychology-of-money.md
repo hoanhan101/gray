@@ -18,11 +18,11 @@ tags: [book, wealth, greed, happiness]
 We all come from different generations, backgrounds and have our own unique experience with how the world works. What seems crazy to other people might make sense to you. For example:
 - Stocks: If you were born in 1970, the S&P 500 increased almost 10-fold during your 20s. However, if you were born in 1950, the market had only about 0-2x returns in your 20s.
 - Lottery tickets: The lowest income households in the US spend 4 more times of those in highest income group per year. If you're not in the lowest income group, it seems crazy to you. However, they live paycheck to paycheck, can't afford most things but are hopeful for a life-changing dream. To them, the definition of being wealthy is the life you're taking for granted.
-- Working condition of Foxconn: For American, it was long hours, small wage, poor working condition. For Chinese workers, it was an improvement as they would rather be “exploited” by an evil capitalist boss rather than have their bodies be exploited by several men for pennies (prostitution).
+- Working condition of Foxconn: For American, it was long hours, small wage, poor working condition. For Chinese workers, it was an improvement as they would rather be “exploited” by an evil capitalist boss rather than having their bodies be exploited by several men for pennies (prostitution).
 
 ## Risk and luck are doppelgangers.
 
-Let's talk about Bill Gates. He went to Lakeside, one of the only high schools in the world that had a computer. Additionally, most university graduate school did not have a computer as advanced as he had in 8th grade. Then, he and Paul Allen was obsessed with it, spent night and weekends hacking. They were smart, curious, hardworking, and ambitious. Now, Kent Evans was Bill's best friend. They were much alike: smart, had business minds and endless ambition. He could be a founding partner with Gates and Allen but it would never happen because he died in a mountaineering accident. While Bill experienced one in a million luck by ending up at Lakeside, Kent experienced one in a million risk - the odd of being killed on a mountain in high school. Both are hard to measure, accept, that they often overlooked.
+Let's talk about Bill Gates. He went to Lakeside, one of the only high schools in the world that had a computer. Additionally, most university graduate school did not have a computer as advanced as he had in 8th grade. Then, he and Paul Allen was obsessed with it, spent night and weekends hacking. They were smart, curious, hardworking, and ambitious. Now, Kent Evans was Bill's best friend. He waw smart, had business mind and endless ambition. He could be a founding partner with Gates and Allen but it would never happen because he died in a mountaineering accident. While Bill experienced one in a million luck by ending up at Lakeside, Kent experienced one in a million risk - the odd of being killed on a mountain in high school. Both are hard to measure, accept, that they often overlooked.
 
 While luck actually plays a role in financial success, it's hard to quantify it and rude to suggest people's success is owed to it. On the other side, failure is equally overlooked. Say I buy a stock and 5 years later its' gone nowhere. Now, it's possible that I made a good decision that has 80% chance of making money but I happen to end up on the unfortunate 20%. Just as with luck, failure is too complex to pick apart how much of an outcome is a conscious decision versus a risk. They are doppelgangers:
 - Benjamin Graham's investing success was due to owning an enormous chunk of GEICO stock which broke nearly every diversification rule that he laid out in his famous text.
@@ -119,7 +119,7 @@ In short, you have to take risk to get ahead but no risk that can wipe you out i
 
 ## People are poor forecasters of their future selves.
 
-Imagine a goal is easy and fun. Imagine a goal in the context of life stresses is different. For example, a five-year-old boy wants to drive a tractor when he grows up but then realizes later that that isn't the best career. He wants something more lucrative, like a lawyer. He then faces such long working hours that he rarely sees his family. He wants to take a lower-paying job with flexible hours. However, childcare is expensive so he becomes a stay-at-home father. At age 70, he realizes that he's not prepared to afford retirement.
+Imagine a goal is easy and fun. Imagine a goal in the context of life stresses is different. For example, a five-year-old boy wants to drive a tractor when he grows up but then realizes later that it isn't the best career. He wants something more lucrative, like a lawyer. He then faces such long working hours that he rarely sees his family. He wants to take a lower-paying job with flexible hours. However, childcare is expensive so he becomes a stay-at-home father. At age 70, he realizes that he's not prepared to afford retirement.
 
 Things change as your goals and desires. It's hard to make enduring long-term decisions when your view can shift. So then, how do you apply the compounding rule? How do you not interrupt your investment when what you want changes? How do we listen to Buffet to keep doing the same thing for decades and let the compounding runs wild then? There is no easy solution, but keep in mind these 2 things:
 - When you consider your tendency to change over time, at every point of your life, avoid future regret and encourage endurance by avoiding the extreme ends. Aim to have moderate annual saving, moderate free time, moderate time with family and so on.
@@ -131,7 +131,7 @@ The S&P 500 increased 119-fold in the 50 years ending 2018. All you had to do wa
 
 The price of successful investing is accepting volatility and upheaval. You can find an asset with less uncertainty and a lower payoff, or attempt to perform tricks to get the return without paying the price by selling before the next recession and buying before the boom. However, sometimes you get away with it, sometimes you get caught.
 
-Why is it so hard? Because the price of successful investing is not immediately obvious. Market volatility feels like a fine that you should avoid. However, a trick is to view it like a entrance fee that you have to pay to enter. It's worth paying in order to expect good returns.
+Why is it so hard? Because the price of successful investing is not immediately obvious. Market volatility feels like a fine that you should avoid. However, a trick is to view it like an entrance fee that you have to pay to enter. It's worth paying in order to expect good returns.
 
 ## Investors often innocently take cues from other investors who are playing a different game than they are.
 
@@ -140,7 +140,7 @@ How much should you pay for Google stock today? Are you looking to cash out with
 - 10 years: Analyze the tech industry over the next decade and whether Google can execute its vision.
 - 1 year: Pay attention to Google's current product sale cycles and whether we'll have a bear market.
 
-When investors have different goals and time horizon, prices that look crazy to one person can make sense to another. Take a look at Yahoo's stock in the dotcom bubble 1999. To many short-term investors, it made sense for them to pay a ridiculous high price. Bubbles form when the momentum of short-term returns attracts enough money that the makeup of investors shifts from mostly long term to mostly short term. In other words, bubbles are not about valuation rising but time horizon sinking as more short-term traders enter the field. They were not thinking about the next 20 years but the next days or months. They were not irrational or irresponsible at all. Matter of facts, they were really rational about chasing short-term gains. However, this created problem for long-term investors. The price was high, other people were buying it so they thought it was smart to go along. Unfortunately, it was too expensive to hold for the long run.
+When investors have different goals and time horizon, prices that look crazy to one person can make sense to another. Take a look at Yahoo's stock in the dotcom bubble 1999. To many short-term investors, it made sense for them to pay for a ridiculously high price. Bubbles form when the momentum of short-term returns attracts enough money that the makeup of investors shifts from mostly long term to mostly short term. In other words, bubbles are not about valuation rising but time horizon sinking as more short-term traders enter the field. They were not thinking about the next 20 years but the next days or months. They were not irrational or irresponsible at all. Matter of facts, they were really rational about chasing short-term gains. However, this created problem for long-term investors. The price was high, other people were buying it so they thought it was smart to go along. Unfortunately, it was too expensive to enter and hold for the long run.
 
 Again, make sure you know what game you're playing. Do not be persuaded by the actions and behaviours of people playing different games than you are.
 
@@ -151,7 +151,7 @@ Again, make sure you know what game you're playing. Do not be persuaded by the a
 There is a couple of reasons why financial pessimism is easy, common, and more persuasive than optimism:
 - Money is ubiquitous as a recession could impact every single person.
 - Assuming that something ugly will stay ugly is an easy forecast to make and persuasive because it doesn't imagining the world changing and people adapting.
-- Progress happens too slowly to notice (years long) while setbacks, failures, happens to quickly to ignore (overnight).
+- Progress happens too slowly to notice (years long) while setbacks and failures happen to quickly to ignore (overnight).
 
 ## Stories are the most powerful force in the economy.
 
