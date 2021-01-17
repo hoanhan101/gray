@@ -1,10 +1,11 @@
 ---
 layout: post
 title: The Psychology of Money by Morgan Housel
-summary: TODO
+summary: Doing well with money has a little to do with how smart you are and a lot to do with how you behave.
 category: Key-takeaways-from-important-reading
 tags: [book, wealth, greed, happiness]
 ---
+
 <h2> Table of Contents </h2>
 
 * TOC
@@ -96,6 +97,8 @@ People generally aspire to be respected and admired by others. Using money to bu
 
 Investment returns can make you rich but whether it will work and how long it will work for is always in doubt. Personal savings and frugality are more in your control. Also, the value of wealth is relative to what you need. Say you and I have the same net worth. You are a better investor since you earn 12% annual returns while I only earn 8%. However, I'm more efficient with my money since I need half as much to be happy while your lifestyle compounds as fast as your assets.
 
+Less ego, more wealth.
+
 ## Things that have never happened before happen all the time.
 
 History offers a rough guide of what tends to work and what not. But it's not a map of the future. Two dangerous things happen when you reply too heavily on investment history as a guide to what happen next:
@@ -112,7 +115,49 @@ Benjamin Graham calls it margin of safety, or room for errors. Instead of viewin
 
 > “Bill Gates understood this well. When Microsoft was a young company, he said he “came up with this incredibly conservative approach that I wanted to have enough money in the bank to pay a year’s worth of payroll even if we didn’t get any payments coming in.” Warren Buffett expressed a similar idea when he told Berkshire Hathaway shareholders in 2008: “I have pledged—to you, the rating agencies and myself—to always run Berkshire with more than ample cash ... When forced to choose, I will not trade even a night’s sleep for the chance of extra profits.”
 
-In short, you have to take risk to get ahead but no risk that can wipe you out is ever worth taking. Not only an event of wiping out leaves you broke, it also erases every opportunity to get back in the game at the moment opportunity is ripe.
+In short, you have to take risk to get ahead but no risk that can wipe you out is ever worth taking. Not only an event of wiping out leaves you broke, it also erases every opportunity to get back in the game at the moment opportunity is ripe. Manage your money in a way that helps you sleep at night.
+
+## People are poor forecasters of their future selves.
+
+Imagine a goal is easy and fun. Imagine a goal in the context of life stresses is different. For example, a five-year-old boy wants to drive a tractor when he grows up but then realizes later that that isn't the best career. He wants something more lucrative, like a lawyer. He then faces such long working hours that he rarely sees his family. He wants to take a lower-paying job with flexible hours. However, childcare is expensive so he becomes a stay-at-home father. At age 70, he realizes that he's not prepared to afford retirement.
+
+Things change as your goals and desires. It's hard to make enduring long-term decisions when your view can shift. So then, how do you apply the compounding rule? How do you not interrupt your investment when what you want changes? How do we listen to Buffet to keep doing the same thing for decades and let the compounding runs wild then? There is no easy solution, but keep in mind these 2 things:
+- When you consider your tendency to change over time, at every point of your life, avoid future regret and encourage endurance by avoiding the extreme ends. Aim to have moderate annual saving, moderate free time, moderate time with family and so on.
+- Accept the reality of change and move on as soon as possible. Don't let old decision make you prisoner to your past.
+
+## Every job looks easy when you’re not the one doing it.
+
+The S&P 500 increased 119-fold in the 50 years ending 2018. All you had to do was sit back and let your money compound. But is it easy? Do you know how hard it is to maintain a long-term outlook when stocks are collapsing? It looks easy when you're not the one doing it. Sometimes, this is because we're overconfident. Most of the time, we're not good at identifying the price of success, which prevents us from being able to pay it.
+
+The price of successful investing is accepting volatility and upheaval. You can find an asset with less uncertainty and a lower payoff, or attempt to perform tricks to get the return without paying the price by selling before the next recession and buying before the boom. However, sometimes you get away with it, sometimes you get caught.
+
+Why is it so hard? Because the price of successful investing is not immediately obvious. Market volatility feels like a fine that you should avoid. However, a trick is to view it like a entrance fee that you have to pay to enter. It's worth paying in order to expect good returns.
+
+## Investors often innocently take cues from other investors who are playing a different game than they are.
+
+How much should you pay for Google stock today? Are you looking to cash out within:
+- 30 years: Analyze Google's discounted cash flows over the next 30 years.
+- 10 years: Analyze the tech industry over the next decade and whether Google can execute its vision.
+- 1 year: Pay attention to Google's current product sale cycles and whether we'll have a bear market.
+
+When investors have different goals and time horizon, prices that look crazy to one person can make sense to another. Take a look at Yahoo's stock in the dotcom bubble 1999. To many short-term investors, it made sense for them to pay a ridiculous high price. Bubbles form when the momentum of short-term returns attracts enough money that the makeup of investors shifts from mostly long term to mostly short term. In other words, bubbles are not about valuation rising but time horizon sinking as more short-term traders enter the field. They were not thinking about the next 20 years but the next days or months. They were not irrational or irresponsible at all. Matter of facts, they were really rational about chasing short-term gains. However, this created problem for long-term investors. The price was high, other people were buying it so they thought it was smart to go along. Unfortunately, it was too expensive to hold for the long run.
+
+Again, make sure you know what game you're playing. Do not be persuaded by the actions and behaviours of people playing different games than you are.
+
+## Financial pessimism is easy, common, and more persuasive than optimism.
+
+> "If a smart person tells me they have a stock pick that’s going to rise 10-fold in the next year, I will immediately write them off as full of nonsense. If someone who’s full of nonsense tells me that a stock I own is about to collapse because it’s an accounting fraud, I will clear my calendar and listen to their every word. Say we’ll have a big recession and newspapers will call you. Say we’re headed for average growth and no one particularly cares. Say we’re nearing the next Great Depression and you’ll get on TV. But mention that good times are ahead, or markets have room to run, or that a company has huge potential, and a common reaction from commentators and spectators alike is that you are either a salesman or comically aloof of risks."
+
+There is a couple of reasons why financial pessimism is easy, common, and more persuasive than optimism:
+- Money is ubiquitous as a recession could impact every single person.
+- Assuming that something ugly will stay ugly is an easy forecast to make and persuasive because it doesn't imagining the world changing and people adapting.
+- Progress happens too slowly to notice (years long) while setbacks, failures, happens to quickly to ignore (overnight).
+
+## Stories are the most powerful force in the economy.
+
+The more you want something to be true, the more likely you are to believe a story that overestimates the odds of it being true. Especially, when you desperately need a solution and a good one isn’t known or readily available to you, you will believe anything. People listen to investment commentaries and financial advices that have little track record of success because they want to believe that 1% chance will come true and change their lives. In hindsight, Bernie Madoff's Ponzi scheme was obvious. However, he told a good story and people wanted to believe it. If you want a certain stock to return 10x, you're more likely to believe that's true. So be aware. Make sure you leave room for errors.
+
+Everyone has an incomplete view of the world but we form a complete narrative to fill in the gaps. The ability to explain the past/history gives us an illusion that the world is understandable, even when it doesn't make sense. When a stock rises you might an explanation for it but that might not necessarily true. Your ability to predict recessions isn't much better. However, there's still tremendous demand for forecasts because we need to believe we live in a predicable world.
 
 <hr>
 **References:**
