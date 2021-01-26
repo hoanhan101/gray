@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Get Startup Ideas by Paul Graham
-summary: Live in the future, build what seems interesting, and turn of the schlep filter.
+summary: The very best startup ideas tend to have three things in common: they're something the founders themselves want, that they themselves can build, and that few others realize are worth doing.
 category: Key-takeaways-from-important-reading
 tags: [blog, startup, idea]
 ---
