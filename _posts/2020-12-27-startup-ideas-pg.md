@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Get Startup Ideas by Paul Graham
-summary: The very best startup ideas tend to have three things in common: they're something the founders themselves want, that they themselves can build, and that few others realize are worth doing.
+summary: The very best startup ideas are something the founders themselves want, that they themselves can build, and that few others realize are worth doing.
 category: Key-takeaways-from-important-reading
 tags: [blog, startup, idea]
 ---
