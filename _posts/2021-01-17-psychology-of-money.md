@@ -52,6 +52,8 @@ Buffet is the richest investor of all time, not the greatest when measured by av
 
 Compound isn't always intuitive and we often ignore its potential. Plus, good investing isn't necessarily about earning the highest return because the highest one tend to be one-off hits that can't be repeated. It's about earning a pretty good return which you can stick with for the longest period of time and let the compounding runs wild.
 
+> “The first rule of compounding: Never interrupt it unnecessarily." - Charlie Munger
+
 ## Getting wealthy and staying wealthy are two different skills.
 
 Getting wealthy requires taking risks and being optimistic while staying wealthy requires the opposite of taking risk:
