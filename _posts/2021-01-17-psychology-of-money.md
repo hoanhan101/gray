@@ -48,7 +48,7 @@ Now, at some point in your life, you will have a sum of money sufficient to cove
 
 > “More than 2,000 books are dedicated to how Warren Buffett built his fortune. Many of them are wonderful. But few pay enough attention to the simplest fact: Buffett’s fortune isn’t due to just being a good investor, but being a good investor since he was literally a child.”
 
-Buffet is the richest investor of all time, not the greatest when measured by average annual return. Jim Simons, has compounded money at 66% annually since 1988 while Buffet's is at 22%. However, Jim's net worth is not as big as Buffet because he's had less than haft as many years to compound as Buffet. That said, Buffet's secret is compound interest with time. He's been investing consistently for 3 quarters of a century.
+Buffet is the richest investor of all time, not the greatest when measured by average annual return. Jim Simons, has compounded money at 66% annually since 1988 while Buffet's is at 22%. However, Jim's net worth is not as big as Buffet because he's had less than haft as many years to compound as Buffet. Buffet's secret is compound interest with time as he's been investing consistently for 3 quarters of a century. That said, it’s time in the market that builds returns, not market timing.
 
 Compound isn't always intuitive and we often ignore its potential. Plus, good investing isn't necessarily about earning the highest return because the highest one tend to be one-off hits that can't be repeated. It's about earning a pretty good return which you can stick with for the longest period of time and let the compounding runs wild.
 
